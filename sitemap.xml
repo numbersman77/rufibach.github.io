@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://www.kasparrufibach.ch/publication/</loc>
+    <loc>https://www.kasparrufibach.ch/publication/stats_articles/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,6 +88,11 @@
   
   <url>
     <loc>https://www.kasparrufibach.ch/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kasparrufibach.ch/publication/</loc>
     <priority>0</priority>
   </url>
   
