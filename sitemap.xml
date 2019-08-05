@@ -4,53 +4,7 @@
   
   <url>
     <loc>https://www.kasparrufibach.ch/publication_types/2/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/kaspar-rufibach/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/lutz-dumbgen/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stat2/2009-01-01_maximum_likelihood_e/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication_types/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/others/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,13 +21,19 @@
   </url>
   
   <url>
+    <loc>https://www.kasparrufibach.ch/authors/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kasparrufibach.ch/authors/bernhard-pestalozzi/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kasparrufibach.ch/publication/stat1/2004-01-01_concomitant_cisplati/</loc>
+    <loc>https://www.kasparrufibach.ch/publication/stats1/2004-01-01_concomitant_cisplati/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -96,6 +56,18 @@
   </url>
   
   <url>
+    <loc>https://www.kasparrufibach.ch/authors/kaspar-rufibach/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kasparrufibach.ch/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kasparrufibach.ch/authors/mahmut-ozsahin/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -108,7 +80,24 @@
   </url>
   
   <url>
+    <loc>https://www.kasparrufibach.ch/publication_types/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kasparrufibach.ch/publication/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.kasparrufibach.ch/authors/stephan-schmid/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kasparrufibach.ch/authors/others/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

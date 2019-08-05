@@ -5,7 +5,7 @@
     <link>https://www.kasparrufibach.ch/authors/others/</link>
       <atom:link href="https://www.kasparrufibach.ch/authors/others/index.xml" rel="self" type="application/rss+xml" />
     <description>{others}</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
       <title>{others}</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Maximum likelihood estimation of a log-concave density and its distribution function: Basic properties and uniform consistency</title>
-      <link>https://www.kasparrufibach.ch/publication/stat2/2009-01-01_maximum_likelihood_e/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stat2/2009-01-01_maximum_likelihood_e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Concomitant cisplatin significantly improves locoregional control in advanced head and neck cancers treated with hyperfractionated radiotherapy</title>
-      <link>https://www.kasparrufibach.ch/publication/stat1/2004-01-01_concomitant_cisplati/</link>
+      <link>https://www.kasparrufibach.ch/publication/stats1/2004-01-01_concomitant_cisplati/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stat1/2004-01-01_concomitant_cisplati/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/stats1/2004-01-01_concomitant_cisplati/</guid>
       <description></description>
     </item>
     
