@@ -5,20 +5,12 @@
     <link>https://www.kasparrufibach.ch/tags/</link>
       <atom:link href="https://www.kasparrufibach.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://www.kasparrufibach.ch/tags/</link>
     </image>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>https://www.kasparrufibach.ch/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/tags/source-themes/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Deep Learning</title>
