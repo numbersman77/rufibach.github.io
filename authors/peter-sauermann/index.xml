@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Sauermann | Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/authors/peter-sauermann/</link>
+      <atom:link href="https://www.kasparrufibach.ch/authors/peter-sauermann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Sauermann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
+      <title>Peter Sauermann</title>
+      <link>https://www.kasparrufibach.ch/authors/peter-sauermann/</link>
+    </image>
+    
+    <item>
+      <title>Is there a role for tamsulosin in the treatment of distal ureteral stones of 7 mm or less? Results of a randomised, double-blind, placebo-controlled trial</title>
+      <link>https://www.kasparrufibach.ch/publication/2009-01-01_is_there_a_role_for_/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/2009-01-01_is_there_a_role_for_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

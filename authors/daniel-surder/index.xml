@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Surder | Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/authors/daniel-surder/</link>
+      <atom:link href="https://www.kasparrufibach.ch/authors/daniel-surder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Surder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
+      <title>Daniel Surder</title>
+      <link>https://www.kasparrufibach.ch/authors/daniel-surder/</link>
+    </image>
+    
+    <item>
+      <title>Intracoronary injection of bone marrow--derived mononuclear cells early or late after acute myocardial infarction: Effects on global left ventricular function</title>
+      <link>https://www.kasparrufibach.ch/publication/2013-01-01_intracoronary_inject/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/2013-01-01_intracoronary_inject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors for efficacy of percutaneous mitral valve repair using the MitraClip system: the results of the MitraSwiss registry</title>
+      <link>https://www.kasparrufibach.ch/publication/2013-01-01_predictors_for_effic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/2013-01-01_predictors_for_effic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-based therapy for myocardial repair in patients with acute myocardial infarction: rationale and study design of the SWiss multicenter Intracoronary Stem cells Study in Acute Myocardial Infarction (SWISS-AMI)</title>
+      <link>https://www.kasparrufibach.ch/publication/2010-01-01_cell-based_therapy_f/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/2010-01-01_cell-based_therapy_f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

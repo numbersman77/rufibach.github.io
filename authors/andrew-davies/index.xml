@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Davies | Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/authors/andrew-davies/</link>
+      <atom:link href="https://www.kasparrufibach.ch/authors/andrew-davies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Davies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
+      <title>Andrew Davies</title>
+      <link>https://www.kasparrufibach.ch/authors/andrew-davies/</link>
+    </image>
+    
+    <item>
+      <title>Obinutuzumab for the first-line treatment of follicular lymphoma</title>
+      <link>https://www.kasparrufibach.ch/publication/2017-01-01_obinutuzumab_for_the/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/2017-01-01_obinutuzumab_for_the/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

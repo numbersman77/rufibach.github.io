@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Stahel | Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/authors/r-stahel/</link>
+      <atom:link href="https://www.kasparrufibach.ch/authors/r-stahel/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Stahel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
+      <title>R Stahel</title>
+      <link>https://www.kasparrufibach.ch/authors/r-stahel/</link>
+    </image>
+    
+    <item>
+      <title>Single agent rituximab in patients with follicular or mantle cell lymphoma: clinical and biological factors that are predictive of response and event-free survival as well as the effect of rituximab on the immune system: a study of the Swiss Group for Clinical Cancer Research (SAKK)</title>
+      <link>https://www.kasparrufibach.ch/publication/2005-01-01_single_agent_rituxim/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/2005-01-01_single_agent_rituxim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
