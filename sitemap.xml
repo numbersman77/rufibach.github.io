@@ -3,161 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kasparrufibach.ch/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://www.kasparrufibach.ch/publication_types/2/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/post/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.kasparrufibach.ch/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication_types/2/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -169,13 +21,19 @@
   </url>
   
   <url>
+    <loc>https://www.kasparrufibach.ch/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kasparrufibach.ch/authors/lutz-dumbgen/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kasparrufibach.ch/publication/conference-paper/2009-01-01_maximum_likelihood_e/</loc>
+    <loc>https://www.kasparrufibach.ch/publication/stat2/2009-01-01_maximum_likelihood_e/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -215,7 +73,7 @@
   </url>
   
   <url>
-    <loc>https://www.kasparrufibach.ch/publication/journal-article/2004-01-01_concomitant_cisplati/</loc>
+    <loc>https://www.kasparrufibach.ch/publication/stat1/2004-01-01_concomitant_cisplati/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -256,36 +114,17 @@
   </url>
   
   <url>
-    <loc>https://www.kasparrufibach.ch/authors/claudia-schmid/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+    <loc>https://www.kasparrufibach.ch/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.kasparrufibach.ch/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kasparrufibach.ch/authors/julia-steuber/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+    <loc>https://www.kasparrufibach.ch/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/michale-rufibach/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/preprint/2000-01-01_na&#43;_translocation_by/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/peter-dimroth/</loc>
-    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/courses/</loc>
   </url>
   
 </urlset>

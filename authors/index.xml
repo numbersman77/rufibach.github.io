@@ -5,21 +5,12 @@
     <link>https://www.kasparrufibach.ch/authors/</link>
       <atom:link href="https://www.kasparrufibach.ch/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://www.kasparrufibach.ch/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://www.kasparrufibach.ch/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/authors/admin/</guid>
-      <description>&lt;p&gt;Kaspar Rufibach has received training as a mathematical statistician. Through more than 15 years in various biostatistical roles he has complemented his thorough theoretical background with expertise in biostatistics. He is passionate about applying this expertise to solve problems in pharmaceutical drug development.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Kaspar Rufibach</title>
@@ -118,35 +109,12 @@
     </item>
     
     <item>
-      <title>Claudia Schmid</title>
-      <link>https://www.kasparrufibach.ch/authors/claudia-schmid/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/authors/claudia-schmid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julia Steuber</title>
-      <link>https://www.kasparrufibach.ch/authors/julia-steuber/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/authors/julia-steuber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MichA�le Rufibach</title>
-      <link>https://www.kasparrufibach.ch/authors/michale-rufibach/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/authors/michale-rufibach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter Dimroth</title>
-      <link>https://www.kasparrufibach.ch/authors/peter-dimroth/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/authors/peter-dimroth/</guid>
-      <description></description>
+      <title></title>
+      <link>https://www.kasparrufibach.ch/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/authors/admin/</guid>
+      <description>&lt;p&gt;Kaspar Rufibach has received training as a mathematical statistician. Through more than 15 years in various biostatistical roles he has complemented his thorough theoretical background with expertise in biostatistics. He is passionate about applying this expertise to solve problems in pharmaceutical drug development.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
