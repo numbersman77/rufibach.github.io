@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Kaspar Rufibach, PhD</title>
+    <title>Statistical publications | Kaspar Rufibach, PhD</title>
     <link>https://www.kasparrufibach.ch/publication/</link>
       <atom:link href="https://www.kasparrufibach.ch/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Statistical publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
-      <title>Publications</title>
+      <title>Statistical publications</title>
       <link>https://www.kasparrufibach.ch/publication/</link>
     </image>
     
