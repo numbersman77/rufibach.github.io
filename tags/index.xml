@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Kaspar Rufibach, PhD</title>
-    <link>https://www.kasparrufibach.ch/tags/</link>
-      <atom:link href="https://www.kasparrufibach.ch/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>https://www.kasparrufibach.ch/tags/</link>
-    </image>
+    <title>Tags on Wouter Steenbeek</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Wouter Steenbeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>crime-pattern</title>
+      <link>/tags/crime-pattern/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/crime-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>/tags/misc/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo-setup</title>
+      <link>/tags/hugo-setup/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/hugo-setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>cyber</title>
+      <link>/tags/cyber/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cyber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatio-temporal</title>
+      <link>/tags/spatio-temporal/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatio-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sppt</title>
+      <link>/tags/sppt/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sppt/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

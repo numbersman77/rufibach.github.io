@@ -1,38 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Kaspar Rufibach, PhD</title>
-    <link>https://www.kasparrufibach.ch/talk/</link>
-      <atom:link href="https://www.kasparrufibach.ch/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.kasparrufibach.ch/talk/</link>
-    </image>
+    <title>Recent &amp; Upcoming Talks on Wouter Steenbeek</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Wouter Steenbeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Example Talk</title>
-      <link>https://www.kasparrufibach.ch/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <title>Testing for similarity in area-based spatial patterns: Andresen&#39;s test, critique, and improvements (keynote)</title>
+      <link>/talk/2018-cgca/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/2018-cgca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning: What&#39;s it all about? A comparison to conjunctive analysis of case configurations as a case in point</title>
+      <link>/talk/2018-ecca/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/2018-ecca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing for similarity in area-based spatial patterns: how the pattern of pedestrian stops by the NYPD differs from crime (2006-2016)</title>
+      <link>/talk/2018-stlouis/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/2018-stlouis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro-Spatial Longitudinal Analysis of Home Burglary Concentration and Spatial Stability in the Context of a Crime Drop</title>
+      <link>/talk/2017-asc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/2017-asc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How businesses and facilities affect crime: a fixed effects analysis of street segments over a ten-year period in The Hague, The Netherlands</title>
+      <link>/talk/2017-oslo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/2017-oslo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open for business: The impact of opening hours on street segment crime levels</title>
+      <link>/talk/2016-asc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/2016-asc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residential burglary target selection: an analysis using Google maps</title>
+      <link>/talk/2016-esc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/2016-esc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruimtelijk-temporele patronen van woninginbraak in Antwerpen, 2005-2014: In hoeverre is woninginbraak geconcentreerd in bepaalde straatsegmenten, en hoe stabiel is deze concentratie over de tijd?</title>
+      <link>/talk/2017-nvc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/2017-nvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wat maakt het misdaadpatroon: buurt of straat?</title>
+      <link>/talk/2017-ministry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/2017-ministry/</guid>
+      <description></description>
     </item>
     
   </channel>

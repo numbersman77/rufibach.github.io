@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Wouter Steenbeek</title>
+    <link>/publication_types/7/</link>
+    <description>Recent content in 7 on Wouter Steenbeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lorenzgini: generalized Gini for sparse data situations</title>
+      <link>/publication/2018-software-lorenzgini/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-software-lorenzgini/</guid>
+      <description>The most recent version of the package is:
+ Steenbeek, W., Bernasco, W. (2018). lorenzgini: generalized Gini for sparse data situations. R package version 0.1.1. URL: https://github.com/wsteenbeek/lorenzgini
+ To install the package, follow the instructions on its GitHub repository.</description>
+    </item>
+    
+    <item>
+      <title>sppt: Spatial Point Pattern Test</title>
+      <link>/publication/2017-software-sppt/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-software-sppt/</guid>
+      <description>The most recent version of the package is:
+ Steenbeek, W., Vandeviver, C. Andresen, M.A., Malleson, N., Wheeler, A. (2018). sppt: Spatial Point Pattern Test. R package version 0.2.1. URL: https://github.com/wsteenbeek/sppt
+ To install the package, follow the instructions on its GitHub repository.</description>
+    </item>
+    
+  </channel>
+</rss>
