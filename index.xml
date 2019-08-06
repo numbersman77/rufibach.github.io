@@ -6,28 +6,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 26 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Identifying the appropriate spatial resolution for the analysis of crime patterns</title>
-      <link>https://numbersman77.netlify.com/publication/2019-article-spatialresolution/</link>
-      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/2019-article-spatialresolution/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Testing for similarity in area‐based spatial patterns: Alternative methods to Andresen&#39;s spatial point pattern test</title>
-      <link>https://numbersman77.netlify.com/publication/2018-article-sppt/</link>
-      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/2018-article-sppt/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
     
     <item>
       <title>Testing for similarity in area-based spatial patterns: Andresen&#39;s test, critique, and improvements (keynote)</title>
@@ -46,38 +26,6 @@
       
       <guid>https://numbersman77.netlify.com/talk/2018-ecca/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>lorenzgini: generalized Gini for sparse data situations</title>
-      <link>https://numbersman77.netlify.com/publication/2018-software-lorenzgini/</link>
-      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/2018-software-lorenzgini/</guid>
-      <description>&lt;p&gt;The most recent version of the package is:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Steenbeek, W., Bernasco, W. (2018). &lt;em&gt;&lt;code&gt;lorenzgini&lt;/code&gt;: generalized Gini for sparse data situations&lt;/em&gt;. R package version 0.1.1. URL: &lt;a href=&#34;https://github.com/wsteenbeek/lorenzgini&#34; target=&#34;_blank&#34;&gt;https://github.com/wsteenbeek/lorenzgini&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To install the package, follow the instructions on its &lt;a href=&#34;https://github.com/wsteenbeek/lorenzgini&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>sppt: Spatial Point Pattern Test</title>
-      <link>https://numbersman77.netlify.com/publication/2017-software-sppt/</link>
-      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/2017-software-sppt/</guid>
-      <description>&lt;p&gt;The most recent version of the package is:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Steenbeek, W., Vandeviver, C. Andresen, M.A., Malleson, N., Wheeler, A. (2018). &lt;em&gt;&lt;code&gt;sppt&lt;/code&gt;: Spatial Point Pattern Test&lt;/em&gt;. R package version 0.2.1. URL: &lt;a href=&#34;https://github.com/wsteenbeek/sppt&#34; target=&#34;_blank&#34;&gt;https://github.com/wsteenbeek/sppt&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To install the package, follow the instructions on its &lt;a href=&#34;https://github.com/wsteenbeek/sppt&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -104,16 +52,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;To install the package, follow the instructions on its &lt;a href=&#34;https://github.com/wsteenbeek/lorenzgini&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Measuring disorder: Observer bias in Systematic Social Observations at streets and neighborhoods</title>
-      <link>https://numbersman77.netlify.com/publication/2018-article-measuring-disorder/</link>
-      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/2018-article-measuring-disorder/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
@@ -408,42 +346,92 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     </item>
     
     <item>
-      <title>The (in)stability of residential burglary patterns on street segments: The case of Antwerp, Belgium 2005–2016</title>
-      <link>https://numbersman77.netlify.com/publication/2018-article-burglary-antwerp/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>A Micro-Spatial Longitudinal Analysis of Home Burglary Concentration and Spatial Stability in the Context of a Crime Drop</title>
+      <link>https://numbersman77.netlify.com/talk/2017-asc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/2018-article-burglary-antwerp/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <guid>https://numbersman77.netlify.com/talk/2017-asc/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Social interactions and crime revisited: An investigation using individual offender data in Dutch neighborhoods</title>
-      <link>https://numbersman77.netlify.com/publication/2017-article-social-interactions/</link>
-      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      <title>How businesses and facilities affect crime: a fixed effects analysis of street segments over a ten-year period in The Hague, The Netherlands</title>
+      <link>https://numbersman77.netlify.com/talk/2017-oslo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/2017-article-social-interactions/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <guid>https://numbersman77.netlify.com/talk/2017-oslo/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Residential burglary target selection: An analysis at the property-level using Google Street View</title>
-      <link>https://numbersman77.netlify.com/publication/2017-article-burglary-target-selection/</link>
-      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      <title>Open for business: The impact of opening hours on street segment crime levels</title>
+      <link>https://numbersman77.netlify.com/talk/2016-asc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/2017-article-burglary-target-selection/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <guid>https://numbersman77.netlify.com/talk/2016-asc/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>More places than crimes: Implications for evaluating the law of crime concentration at place</title>
-      <link>https://numbersman77.netlify.com/publication/2017-article-law-crime-concentration/</link>
-      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Residential burglary target selection: an analysis using Google maps</title>
+      <link>https://numbersman77.netlify.com/talk/2016-esc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/2017-article-law-crime-concentration/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <guid>https://numbersman77.netlify.com/talk/2016-esc/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ruimtelijk-temporele patronen van woninginbraak in Antwerpen, 2005-2014: In hoeverre is woninginbraak geconcentreerd in bepaalde straatsegmenten, en hoe stabiel is deze concentratie over de tijd?</title>
+      <link>https://numbersman77.netlify.com/talk/2017-nvc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-nvc/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wat maakt het misdaadpatroon: buurt of straat?</title>
+      <link>https://numbersman77.netlify.com/talk/2017-ministry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-ministry/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cybercriminal decision-making</title>
+      <link>https://numbersman77.netlify.com/project/cybercrime/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/project/cybercrime/</guid>
+      <description>&lt;p&gt;Existing theories assume that offenders make rational decisions, but these theories have rarely been tested experimentally. This project uses &amp;lsquo;honey accounts&amp;rsquo;, online accounts that have deliberately been rendered vulnerable to hacking, to allow an experimental investigation of cybercriminals&amp;rsquo; behavior. The research offers unique opportunities for conducting a stringent test of existing criminology theories on offenders&amp;rsquo; decision-making behavior. This study of offender behavior will broaden our understanding of cybercrime, as previous research has tended to focus on victims and security.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Across the Urban Landscape</title>
+      <link>https://numbersman77.netlify.com/project/risk-urban/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/project/risk-urban/</guid>
+      <description>&lt;p&gt;Parameters of Risk Across the Urban Landscape (PRAUL) uses data from multiple years on victimizations, crime risk factors, and victimization surveys to analyze these causal links between criminogeneity, fear of crime, and actual crime for the city of Amsterdam. Spatio-temporal clustering and regionalization procedures are used to identify areas of elevated risk and delineate analytical sub-regions that are as homogeneous as possible for the theoretical constructs of interest. These newly defined areas serve as units of analysis to study the interplay between the purported crime risk factors, crime, and the public’s reaction to crime and policing from a spatio-temporal perspective. The project aims to provide new insights into the relative importance of individual- and area-level causal factors of fear of crime.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risky Business</title>
+      <link>https://numbersman77.netlify.com/project/risky-business/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/project/risky-business/</guid>
+      <description>&lt;p&gt;Do businesses (e.g. bars or supermarkets) and facilities (e.g. libraries) generate or prevent crime? Urban planners and policy-makers often view businesses and facilities as a panacea to social problems: they create jobs and invest in their buildings and immediate surroundings. In contrast, and supported by most empirical research findings, environmental criminologists argue that crime is more likely to occur near businesses. However, such empirical research is based on cross-sectional data, which allows investigating correlation between businsses and crime. However, correlation does not imply causation. So, should urban planners combine residential and commercial buildings within neighborhoods? This project investigates the causal effect of businesses and facilities on crime using unique longitudinal data and recently developed econometric methods for spatio-temporal analysis.&lt;/p&gt;
 </description>
     </item>
     
