@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Kaspar Rufibach, Biostatistician</title>
+    <title>Homes on Kaspar Rufibach</title>
     <link>https://numbersman77.netlify.com/home/</link>
-    <description>Recent content in Homes on Kaspar Rufibach, Biostatistician</description>
+    <description>Recent content in Homes on Kaspar Rufibach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
@@ -23,21 +23,21 @@
     </item>
     
     <item>
-      <title>Recent Blog Posts</title>
-      <link>https://numbersman77.netlify.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
+      <title>Statistical publications</title>
       <link>https://numbersman77.netlify.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/publications/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://numbersman77.netlify.com/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/home/software/</guid>
+      <description>When I think it may be helpful to others, I publish my code as a software package. So far, I have published two R packages on Github: </description>
     </item>
     
     <item>
@@ -50,20 +50,20 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://numbersman77.netlify.com/home/projects/</link>
+      <title>Teaching activities</title>
+      <link>https://numbersman77.netlify.com/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/home/projects/</guid>
+      <guid>https://numbersman77.netlify.com/home/teaching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Software</title>
-      <link>https://numbersman77.netlify.com/home/software/</link>
+      <title>Working groups</title>
+      <link>https://numbersman77.netlify.com/home/working/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/home/software/</guid>
+      <guid>https://numbersman77.netlify.com/home/working/</guid>
       <description>When I think it may be helpful to others, I publish my code as a software package. So far, I have published two R packages on Github: </description>
     </item>
     
