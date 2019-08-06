@@ -5,12 +5,44 @@
     <link>https://www.kasparrufibach.ch/publication/</link>
       <atom:link href="https://www.kasparrufibach.ch/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.kasparrufibach.ch/publication/</link>
     </image>
+    
+    <item>
+      <title>A second {M}arshall inequality in convex estimation</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_a_second_marshall_/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_a_second_marshall_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the max-domain of attraction of distributions with log-concave densities</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_on_the_max-domain_of/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_on_the_max-domain_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Maximum Likelihood Estimators of a Log-Concave Density Function</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2007-01-01_computing_maximum_li/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2007-01-01_computing_maximum_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eintrittsraten und Austrittswahrscheinlichkeiten EVK 2000</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2001_01_01_evk/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2001_01_01_evk/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
