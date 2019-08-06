@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fredrica Nyqvist | Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/authors/fredrica-nyqvist/</link>
+      <atom:link href="https://www.kasparrufibach.ch/authors/fredrica-nyqvist/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fredrica Nyqvist</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
+      <title>Fredrica Nyqvist</title>
+      <link>https://www.kasparrufibach.ch/authors/fredrica-nyqvist/</link>
+    </image>
+    
+    <item>
+      <title>Does social capital enhance political participation of older adults? A multi-level analysis of older Finns and Swedes</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-social-capital-elderly/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-social-capital-elderly/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social capital and self-rated health amongst older people in western Finland and northern Sweden: A multi-level analysis</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2013-article-social-capital-health/</link>
+      <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2013-article-social-capital-health/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

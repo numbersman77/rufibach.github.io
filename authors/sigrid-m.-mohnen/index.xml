@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sigrid M. Mohnen | Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/authors/sigrid-m.-mohnen/</link>
+      <atom:link href="https://www.kasparrufibach.ch/authors/sigrid-m.-mohnen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sigrid M. Mohnen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
+      <title>Sigrid M. Mohnen</title>
+      <link>https://www.kasparrufibach.ch/authors/sigrid-m.-mohnen/</link>
+    </image>
+    
+    <item>
+      <title>Verschillen zorgkosten tussen zorggroepen? Vergelijking van zorggroepen voor mensen met diabetes.</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-zorgkosten/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-zorgkosten/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

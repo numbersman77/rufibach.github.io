@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veronique A.J.M. Schutjens | Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/authors/veronique-a.j.m.-schutjens/</link>
+      <atom:link href="https://www.kasparrufibach.ch/authors/veronique-a.j.m.-schutjens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Veronique A.J.M. Schutjens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
+      <title>Veronique A.J.M. Schutjens</title>
+      <link>https://www.kasparrufibach.ch/authors/veronique-a.j.m.-schutjens/</link>
+    </image>
+    
+    <item>
+      <title>Lost letters in Dutch neighborhoods: A field experiment on collective efficacy</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-lost-letters/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-lost-letters/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The willingness to intervene in problematic neighbourhood situations: A comparison of local entrepreneurs and (un-)employed residents</title>
+      <link>https://www.kasparrufibach.ch/publication/stats_articles/2014-article-willingness-intervene-entrpreneurs/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2014-article-willingness-intervene-entrpreneurs/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
