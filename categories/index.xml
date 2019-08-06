@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Wouter Steenbeek</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Wouter Steenbeek</description>
+    <title>Categories on Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/categories/</link>
+    <description>Recent content in Categories on Kaspar Rufibach, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kasparrufibach.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://www.kasparrufibach.ch/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://www.kasparrufibach.ch/categories/r/</guid>
       <description></description>
     </item>
     

@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
+      <loc>https://www.kasparrufibach.ch/publication_types/2/</loc>
       <lastmod>2019-06-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/publication/2019-article-spatialresolution/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2019-article-spatialresolution/</loc>
       <lastmod>2019-06-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,17 +23,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2019-06-26T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
+      <loc>https://www.kasparrufibach.ch/</loc>
       <lastmod>2019-06-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -43,7 +33,17 @@
     
     <url>
     
-      <loc>/publication/2018-article-sppt/</loc>
+      <loc>https://www.kasparrufibach.ch/publication_types/</loc>
+      <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.kasparrufibach.ch/publication/2018-article-sppt/</loc>
       <lastmod>2018-08-06T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>/talk/2018-cgca/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2018-cgca/</loc>
       <lastmod>2018-06-06T00:00:00+02:00</lastmod>
     </url>
     
@@ -61,7 +61,7 @@
     
     <url>
     
-      <loc>/talk/2018-ecca/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2018-ecca/</loc>
       <lastmod>2018-06-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -70,7 +70,7 @@
     
     <url>
     
-      <loc>/publication_types/7/</loc>
+      <loc>https://www.kasparrufibach.ch/publication_types/7/</loc>
       <lastmod>2018-03-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -80,7 +80,7 @@
     
     <url>
     
-      <loc>/publication/2018-software-lorenzgini/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2018-software-lorenzgini/</loc>
       <lastmod>2018-03-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -89,7 +89,7 @@
     
     <url>
     
-      <loc>/publication/2017-software-sppt/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2017-software-sppt/</loc>
       <lastmod>2018-03-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -98,7 +98,7 @@
     
     <url>
     
-      <loc>/software/</loc>
+      <loc>https://www.kasparrufibach.ch/software/</loc>
       <lastmod>2018-03-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -108,7 +108,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://www.kasparrufibach.ch/tags/</loc>
       <lastmod>2018-03-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -118,7 +118,7 @@
     
     <url>
     
-      <loc>/tags/crime-pattern/</loc>
+      <loc>https://www.kasparrufibach.ch/tags/crime-pattern/</loc>
       <lastmod>2018-03-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -128,7 +128,7 @@
     
     <url>
     
-      <loc>/software/lorenzgini/</loc>
+      <loc>https://www.kasparrufibach.ch/software/lorenzgini/</loc>
       <lastmod>2018-03-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -137,7 +137,7 @@
     
     <url>
     
-      <loc>/publication/2018-article-measuring-disorder/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2018-article-measuring-disorder/</loc>
       <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -146,7 +146,7 @@
     
     <url>
     
-      <loc>/talk/2018-stlouis/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2018-stlouis/</loc>
       <lastmod>2018-01-11T00:00:00+01:00</lastmod>
     </url>
     
@@ -155,7 +155,7 @@
     
     <url>
     
-      <loc>/post/2018-01-06-hello-world/</loc>
+      <loc>https://www.kasparrufibach.ch/post/2018-01-06-hello-world/</loc>
       <lastmod>2018-01-06T00:00:00+01:00</lastmod>
     </url>
     
@@ -164,7 +164,7 @@
     
     <url>
     
-      <loc>/tags/misc/</loc>
+      <loc>https://www.kasparrufibach.ch/tags/misc/</loc>
       <lastmod>2018-01-06T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -174,7 +174,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>https://www.kasparrufibach.ch/post/getting-started/</loc>
       <lastmod>2018-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -183,7 +183,7 @@
     
     <url>
     
-      <loc>/tags/hugo-setup/</loc>
+      <loc>https://www.kasparrufibach.ch/tags/hugo-setup/</loc>
       <lastmod>2018-01-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -193,7 +193,7 @@
     
     <url>
     
-      <loc>/publication/2018-article-burglary-antwerp/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2018-article-burglary-antwerp/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -202,7 +202,7 @@
     
     <url>
     
-      <loc>/publication/2017-article-social-interactions/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2017-article-social-interactions/</loc>
       <lastmod>2017-12-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -211,7 +211,7 @@
     
     <url>
     
-      <loc>/publication/2017-article-burglary-target-selection/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2017-article-burglary-target-selection/</loc>
       <lastmod>2017-11-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -220,7 +220,7 @@
     
     <url>
     
-      <loc>/publication/2017-article-law-crime-concentration/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2017-article-law-crime-concentration/</loc>
       <lastmod>2017-09-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -229,7 +229,7 @@
     
     <url>
     
-      <loc>/publication/2017-article-cost-variation-diabetes/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2017-article-cost-variation-diabetes/</loc>
       <lastmod>2017-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -238,7 +238,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://www.kasparrufibach.ch/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -247,7 +247,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -256,7 +256,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -265,7 +265,7 @@
     
     <url>
     
-      <loc>/talk/2017-asc/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2017-asc/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -274,7 +274,7 @@
     
     <url>
     
-      <loc>/talk/2017-oslo/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2017-oslo/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -283,7 +283,7 @@
     
     <url>
     
-      <loc>/talk/2016-asc/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2016-asc/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -292,7 +292,7 @@
     
     <url>
     
-      <loc>/talk/2016-esc/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2016-esc/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -301,7 +301,7 @@
     
     <url>
     
-      <loc>/talk/2017-nvc/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2017-nvc/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -310,7 +310,7 @@
     
     <url>
     
-      <loc>/talk/2017-ministry/</loc>
+      <loc>https://www.kasparrufibach.ch/talk/2017-ministry/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -319,7 +319,7 @@
     
     <url>
     
-      <loc>/project/cybercrime/</loc>
+      <loc>https://www.kasparrufibach.ch/project/cybercrime/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -328,7 +328,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://www.kasparrufibach.ch/project/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -338,7 +338,7 @@
     
     <url>
     
-      <loc>/project/risk-urban/</loc>
+      <loc>https://www.kasparrufibach.ch/project/risk-urban/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -347,7 +347,7 @@
     
     <url>
     
-      <loc>/project/risky-business/</loc>
+      <loc>https://www.kasparrufibach.ch/project/risky-business/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -356,7 +356,7 @@
     
     <url>
     
-      <loc>/project/time-for-crime/</loc>
+      <loc>https://www.kasparrufibach.ch/project/time-for-crime/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -365,17 +365,7 @@
     
     <url>
     
-      <loc>/tags/cyber/</loc>
-      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/spatio-temporal/</loc>
+      <loc>https://www.kasparrufibach.ch/tags/cyber/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -385,7 +375,17 @@
     
     <url>
     
-      <loc>/tags/sppt/</loc>
+      <loc>https://www.kasparrufibach.ch/tags/spatio-temporal/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://www.kasparrufibach.ch/tags/sppt/</loc>
       <lastmod>2018-03-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -395,7 +395,7 @@
     
     <url>
     
-      <loc>/software/sppt/</loc>
+      <loc>https://www.kasparrufibach.ch/software/sppt/</loc>
       <lastmod>2018-03-22T00:00:00+00:00</lastmod>
     </url>
     
@@ -404,7 +404,7 @@
     
     <url>
     
-      <loc>/publication/2016-article-crime-variability-nested/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2016-article-crime-variability-nested/</loc>
       <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -413,7 +413,7 @@
     
     <url>
     
-      <loc>/publication_types/6/</loc>
+      <loc>https://www.kasparrufibach.ch/publication_types/6/</loc>
       <lastmod>2016-07-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -423,7 +423,7 @@
     
     <url>
     
-      <loc>/publication/2016-chapter-hotspots-high-impact/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2016-chapter-hotspots-high-impact/</loc>
       <lastmod>2016-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -432,7 +432,7 @@
     
     <url>
     
-      <loc>/publication/2016-article-lost-letters/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2016-article-lost-letters/</loc>
       <lastmod>2016-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -441,7 +441,7 @@
     
     <url>
     
-      <loc>/publication/2016-chapter-tourists/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2016-chapter-tourists/</loc>
       <lastmod>2016-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -450,7 +450,7 @@
     
     <url>
     
-      <loc>/publication/2016-article-types-crime/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2016-article-types-crime/</loc>
       <lastmod>2016-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -459,7 +459,7 @@
     
     <url>
     
-      <loc>/publication/2016-article-zorgkosten/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2016-article-zorgkosten/</loc>
       <lastmod>2016-06-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -468,7 +468,7 @@
     
     <url>
     
-      <loc>/post/widgets/</loc>
+      <loc>https://www.kasparrufibach.ch/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00+02:00</lastmod>
     </url>
     
@@ -477,7 +477,7 @@
     
     <url>
     
-      <loc>/post/managing-content/</loc>
+      <loc>https://www.kasparrufibach.ch/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00+02:00</lastmod>
     </url>
     
@@ -486,7 +486,7 @@
     
     <url>
     
-      <loc>/post/writing-markdown-latex/</loc>
+      <loc>https://www.kasparrufibach.ch/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00+02:00</lastmod>
     </url>
     
@@ -495,7 +495,7 @@
     
     <url>
     
-      <loc>/post/faq/</loc>
+      <loc>https://www.kasparrufibach.ch/post/faq/</loc>
       <lastmod>2016-04-10T00:00:00+02:00</lastmod>
     </url>
     
@@ -504,7 +504,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://www.kasparrufibach.ch/post/</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -513,7 +513,7 @@
     
     <url>
     
-      <loc>/publication/2015-article-social-capital-elderly/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2015-article-social-capital-elderly/</loc>
       <lastmod>2015-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -522,7 +522,7 @@
     
     <url>
     
-      <loc>/publication/2015-letter-no-evidence-gender-inequality/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2015-letter-no-evidence-gender-inequality/</loc>
       <lastmod>2015-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -531,7 +531,7 @@
     
     <url>
     
-      <loc>/publication/2015-article-broken-windows/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2015-article-broken-windows/</loc>
       <lastmod>2015-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -540,7 +540,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://www.kasparrufibach.ch/categories/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -550,7 +550,7 @@
     
     <url>
     
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>https://www.kasparrufibach.ch/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -559,7 +559,7 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
+      <loc>https://www.kasparrufibach.ch/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -569,7 +569,7 @@
     
     <url>
     
-      <loc>/publication/2014-article-willingness-intervene-entrpreneurs/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2014-article-willingness-intervene-entrpreneurs/</loc>
       <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -578,7 +578,7 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
+      <loc>https://www.kasparrufibach.ch/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+01:00</lastmod>
     </url>
     
@@ -587,7 +587,7 @@
     
     <url>
     
-      <loc>/publication/2013-article-social-capital-health/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2013-article-social-capital-health/</loc>
       <lastmod>2013-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -596,7 +596,7 @@
     
     <url>
     
-      <loc>/publication/2013-chapter-space-time-police/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2013-chapter-space-time-police/</loc>
       <lastmod>2013-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -605,7 +605,7 @@
     
     <url>
     
-      <loc>/publication/2012-chapter-volunteer-dilemma/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2012-chapter-volunteer-dilemma/</loc>
       <lastmod>2012-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -614,7 +614,7 @@
     
     <url>
     
-      <loc>/publication/2012-article-businesses-disorder/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2012-article-businesses-disorder/</loc>
       <lastmod>2012-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -623,7 +623,7 @@
     
     <url>
     
-      <loc>/publication/2012-chapter-sociaal-kapitaal/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2012-chapter-sociaal-kapitaal/</loc>
       <lastmod>2012-02-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -632,7 +632,7 @@
     
     <url>
     
-      <loc>/publication/2012-chapter-outsource/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2012-chapter-outsource/</loc>
       <lastmod>2012-01-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -641,7 +641,7 @@
     
     <url>
     
-      <loc>/publication/2011-article-social-disorganization-longitudinal/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2011-article-social-disorganization-longitudinal/</loc>
       <lastmod>2011-07-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -650,7 +650,7 @@
     
     <url>
     
-      <loc>/publication_types/5/</loc>
+      <loc>https://www.kasparrufibach.ch/publication_types/5/</loc>
       <lastmod>2011-05-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -660,7 +660,7 @@
     
     <url>
     
-      <loc>/publication/2011-book-phd/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2011-book-phd/</loc>
       <lastmod>2011-05-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -669,7 +669,7 @@
     
     <url>
     
-      <loc>/publication/2010-chapter-buurtbinding/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2010-chapter-buurtbinding/</loc>
       <lastmod>2010-10-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -678,7 +678,7 @@
     
     <url>
     
-      <loc>/publication/2009-chapter-schoon-heel-veilig/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2009-chapter-schoon-heel-veilig/</loc>
       <lastmod>2009-10-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -687,7 +687,7 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
+      <loc>https://www.kasparrufibach.ch/publication_types/1/</loc>
       <lastmod>2005-07-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -697,7 +697,7 @@
     
     <url>
     
-      <loc>/publication/2005-confproc-sourcing-decision-making/</loc>
+      <loc>https://www.kasparrufibach.ch/publication/2005-confproc-sourcing-decision-making/</loc>
       <lastmod>2005-07-28T00:00:00+00:00</lastmod>
     </url>
     

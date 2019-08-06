@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Wouter Steenbeek</title>
-    <link>/post/</link>
-    <description>Recent content in Blog on Wouter Steenbeek</description>
+    <title>Blog on Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/post/</link>
+    <description>Recent content in Blog on Kaspar Rufibach, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kasparrufibach.ch/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello, World!</title>
-      <link>/post/2018-01-06-hello-world/</link>
+      <link>https://www.kasparrufibach.ch/post/2018-01-06-hello-world/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/2018-01-06-hello-world/</guid>
+      <guid>https://www.kasparrufibach.ch/post/2018-01-06-hello-world/</guid>
       <description>A &amp;ldquo;Hello, World!&amp;rdquo; program is a computer program that outputs or displays &amp;ldquo;Hello, World!&amp;rdquo; to a user. Being a very simple program in most programming languages, it is often used to illustrate the basic syntax of a programming language for a working program. It is often the very first program people write when they are new to a language.</description>
     </item>
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://www.kasparrufibach.ch/post/getting-started/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://www.kasparrufibach.ch/post/getting-started/</guid>
       <description>Create a beautifully simple personal or academic website in under 10 minutes.</description>
     </item>
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>/post/widgets/</link>
+      <link>https://www.kasparrufibach.ch/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/widgets/</guid>
+      <guid>https://www.kasparrufibach.ch/post/widgets/</guid>
       <description>Enable/disable and configure widgets to customize your homepage.</description>
     </item>
     
     <item>
       <title>Managing content</title>
-      <link>/post/managing-content/</link>
+      <link>https://www.kasparrufibach.ch/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://www.kasparrufibach.ch/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://www.kasparrufibach.ch/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>/post/writing-markdown-latex/</link>
+      <link>https://www.kasparrufibach.ch/post/writing-markdown-latex/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/writing-markdown-latex/</guid>
+      <guid>https://www.kasparrufibach.ch/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
-      <link>/post/faq/</link>
+      <link>https://www.kasparrufibach.ch/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/faq/</guid>
+      <guid>https://www.kasparrufibach.ch/post/faq/</guid>
       <description>Troubleshoot common issues.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://www.kasparrufibach.ch/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://www.kasparrufibach.ch/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -79,10 +79,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>/post/migrate-from-jekyll/</link>
+      <link>https://www.kasparrufibach.ch/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0100</pubDate>
       
-      <guid>/post/migrate-from-jekyll/</guid>
+      <guid>https://www.kasparrufibach.ch/post/migrate-from-jekyll/</guid>
       <description>Learn how to migrate an existing website from Jekyll to Hugo.</description>
     </item>
     

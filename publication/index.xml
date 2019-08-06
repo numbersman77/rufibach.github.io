@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Wouter Steenbeek</title>
-    <link>/publication/</link>
-    <description>Recent content in Publications on Wouter Steenbeek</description>
+    <title>Publications on Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/publication/</link>
+    <description>Recent content in Publications on Kaspar Rufibach, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kasparrufibach.ch/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Identifying the appropriate spatial resolution for the analysis of crime patterns</title>
-      <link>/publication/2019-article-spatialresolution/</link>
+      <link>https://www.kasparrufibach.ch/publication/2019-article-spatialresolution/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2019-article-spatialresolution/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2019-article-spatialresolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing for similarity in area‐based spatial patterns: Alternative methods to Andresen&#39;s spatial point pattern test</title>
-      <link>/publication/2018-article-sppt/</link>
+      <link>https://www.kasparrufibach.ch/publication/2018-article-sppt/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-article-sppt/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2018-article-sppt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lorenzgini: generalized Gini for sparse data situations</title>
-      <link>/publication/2018-software-lorenzgini/</link>
+      <link>https://www.kasparrufibach.ch/publication/2018-software-lorenzgini/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-software-lorenzgini/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2018-software-lorenzgini/</guid>
       <description>The most recent version of the package is:
  Steenbeek, W., Bernasco, W. (2018). lorenzgini: generalized Gini for sparse data situations. R package version 0.1.1. URL: https://github.com/wsteenbeek/lorenzgini
  To install the package, follow the instructions on its GitHub repository.</description>
@@ -43,10 +43,10 @@
     
     <item>
       <title>sppt: Spatial Point Pattern Test</title>
-      <link>/publication/2017-software-sppt/</link>
+      <link>https://www.kasparrufibach.ch/publication/2017-software-sppt/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017-software-sppt/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2017-software-sppt/</guid>
       <description>The most recent version of the package is:
  Steenbeek, W., Vandeviver, C. Andresen, M.A., Malleson, N., Wheeler, A. (2018). sppt: Spatial Point Pattern Test. R package version 0.2.1. URL: https://github.com/wsteenbeek/sppt
  To install the package, follow the instructions on its GitHub repository.</description>
@@ -54,244 +54,244 @@
     
     <item>
       <title>Measuring disorder: Observer bias in Systematic Social Observations at streets and neighborhoods</title>
-      <link>/publication/2018-article-measuring-disorder/</link>
+      <link>https://www.kasparrufibach.ch/publication/2018-article-measuring-disorder/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-article-measuring-disorder/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2018-article-measuring-disorder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The (in)stability of residential burglary patterns on street segments: The case of Antwerp, Belgium 2005–2016</title>
-      <link>/publication/2018-article-burglary-antwerp/</link>
+      <link>https://www.kasparrufibach.ch/publication/2018-article-burglary-antwerp/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-article-burglary-antwerp/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2018-article-burglary-antwerp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social interactions and crime revisited: An investigation using individual offender data in Dutch neighborhoods</title>
-      <link>/publication/2017-article-social-interactions/</link>
+      <link>https://www.kasparrufibach.ch/publication/2017-article-social-interactions/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017-article-social-interactions/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2017-article-social-interactions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Residential burglary target selection: An analysis at the property-level using Google Street View</title>
-      <link>/publication/2017-article-burglary-target-selection/</link>
+      <link>https://www.kasparrufibach.ch/publication/2017-article-burglary-target-selection/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017-article-burglary-target-selection/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2017-article-burglary-target-selection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More places than crimes: Implications for evaluating the law of crime concentration at place</title>
-      <link>/publication/2017-article-law-crime-concentration/</link>
+      <link>https://www.kasparrufibach.ch/publication/2017-article-law-crime-concentration/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017-article-law-crime-concentration/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2017-article-law-crime-concentration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cost variation in diabetes care across Dutch care groups?</title>
-      <link>/publication/2017-article-cost-variation-diabetes/</link>
+      <link>https://www.kasparrufibach.ch/publication/2017-article-cost-variation-diabetes/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017-article-cost-variation-diabetes/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2017-article-cost-variation-diabetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where the action is in crime? An examination of variability of crime across different spatial units in The Hague, 2001-2009</title>
-      <link>/publication/2016-article-crime-variability-nested/</link>
+      <link>https://www.kasparrufibach.ch/publication/2016-article-crime-variability-nested/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016-article-crime-variability-nested/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2016-article-crime-variability-nested/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hotspots van high impact-criminaliteit in Amsterdam: 2008-2013</title>
-      <link>/publication/2016-chapter-hotspots-high-impact/</link>
+      <link>https://www.kasparrufibach.ch/publication/2016-chapter-hotspots-high-impact/</link>
       <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016-chapter-hotspots-high-impact/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2016-chapter-hotspots-high-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lost letters in Dutch neighborhoods: A field experiment on collective efficacy</title>
-      <link>/publication/2016-article-lost-letters/</link>
+      <link>https://www.kasparrufibach.ch/publication/2016-article-lost-letters/</link>
       <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016-article-lost-letters/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2016-article-lost-letters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toeristen en criminaliteit in Amsterdam</title>
-      <link>/publication/2016-chapter-tourists/</link>
+      <link>https://www.kasparrufibach.ch/publication/2016-chapter-tourists/</link>
       <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016-chapter-tourists/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2016-chapter-tourists/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Types of crimes and types of mechanisms: What are the consequences for neighborhoods over time?</title>
-      <link>/publication/2016-article-types-crime/</link>
+      <link>https://www.kasparrufibach.ch/publication/2016-article-types-crime/</link>
       <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016-article-types-crime/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2016-article-types-crime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verschillen zorgkosten tussen zorggroepen? Vergelijking van zorggroepen voor mensen met diabetes.</title>
-      <link>/publication/2016-article-zorgkosten/</link>
+      <link>https://www.kasparrufibach.ch/publication/2016-article-zorgkosten/</link>
       <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016-article-zorgkosten/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2016-article-zorgkosten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does social capital enhance political participation of older adults? A multi-level analysis of older Finns and Swedes</title>
-      <link>/publication/2015-article-social-capital-elderly/</link>
+      <link>https://www.kasparrufibach.ch/publication/2015-article-social-capital-elderly/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2015-article-social-capital-elderly/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2015-article-social-capital-elderly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No evidence that gender contributes to personal research funding success in The Netherlands: A reaction to van der Lee and Ellemers</title>
-      <link>/publication/2015-letter-no-evidence-gender-inequality/</link>
+      <link>https://www.kasparrufibach.ch/publication/2015-letter-no-evidence-gender-inequality/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2015-letter-no-evidence-gender-inequality/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2015-letter-no-evidence-gender-inequality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where Broken Windows should be fixed: Towards identification of areas at the tipping point</title>
-      <link>/publication/2015-article-broken-windows/</link>
+      <link>https://www.kasparrufibach.ch/publication/2015-article-broken-windows/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2015-article-broken-windows/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2015-article-broken-windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The willingness to intervene in problematic neighbourhood situations: A comparison of local entrepreneurs and (un-)employed residents</title>
-      <link>/publication/2014-article-willingness-intervene-entrpreneurs/</link>
+      <link>https://www.kasparrufibach.ch/publication/2014-article-willingness-intervene-entrpreneurs/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2014-article-willingness-intervene-entrpreneurs/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2014-article-willingness-intervene-entrpreneurs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social capital and self-rated health amongst older people in western Finland and northern Sweden: A multi-level analysis</title>
-      <link>/publication/2013-article-social-capital-health/</link>
+      <link>https://www.kasparrufibach.ch/publication/2013-article-social-capital-health/</link>
       <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2013-article-social-capital-health/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2013-article-social-capital-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Space-time visualization and analysis of public attitudes towards crime and policing in the Netherlands, 1993-2001</title>
-      <link>/publication/2013-chapter-space-time-police/</link>
+      <link>https://www.kasparrufibach.ch/publication/2013-chapter-space-time-police/</link>
       <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2013-chapter-space-time-police/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2013-chapter-space-time-police/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buurtproblemen als vrijwilligersdilemma’s</title>
-      <link>/publication/2012-chapter-volunteer-dilemma/</link>
+      <link>https://www.kasparrufibach.ch/publication/2012-chapter-volunteer-dilemma/</link>
       <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2012-chapter-volunteer-dilemma/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2012-chapter-volunteer-dilemma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local businesses as attractors or preventers of neighborhood disorder</title>
-      <link>/publication/2012-article-businesses-disorder/</link>
+      <link>https://www.kasparrufibach.ch/publication/2012-article-businesses-disorder/</link>
       <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2012-article-businesses-disorder/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2012-article-businesses-disorder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sociaal kapitaal van de buurt: verschillen in perceptie door jongeren en volwassenen?</title>
-      <link>/publication/2012-chapter-sociaal-kapitaal/</link>
+      <link>https://www.kasparrufibach.ch/publication/2012-chapter-sociaal-kapitaal/</link>
       <pubDate>Fri, 10 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2012-chapter-sociaal-kapitaal/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2012-chapter-sociaal-kapitaal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A decision procedure for the where and how to outsource</title>
-      <link>/publication/2012-chapter-outsource/</link>
+      <link>https://www.kasparrufibach.ch/publication/2012-chapter-outsource/</link>
       <pubDate>Tue, 10 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2012-chapter-outsource/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2012-chapter-outsource/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A longitudinal test of social disorganization theory: Feedback effects among cohesion, social control, and disorder</title>
-      <link>/publication/2011-article-social-disorganization-longitudinal/</link>
+      <link>https://www.kasparrufibach.ch/publication/2011-article-social-disorganization-longitudinal/</link>
       <pubDate>Thu, 28 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2011-article-social-disorganization-longitudinal/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2011-article-social-disorganization-longitudinal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social and physical disorder. How community, business presence and entrepreneurs influence disorder in Dutch neighborhoods</title>
-      <link>/publication/2011-book-phd/</link>
+      <link>https://www.kasparrufibach.ch/publication/2011-book-phd/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2011-book-phd/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2011-book-phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buurtbinding van ondernemers: Over lokale betrokkenheid en inzet voor leefbaarheid</title>
-      <link>/publication/2010-chapter-buurtbinding/</link>
+      <link>https://www.kasparrufibach.ch/publication/2010-chapter-buurtbinding/</link>
       <pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2010-chapter-buurtbinding/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2010-chapter-buurtbinding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Het meten van “de wijk”: Wanneer is een wijk schoon, heel en veilig?</title>
-      <link>/publication/2009-chapter-schoon-heel-veilig/</link>
+      <link>https://www.kasparrufibach.ch/publication/2009-chapter-schoon-heel-veilig/</link>
       <pubDate>Sat, 10 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2009-chapter-schoon-heel-veilig/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2009-chapter-schoon-heel-veilig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sourcing decision-making: Elicitating consultancy knowledge using policy capturing</title>
-      <link>/publication/2005-confproc-sourcing-decision-making/</link>
+      <link>https://www.kasparrufibach.ch/publication/2005-confproc-sourcing-decision-making/</link>
       <pubDate>Thu, 28 Jul 2005 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2005-confproc-sourcing-decision-making/</guid>
+      <guid>https://www.kasparrufibach.ch/publication/2005-confproc-sourcing-decision-making/</guid>
       <description></description>
     </item>
     
