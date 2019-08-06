@@ -346,6 +346,16 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     </item>
     
     <item>
+      <title>Social interactions and crime revisited: An investigation using individual offender data in Dutch neighborhoods</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2017-article-social-interactions/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2017-article-social-interactions/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Micro-Spatial Longitudinal Analysis of Home Burglary Concentration and Spatial Stability in the Context of a Crime Drop</title>
       <link>https://numbersman77.netlify.com/talk/2017-asc/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
@@ -422,16 +432,6 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
       
       <guid>https://numbersman77.netlify.com/project/risk-urban/</guid>
       <description>&lt;p&gt;Parameters of Risk Across the Urban Landscape (PRAUL) uses data from multiple years on victimizations, crime risk factors, and victimization surveys to analyze these causal links between criminogeneity, fear of crime, and actual crime for the city of Amsterdam. Spatio-temporal clustering and regionalization procedures are used to identify areas of elevated risk and delineate analytical sub-regions that are as homogeneous as possible for the theoretical constructs of interest. These newly defined areas serve as units of analysis to study the interplay between the purported crime risk factors, crime, and the public’s reaction to crime and policing from a spatio-temporal perspective. The project aims to provide new insights into the relative importance of individual- and area-level causal factors of fear of crime.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Risky Business</title>
-      <link>https://numbersman77.netlify.com/project/risky-business/</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/project/risky-business/</guid>
-      <description>&lt;p&gt;Do businesses (e.g. bars or supermarkets) and facilities (e.g. libraries) generate or prevent crime? Urban planners and policy-makers often view businesses and facilities as a panacea to social problems: they create jobs and invest in their buildings and immediate surroundings. In contrast, and supported by most empirical research findings, environmental criminologists argue that crime is more likely to occur near businesses. However, such empirical research is based on cross-sectional data, which allows investigating correlation between businsses and crime. However, correlation does not imply causation. So, should urban planners combine residential and commercial buildings within neighborhoods? This project investigates the causal effect of businesses and facilities on crime using unique longitudinal data and recently developed econometric methods for spatio-temporal analysis.&lt;/p&gt;
 </description>
     </item>
     
