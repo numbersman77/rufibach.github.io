@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Kaspar Rufibach, PhD</title>
-    <link>https://numbersman77.netlify.com/publication_types/</link>
-    <description>Recent content in Publication_types on Kaspar Rufibach, PhD</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://numbersman77.netlify.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Publication_types | Kaspar Rufibach, PhD</title>
+    <link>https://www.kasparrufibach.ch/publication_types/</link>
+      <atom:link href="https://www.kasparrufibach.ch/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://www.kasparrufibach.ch/publication_types/</link>
+    </image>
     
     <item>
       <title>2</title>
-      <link>https://numbersman77.netlify.com/publication_types/2/</link>
+      <link>https://www.kasparrufibach.ch/publication_types/2/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication_types/2/</guid>
+      <guid>https://www.kasparrufibach.ch/publication_types/2/</guid>
       <description></description>
     </item>
     
