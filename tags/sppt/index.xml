@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sppt on Kaspar Rufibach, PhD</title>
-    <link>https://www.kasparrufibach.ch/tags/sppt/</link>
+    <link>https://numbersman77.netlify.com/tags/sppt/</link>
     <description>Recent content in sppt on Kaspar Rufibach, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 27 Oct 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.kasparrufibach.ch/tags/sppt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://numbersman77.netlify.com/tags/sppt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>sppt: Spatial Point Pattern Test</title>
-      <link>https://www.kasparrufibach.ch/software/sppt/</link>
+      <link>https://numbersman77.netlify.com/software/sppt/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/software/sppt/</guid>
+      <guid>https://numbersman77.netlify.com/software/sppt/</guid>
       <description>Implements several area-based tests that measure the degree of similarity at the local level between two spatial point patterns.</description>
     </item>
     

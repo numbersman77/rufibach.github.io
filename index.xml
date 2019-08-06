@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaspar Rufibach, PhD on Kaspar Rufibach, PhD</title>
-    <link>https://www.kasparrufibach.ch/</link>
+    <link>https://numbersman77.netlify.com/</link>
     <description>Recent content in Kaspar Rufibach, PhD on Kaspar Rufibach, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,50 +11,50 @@
     
     <item>
       <title>Identifying the appropriate spatial resolution for the analysis of crime patterns</title>
-      <link>https://www.kasparrufibach.ch/publication/2019-article-spatialresolution/</link>
+      <link>https://numbersman77.netlify.com/publication/2019-article-spatialresolution/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2019-article-spatialresolution/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2019-article-spatialresolution/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Testing for similarity in area‐based spatial patterns: Alternative methods to Andresen&#39;s spatial point pattern test</title>
-      <link>https://www.kasparrufibach.ch/publication/2018-article-sppt/</link>
+      <link>https://numbersman77.netlify.com/publication/2018-article-sppt/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2018-article-sppt/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2018-article-sppt/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Testing for similarity in area-based spatial patterns: Andresen&#39;s test, critique, and improvements (keynote)</title>
-      <link>https://www.kasparrufibach.ch/talk/2018-cgca/</link>
+      <link>https://numbersman77.netlify.com/talk/2018-cgca/</link>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/talk/2018-cgca/</guid>
+      <guid>https://numbersman77.netlify.com/talk/2018-cgca/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Machine learning: What&#39;s it all about? A comparison to conjunctive analysis of case configurations as a case in point</title>
-      <link>https://www.kasparrufibach.ch/talk/2018-ecca/</link>
+      <link>https://numbersman77.netlify.com/talk/2018-ecca/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/talk/2018-ecca/</guid>
+      <guid>https://numbersman77.netlify.com/talk/2018-ecca/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>lorenzgini: generalized Gini for sparse data situations</title>
-      <link>https://www.kasparrufibach.ch/publication/2018-software-lorenzgini/</link>
+      <link>https://numbersman77.netlify.com/publication/2018-software-lorenzgini/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2018-software-lorenzgini/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2018-software-lorenzgini/</guid>
       <description>&lt;p&gt;The most recent version of the package is:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -67,10 +67,10 @@
     
     <item>
       <title>sppt: Spatial Point Pattern Test</title>
-      <link>https://www.kasparrufibach.ch/publication/2017-software-sppt/</link>
+      <link>https://numbersman77.netlify.com/publication/2017-software-sppt/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2017-software-sppt/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2017-software-sppt/</guid>
       <description>&lt;p&gt;The most recent version of the package is:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -83,10 +83,10 @@
     
     <item>
       <title>lorenzgini: generalized Gini for sparse data situations</title>
-      <link>https://www.kasparrufibach.ch/software/lorenzgini/</link>
+      <link>https://numbersman77.netlify.com/software/lorenzgini/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/software/lorenzgini/</guid>
+      <guid>https://numbersman77.netlify.com/software/lorenzgini/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/wsteenbeek/lorenzgini&#34; target=&#34;_blank&#34;&gt;lorenzgini&lt;/a&gt; is an R package that calculcates the standard Gini coefficient as well as the generalized coefficient, and plots Lorenz curves. The Lorenz plots show the line of maximal equality given the data.&lt;/p&gt;
 
 &lt;p&gt;The package builds on &lt;a href=&#34;https://doi.org/10.1007/s10940-016-9324-7&#34; target=&#34;_blank&#34;&gt;this paper&lt;/a&gt; in which Wim Bernasco and I wrote that the crime and place literature lacks a standard methodology for measuring and reporting crime concentration. We suggested that crime concentration be reported with the Lorenz curve and summarized with the Gini coefficient, and we proposed generalized versions of the Lorenz curve and the Gini coefficient to correct for bias when crime data are sparse (i.e., fewer crimes than places).&lt;/p&gt;
@@ -109,30 +109,30 @@
     
     <item>
       <title>Measuring disorder: Observer bias in Systematic Social Observations at streets and neighborhoods</title>
-      <link>https://www.kasparrufibach.ch/publication/2018-article-measuring-disorder/</link>
+      <link>https://numbersman77.netlify.com/publication/2018-article-measuring-disorder/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2018-article-measuring-disorder/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2018-article-measuring-disorder/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Testing for similarity in area-based spatial patterns: how the pattern of pedestrian stops by the NYPD differs from crime (2006-2016)</title>
-      <link>https://www.kasparrufibach.ch/talk/2018-stlouis/</link>
+      <link>https://numbersman77.netlify.com/talk/2018-stlouis/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/talk/2018-stlouis/</guid>
+      <guid>https://numbersman77.netlify.com/talk/2018-stlouis/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Hello, World!</title>
-      <link>https://www.kasparrufibach.ch/post/2018-01-06-hello-world/</link>
+      <link>https://numbersman77.netlify.com/post/2018-01-06-hello-world/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/post/2018-01-06-hello-world/</guid>
+      <guid>https://numbersman77.netlify.com/post/2018-01-06-hello-world/</guid>
       <description>&lt;p&gt;&amp;ldquo;A &amp;lsquo;Hello, World!&amp;rsquo; program is a computer program that outputs or displays &amp;lsquo;Hello, World!&amp;rsquo; to a user. Being a very simple program in most programming languages, it is often used to illustrate the basic syntax of a programming language for a working program. It is often the very first program people write when they are new to a language.&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;I have changed my website from Github Pages + Jekyll to Netlify + &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, as recommended by &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;Yihui Xie, Amber Thomas, and Alison Presmanes Hill&lt;/a&gt;. My new site is powered by the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt;. For reference purposes, I&amp;rsquo;ve kept the original blog posts of the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;demo&lt;/a&gt;.&lt;/p&gt;
@@ -150,10 +150,10 @@
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://www.kasparrufibach.ch/post/getting-started/</link>
+      <link>https://numbersman77.netlify.com/post/getting-started/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/post/getting-started/</guid>
+      <guid>https://numbersman77.netlify.com/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
@@ -164,7 +164,7 @@
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://www.kasparrufibach.ch/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://numbersman77.netlify.com/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -231,15 +231,15 @@ cd my_website
 
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://www.kasparrufibach.ch/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://numbersman77.netlify.com/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://www.kasparrufibach.ch/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://numbersman77.netlify.com/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.kasparrufibach.ch/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://numbersman77.netlify.com/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
 
@@ -409,40 +409,40 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>The (in)stability of residential burglary patterns on street segments: The case of Antwerp, Belgium 2005–2016</title>
-      <link>https://www.kasparrufibach.ch/publication/2018-article-burglary-antwerp/</link>
+      <link>https://numbersman77.netlify.com/publication/2018-article-burglary-antwerp/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2018-article-burglary-antwerp/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2018-article-burglary-antwerp/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Social interactions and crime revisited: An investigation using individual offender data in Dutch neighborhoods</title>
-      <link>https://www.kasparrufibach.ch/publication/2017-article-social-interactions/</link>
+      <link>https://numbersman77.netlify.com/publication/2017-article-social-interactions/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2017-article-social-interactions/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2017-article-social-interactions/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Residential burglary target selection: An analysis at the property-level using Google Street View</title>
-      <link>https://www.kasparrufibach.ch/publication/2017-article-burglary-target-selection/</link>
+      <link>https://numbersman77.netlify.com/publication/2017-article-burglary-target-selection/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2017-article-burglary-target-selection/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2017-article-burglary-target-selection/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>More places than crimes: Implications for evaluating the law of crime concentration at place</title>
-      <link>https://www.kasparrufibach.ch/publication/2017-article-law-crime-concentration/</link>
+      <link>https://numbersman77.netlify.com/publication/2017-article-law-crime-concentration/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kasparrufibach.ch/publication/2017-article-law-crime-concentration/</guid>
+      <guid>https://numbersman77.netlify.com/publication/2017-article-law-crime-concentration/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
