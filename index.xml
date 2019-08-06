@@ -1,165 +1,438 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kaspar Rufibach, PhD</title>
-    <link>https://www.kasparrufibach.ch/</link>
-      <atom:link href="https://www.kasparrufibach.ch/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kaspar Rufibach, PhD</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
-      <title>Kaspar Rufibach, PhD</title>
-      <link>https://www.kasparrufibach.ch/</link>
-    </image>
+    <title>Kaspar Rufibach, PhD on Kaspar Rufibach, PhD</title>
+    <link>https://numbersman77.netlify.com/</link>
+    <description>Recent content in Kaspar Rufibach, PhD on Kaspar Rufibach, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Testing for similarity in area-based spatial patterns: Andresen&#39;s test, critique, and improvements (keynote)</title>
+      <link>https://numbersman77.netlify.com/talk/2018-cgca/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2018-cgca/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning: What&#39;s it all about? A comparison to conjunctive analysis of case configurations as a case in point</title>
+      <link>https://numbersman77.netlify.com/talk/2018-ecca/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2018-ecca/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>lorenzgini: generalized Gini for sparse data situations</title>
+      <link>https://numbersman77.netlify.com/software/lorenzgini/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/lorenzgini/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/wsteenbeek/lorenzgini&#34; target=&#34;_blank&#34;&gt;lorenzgini&lt;/a&gt; is an R package that calculcates the standard Gini coefficient as well as the generalized coefficient, and plots Lorenz curves. The Lorenz plots show the line of maximal equality given the data.&lt;/p&gt;
+
+&lt;p&gt;The package builds on &lt;a href=&#34;https://doi.org/10.1007/s10940-016-9324-7&#34; target=&#34;_blank&#34;&gt;this paper&lt;/a&gt; in which Wim Bernasco and I wrote that the crime and place literature lacks a standard methodology for measuring and reporting crime concentration. We suggested that crime concentration be reported with the Lorenz curve and summarized with the Gini coefficient, and we proposed generalized versions of the Lorenz curve and the Gini coefficient to correct for bias when crime data are sparse (i.e., fewer crimes than places).&lt;/p&gt;
+
+&lt;p&gt;The proposed generalizations are based on the principle that the observed crime concentration should not be compared with perfect equality, but with maximal equality given the data. The generalizations asymptotically approach the original Lorenz curve and the original Gini coefficient as the number of crimes approaches the number of spatial units.&lt;/p&gt;
+
+&lt;p&gt;The package goes a bit beyond the method in the published paper:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;In footnote 3 of our paper we stated that we ignored the bias in the standard Gini because the bias is small in exactly the situations that we were addressing: when # units of analysis is large. However, if there are only a few crimes (and for example all of which are located in one unit), the generalized gini will have quite some bias. In the package, we now also correct for this (using the function argument &lt;code&gt;unbiased&lt;/code&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Instead of the jackknife procedure we briefly discuss in the paper, a bootstrap procedure is implemented to calculate confidence intervals of the Gini. Our reasoning is that the jackknife only leads to a variance that can be used to calculate a standard error, but confidence intervals based on jackknife’s s.e. assume a normal distribution which is very often not the case. Bootstrapping gives correct (parametric or non-parametric) confidence intervals, although the usual caveats apply for small counts. Various options are possible, leveraging the &lt;code&gt;boot&lt;/code&gt; package. Note that one can also automatically plot the distribution of the bootstrap-simulated Ginis.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The Lorenz plot can be automatically rescaled. This could be more useful when comparing two crime types than the original plots (Figure 3 and Figure 5, right-hand side) in the paper.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To install the package, follow the instructions on its &lt;a href=&#34;https://github.com/wsteenbeek/lorenzgini&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testing for similarity in area-based spatial patterns: how the pattern of pedestrian stops by the NYPD differs from crime (2006-2016)</title>
+      <link>https://numbersman77.netlify.com/talk/2018-stlouis/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2018-stlouis/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://numbersman77.netlify.com/post/2018-01-06-hello-world/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/post/2018-01-06-hello-world/</guid>
+      <description>&lt;p&gt;&amp;ldquo;A &amp;lsquo;Hello, World!&amp;rsquo; program is a computer program that outputs or displays &amp;lsquo;Hello, World!&amp;rsquo; to a user. Being a very simple program in most programming languages, it is often used to illustrate the basic syntax of a programming language for a working program. It is often the very first program people write when they are new to a language.&amp;rdquo;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;I have changed my website from Github Pages + Jekyll to Netlify + &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, as recommended by &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;Yihui Xie, Amber Thomas, and Alison Presmanes Hill&lt;/a&gt;. My new site is powered by the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt;. For reference purposes, I&amp;rsquo;ve kept the original blog posts of the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;demo&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Source: &lt;a href=&#34;https://en.wikipedia.org/wiki/%22Hello,_World!%22_program&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting started with the Academic framework for Hugo</title>
+      <link>https://numbersman77.netlify.com/post/getting-started/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
+&lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://numbersman77.netlify.com/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/#installing-hugo&#34; target=&#34;_blank&#34;&gt;Install Hugo&lt;/a&gt; and create a new website by typing the following commands in your &lt;em&gt;Terminal&lt;/em&gt; or &lt;em&gt;Command Prompt&lt;/em&gt; app:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new site my_website
+cd my_website
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Install Academic with &lt;a href=&#34;https://help.github.com/articles/set-up-git/&#34; target=&#34;_blank&#34;&gt;git&lt;/a&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/gcushen/hugo-academic.git themes/academic
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Or alternatively, &lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;download Academic&lt;/a&gt; and extract it into a &lt;code&gt;themes/academic&lt;/code&gt; folder within your Hugo website.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you are creating a new website, copy the contents of the &lt;code&gt;exampleSite&lt;/code&gt; folder to your website root folder, overwriting existing files if necessary. The &lt;code&gt;exampleSite&lt;/code&gt; folder contains an example config file and content to help you get started.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cp -av themes/academic/exampleSite/* .
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Start the Hugo server from your website root folder:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now you can go to &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website should appear.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Customize your website - refer to the &lt;em&gt;Getting Started&lt;/em&gt; section below&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt;. Or alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as your university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;Assuming you created a new website with the example content following the installation steps above, this section explores just a few more steps in order to customize it.&lt;/p&gt;
+
+&lt;h3 id=&#34;core-parameters&#34;&gt;Core parameters&lt;/h3&gt;
+
+&lt;p&gt;The core parameters for the website can be edited in the &lt;code&gt;config.toml&lt;/code&gt; configuration file:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Set &lt;code&gt;baseurl&lt;/code&gt; to your website URL (we recommend &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; for free hosting)&lt;/li&gt;
+&lt;li&gt;Set &lt;code&gt;title&lt;/code&gt; to your desired website title such as your name&lt;/li&gt;
+&lt;li&gt;The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own &lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; shortname to enable commenting&lt;/li&gt;
+&lt;li&gt;Edit your details under &lt;code&gt;[params]&lt;/code&gt;; these will be displayed mainly in the homepage &lt;em&gt;about&lt;/em&gt; and &lt;em&gt;contact&lt;/em&gt; widgets (if used). To disable a contact field, simply clear the value to &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Place a square cropped portrait photo named &lt;code&gt;portrait.jpg&lt;/code&gt; into the &lt;code&gt;static/img/&lt;/code&gt; folder, overwriting any defaults. Note that you can edit the &lt;code&gt;avatar&lt;/code&gt; filepath to point to a different image name or clear the value to disable the avatar feature. Alternatively, set &lt;code&gt;gravatar&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; to use the Gravatar/Wordpress avatar associated with your &lt;code&gt;email&lt;/code&gt; address.&lt;/li&gt;
+&lt;li&gt;To enable LaTeX math for your site, set &lt;code&gt;math = true&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Social/academic networking links are defined as multiples of &lt;code&gt;[[params.social]]&lt;/code&gt;. They can be created or deleted as necessary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
+
+&lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
+
+&lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
+
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://numbersman77.netlify.com/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
+
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://numbersman77.netlify.com/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://numbersman77.netlify.com/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
+
+&lt;p&gt;The following color themes are available and can be set by the &lt;code&gt;color_theme&lt;/code&gt; option in &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;code&gt;default&lt;/code&gt;&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;ocean&lt;/code&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34; alt=&#34;default theme&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34; alt=&#34;ocean theme&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;code&gt;forest&lt;/code&gt;&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;coffee&lt;/code&gt;  + &lt;code&gt;playfair&lt;/code&gt; font&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34; alt=&#34;forest theme&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34; alt=&#34;coffee theme&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;code&gt;dark&lt;/code&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34; alt=&#34;dark theme&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The following font styles are available and can be set by the &lt;code&gt;font&lt;/code&gt; option in &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;default (modern)&lt;/li&gt;
+&lt;li&gt;classic (original Academic v1 style)&lt;/li&gt;
+&lt;li&gt;playfair (serif)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;customization-updating&#34;&gt;Customization &amp;amp; updating&lt;/h3&gt;
+
+&lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
+
+&lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
+
+&lt;p&gt;It is possible to carry out many customizations without touching any files in &lt;code&gt;themes/academic&lt;/code&gt;, making it easier to update the framework in the future.&lt;/p&gt;
+
+&lt;h3 id=&#34;navigation-menu&#34;&gt;Navigation menu&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;[[menu.main]]&lt;/code&gt; entries towards the bottom of &lt;code&gt;config.toml&lt;/code&gt; define the navigation links at the top of the website. They can be added or removed as desired.&lt;/p&gt;
+
+&lt;p&gt;To create a dropdown sub-menu, add &lt;code&gt;identifier = &amp;quot;something&amp;quot;&lt;/code&gt; to the parent item and &lt;code&gt;parent = &amp;quot;something&amp;quot;&lt;/code&gt; to the child item.&lt;/p&gt;
+
+&lt;h3 id=&#34;website-icon&#34;&gt;Website icon&lt;/h3&gt;
+
+&lt;p&gt;Save your main icon and mobile icon as square PNG images named &lt;code&gt;icon.png&lt;/code&gt; and &lt;code&gt;apple-touch-icon.png&lt;/code&gt;, respectively. Place them in your root &lt;code&gt;static/img/&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;h3 id=&#34;analytics&#34;&gt;Analytics&lt;/h3&gt;
+
+&lt;p&gt;To enable &lt;a href=&#34;http://www.google.com/analytics&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, add your tracking code in &lt;code&gt;config.toml&lt;/code&gt; similarly to &lt;code&gt;googleAnalytics = &amp;quot;UA-12345678-9&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;third-party-and-local-scripts-js&#34;&gt;Third party and local scripts (JS)&lt;/h3&gt;
+
+&lt;p&gt;To add a third party script, create a file named &lt;code&gt;head_custom.html&lt;/code&gt; in a &lt;code&gt;layouts/partials/&lt;/code&gt; folder at the root of your website (not in the &lt;code&gt;themes&lt;/code&gt; folder). Any HTML code added to this file will be included within your website&amp;rsquo;s &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. Therefore, it&amp;rsquo;s suitable for adding custom metadata or third party scripts specified with the &lt;em&gt;async&lt;/em&gt; attribute.&lt;/p&gt;
+
+&lt;p&gt;Whereas for your own local scripts, you can link your local JS assets (relative to your root &lt;code&gt;static/js&lt;/code&gt;) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_js  = [&amp;quot;custom.js&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;language-and-translation&#34;&gt;Language and translation&lt;/h3&gt;
+
+&lt;p&gt;The interface text (e.g. buttons) is stored in language files which are collected from Academic&amp;rsquo;s &lt;code&gt;themes/academic/i18n/&lt;/code&gt; folder, as well as an &lt;code&gt;i18n/&lt;/code&gt; folder at the root of your project.&lt;/p&gt;
+
+&lt;p&gt;To edit the interface text, copy &lt;code&gt;themes/academic/i18n/en.yaml&lt;/code&gt; to &lt;code&gt;i18n/en.yaml&lt;/code&gt; (relative to the root of your website). Open the new file and make any desired changes to the text appearing after &lt;code&gt;translation:&lt;/code&gt;. Note that the language files are formatted in YAML syntax.&lt;/p&gt;
+
+&lt;p&gt;To translate the interface text to another language, follow the above instructions, but name the new file in the form &lt;code&gt;i18n/X.yaml&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the appropriate &lt;a href=&#34;http://www.w3schools.com/tags/ref_language_codes.asp&#34; target=&#34;_blank&#34;&gt;ISO/RFC5646 language identifier&lt;/a&gt; for the translation. Then follow the brief instructions in the &lt;em&gt;Language&lt;/em&gt; section at the bottom of your &lt;code&gt;config.toml&lt;/code&gt;. To change the default language used by Academic, set &lt;code&gt;defaultContentLanguage&lt;/code&gt; to the desired language identifier in your configuration file.&lt;/p&gt;
+
+&lt;p&gt;To translate the navigation bar, you can edit the default &lt;code&gt;[[menu.main]]&lt;/code&gt; instances in &lt;code&gt;config.toml&lt;/code&gt;. However, for a multilingual site, you will need to duplicate all of the &lt;code&gt;[[menu.main]]&lt;/code&gt; instances and rename the new instances from &lt;code&gt;[[menu.main]]&lt;/code&gt; to &lt;code&gt;[[Languages.X.menu.main]]&lt;/code&gt;, where &lt;code&gt;X&lt;/code&gt; is the language identifier (e.g. &lt;code&gt;[[Languages.zh.menu.main]]&lt;/code&gt; for Simplified Chinese). Thus, the navigation bar can be displayed in multiple languages.&lt;/p&gt;
+
+&lt;p&gt;To translate a content file in your &lt;code&gt;content/&lt;/code&gt; folder into another language, copy the file to &lt;code&gt;filename.X.md&lt;/code&gt; where &lt;code&gt;filename&lt;/code&gt; is your existing filename and &lt;code&gt;X&lt;/code&gt; is the appropriate &lt;a href=&#34;http://www.w3schools.com/tags/ref_language_codes.asp&#34; target=&#34;_blank&#34;&gt;ISO/RFC5646 language identifier&lt;/a&gt; for the translation. Then translate the content in the new file to the specified language.&lt;/p&gt;
+
+&lt;p&gt;For further details on Hugo&amp;rsquo;s internationalization and multilingual features, refer to the &lt;a href=&#34;https://gohugo.io/content/multilingual/&#34; target=&#34;_blank&#34;&gt;associated Hugo documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;permalinks&#34;&gt;Permalinks&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Permalinks&lt;/em&gt;, or &lt;em&gt;permanent links&lt;/em&gt;, are URLs to individual pages and posts on your website. They are permanent web addresses which can be used to link to your content. Using Hugo&amp;rsquo;s &lt;em&gt;permalinks&lt;/em&gt; option these can be easily customized. For example, the blog post URL can be changed to the form &lt;em&gt;yourURL/2016/05/01/my-post-slug&lt;/em&gt; by adding the following near the top of your &lt;code&gt;config.toml&lt;/code&gt; (before &lt;code&gt;[params]&lt;/code&gt; settings):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[permalinks]
+    post = &amp;quot;/:year/:month/:day/:slug&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Where &lt;code&gt;:slug&lt;/code&gt; defaults to the filename of the post, excluding the file extension. However, slug may be overridden on a per post basis if desired, simply by setting &lt;code&gt;slug = &amp;quot;my-short-post-title&amp;quot;&lt;/code&gt; in your post preamble.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt; let&amp;rsquo;s consider changing the URL path of posts from &lt;code&gt;post/&lt;/code&gt; to &lt;code&gt;blog/&lt;/code&gt;. First, add the following parameters right above the &lt;code&gt;[params]&lt;/code&gt; section of your &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[permalinks]
+    post = &amp;quot;/blog/:slug&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then add &lt;code&gt;aliases = [&amp;quot;/blog/&amp;quot;]&lt;/code&gt; to your post archive page &lt;code&gt;post/_index.md&lt;/code&gt; so that it can be accessed from the &lt;em&gt;/blog/&lt;/em&gt; URL.&lt;/p&gt;
+
+&lt;h3 id=&#34;advanced-style-customization-css&#34;&gt;Advanced style customization (CSS)&lt;/h3&gt;
+
+&lt;p&gt;For advanced customization of the style, you can link custom CSS assets (relative to your root &lt;code&gt;static/css&lt;/code&gt;) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_css = [&amp;quot;custom.css&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;For example, let&amp;rsquo;s override some of Academic&amp;rsquo;s default styles. First, define &lt;code&gt;custom_css = [&amp;quot;override.css&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. Then we can create the file &lt;code&gt;static/css/override.css&lt;/code&gt;, relative to your website root (i.e. &lt;strong&gt;not&lt;/strong&gt; in the &lt;code&gt;themes&lt;/code&gt; directory). Add your custom CSS to this file.&lt;/p&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/tags/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
+
+&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory, or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;p&gt;Before updating for the first time, the remote &lt;em&gt;origin&lt;/em&gt; repository should be renamed to &lt;em&gt;upstream&lt;/em&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd themes/academic
+$ git remote rename origin upstream
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To list available updates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd themes/academic
+$ git fetch upstream
+$ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, update by running:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git pull upstream
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you have modified files in &lt;code&gt;themes/academic&lt;/code&gt;, git will attempt to auto-merge changes. If conflicts are reported, you will need to manually edit the files with conflicts and add them back (&lt;code&gt;git add &amp;lt;filename&amp;gt;&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;If there are any issues after updating, you may wish to compare your site with the latest &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;example site&lt;/a&gt; to check if any settings changed in &lt;code&gt;config.toml&lt;/code&gt; or the &lt;code&gt;+++&lt;/code&gt; frontmatter of content files.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+
+&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+
+&lt;p&gt;For general questions about Hugo, there is a &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2017 &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Social interactions and crime revisited: An investigation using individual offender data in Dutch neighborhoods</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2017-article-social-interactions/</link>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2017-article-social-interactions/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2017-article-social-interactions/</guid>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2017-article-social-interactions/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Where the action is in crime? An examination of variability of crime across different spatial units in The Hague, 2001-2009</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-crime-variability-nested/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-crime-variability-nested/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <title>A Micro-Spatial Longitudinal Analysis of Home Burglary Concentration and Spatial Stability in the Context of a Crime Drop</title>
+      <link>https://numbersman77.netlify.com/talk/2017-asc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-asc/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Hotspots van high impact-criminaliteit in Amsterdam: 2008-2013</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-chapter-hotspots-high-impact/</link>
-      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-chapter-hotspots-high-impact/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <title>How businesses and facilities affect crime: a fixed effects analysis of street segments over a ten-year period in The Hague, The Netherlands</title>
+      <link>https://numbersman77.netlify.com/talk/2017-oslo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-oslo/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Lost letters in Dutch neighborhoods: A field experiment on collective efficacy</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-lost-letters/</link>
-      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-lost-letters/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <title>Open for business: The impact of opening hours on street segment crime levels</title>
+      <link>https://numbersman77.netlify.com/talk/2016-asc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2016-asc/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Types of crimes and types of mechanisms: What are the consequences for neighborhoods over time?</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-types-crime/</link>
-      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-types-crime/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <title>Residential burglary target selection: an analysis using Google maps</title>
+      <link>https://numbersman77.netlify.com/talk/2016-esc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2016-esc/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Verschillen zorgkosten tussen zorggroepen? Vergelijking van zorggroepen voor mensen met diabetes.</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-zorgkosten/</link>
-      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-zorgkosten/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <title>Ruimtelijk-temporele patronen van woninginbraak in Antwerpen, 2005-2014: In hoeverre is woninginbraak geconcentreerd in bepaalde straatsegmenten, en hoe stabiel is deze concentratie over de tijd?</title>
+      <link>https://numbersman77.netlify.com/talk/2017-nvc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-nvc/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Does social capital enhance political participation of older adults? A multi-level analysis of older Finns and Swedes</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-social-capital-elderly/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-social-capital-elderly/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <title>Wat maakt het misdaadpatroon: buurt of straat?</title>
+      <link>https://numbersman77.netlify.com/talk/2017-ministry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-ministry/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>No evidence that gender contributes to personal research funding success in The Netherlands: A reaction to van der Lee and Ellemers</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2015-letter-no-evidence-gender-inequality/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2015-letter-no-evidence-gender-inequality/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <title>Cybercriminal decision-making</title>
+      <link>https://numbersman77.netlify.com/project/cybercrime/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/project/cybercrime/</guid>
+      <description>&lt;p&gt;Existing theories assume that offenders make rational decisions, but these theories have rarely been tested experimentally. This project uses &amp;lsquo;honey accounts&amp;rsquo;, online accounts that have deliberately been rendered vulnerable to hacking, to allow an experimental investigation of cybercriminals&amp;rsquo; behavior. The research offers unique opportunities for conducting a stringent test of existing criminology theories on offenders&amp;rsquo; decision-making behavior. This study of offender behavior will broaden our understanding of cybercrime, as previous research has tended to focus on victims and security.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Where Broken Windows should be fixed: Towards identification of areas at the tipping point</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-broken-windows/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-broken-windows/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <title>Risk Across the Urban Landscape</title>
+      <link>https://numbersman77.netlify.com/project/risk-urban/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/project/risk-urban/</guid>
+      <description>&lt;p&gt;Parameters of Risk Across the Urban Landscape (PRAUL) uses data from multiple years on victimizations, crime risk factors, and victimization surveys to analyze these causal links between criminogeneity, fear of crime, and actual crime for the city of Amsterdam. Spatio-temporal clustering and regionalization procedures are used to identify areas of elevated risk and delineate analytical sub-regions that are as homogeneous as possible for the theoretical constructs of interest. These newly defined areas serve as units of analysis to study the interplay between the purported crime risk factors, crime, and the public’s reaction to crime and policing from a spatio-temporal perspective. The project aims to provide new insights into the relative importance of individual- and area-level causal factors of fear of crime.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The willingness to intervene in problematic neighbourhood situations: A comparison of local entrepreneurs and (un-)employed residents</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2014-article-willingness-intervene-entrpreneurs/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2014-article-willingness-intervene-entrpreneurs/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Social capital and self-rated health amongst older people in western Finland and northern Sweden: A multi-level analysis</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2013-article-social-capital-health/</link>
-      <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2013-article-social-capital-health/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Space-time visualization and analysis of public attitudes towards crime and policing in the Netherlands, 1993-2001</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2013-chapter-space-time-police/</link>
-      <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2013-chapter-space-time-police/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Buurtproblemen als vrijwilligersdilemma’s</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2012-chapter-volunteer-dilemma/</link>
-      <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2012-chapter-volunteer-dilemma/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A second {M}arshall inequality in convex estimation</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_a_second_marshall_/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_a_second_marshall_/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the max-domain of attraction of distributions with log-concave densities</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_on_the_max-domain_of/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_on_the_max-domain_of/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computing Maximum Likelihood Estimators of a Log-Concave Density Function</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2007-01-01_computing_maximum_li/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2007-01-01_computing_maximum_li/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eintrittsraten und Austrittswahrscheinlichkeiten EVK 2000</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2001_01_01_evk/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2001_01_01_evk/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -1,313 +1,431 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication_types/2/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/</loc>
+      <lastmod>2018-06-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2018-cgca/</loc>
+      <lastmod>2018-06-06T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/jan-rouwendal/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2018-ecca/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/</loc>
+      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication_types/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/</loc>
+      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2017-article-social-interactions/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/crime-pattern/</loc>
+      <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/thomas-de-graaff/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/lorenzgini/</loc>
+      <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/wim-bernasco/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2018-stlouis/</loc>
+      <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/wouter-steenbeek/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/2018-01-06-hello-world/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/</loc>
-    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/misc/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/david-weisburd/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/getting-started/</loc>
+      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-crime-variability-nested/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/hugo-setup/</loc>
+      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication_types/6/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication_types/2/</loc>
+      <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/beate-g.m.-volker/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication_types/</loc>
+      <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/christian-kreis/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2017-article-social-interactions/</loc>
+      <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/gerald-mollenhorst/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/hans-boutellier/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/henk-d.-flap/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2016-chapter-hotspots-high-impact/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2017-asc/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/john-r.-hipp/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2017-oslo/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-lost-letters/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2016-asc/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/ronald-van-steden/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2016-esc/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-types-crime/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2017-nvc/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/veronique-a.j.m.-schutjens/</loc>
-    <lastmod>2016-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/2017-ministry/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/caroline-a.-baan/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/project/cybercrime/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/claudia-c.-molema/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/project/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/jeroen-n.-struijs/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/project/risk-urban/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/michael-j.-van-den-berg/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/project/risky-business/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/sigrid-m.-mohnen/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/project/time-for-crime/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/simone-r.-de-bruin/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/cyber/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-zorgkosten/</loc>
-    <lastmod>2016-06-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/spatio-temporal/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-social-capital-elderly/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/sppt/</loc>
+      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/fredrica-nyqvist/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/sppt/</loc>
+      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/gunborg-jakobsson/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/widgets/</loc>
+      <lastmod>2016-04-19T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/mikael-nygard/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/managing-content/</loc>
+      <lastmod>2016-04-18T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2015-letter-no-evidence-gender-inequality/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/writing-markdown-latex/</loc>
+      <lastmod>2016-04-17T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-broken-windows/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/faq/</loc>
+      <lastmod>2016-04-10T00:00:00+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2014-article-willingness-intervene-entrpreneurs/</loc>
-    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2013-article-social-capital-health/</loc>
-    <lastmod>2013-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/categories/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2013-chapter-space-time-police/</loc>
-    <lastmod>2013-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/2015-07-23-r-rmarkdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2012-chapter-volunteer-dilemma/</loc>
-    <lastmod>2012-07-28T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/categories/r/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_a_second_marshall_/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/post/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+01:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/fadoua-balabdaoui/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/kaspar-rufibach/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_on_the_max-domain_of/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_on_the_max-domain_of/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2007-01-01_computing_maximum_li/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/samuel-muller/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2007-01-01_computing_maximum_li/</loc>
-    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/publication/stats_articles/2001_01_01_evk/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/manuel-bertschy/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/manuela-schuettel/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/michael-vock/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/tina-wasserfallen/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kasparrufibach.ch/tags/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2001_01_01_evk/</loc>
+      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
 </urlset>

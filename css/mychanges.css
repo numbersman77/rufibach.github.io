@@ -1,0 +1,18 @@
+/*************************************************
+ *  A custom theme for Hugo Academic
+ *  Set `custom_css = ["mychanges.css"] in `config.toml`.
+ *  Then save this file as `/static/css/mychanges.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+ 
+ /*************************************************
+ *  Fonts (note: update link @ themes/hugo-academic/layouts/partials)
+ **************************************************/
+
+html {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: rgba(0,0,0,0.8);
+  line-height: 1.65;
+}

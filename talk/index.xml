@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Kaspar Rufibach, PhD</title>
+    <link>https://numbersman77.netlify.com/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Kaspar Rufibach, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing for similarity in area-based spatial patterns: Andresen&#39;s test, critique, and improvements (keynote)</title>
+      <link>https://numbersman77.netlify.com/talk/2018-cgca/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2018-cgca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning: What&#39;s it all about? A comparison to conjunctive analysis of case configurations as a case in point</title>
+      <link>https://numbersman77.netlify.com/talk/2018-ecca/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2018-ecca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing for similarity in area-based spatial patterns: how the pattern of pedestrian stops by the NYPD differs from crime (2006-2016)</title>
+      <link>https://numbersman77.netlify.com/talk/2018-stlouis/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2018-stlouis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro-Spatial Longitudinal Analysis of Home Burglary Concentration and Spatial Stability in the Context of a Crime Drop</title>
+      <link>https://numbersman77.netlify.com/talk/2017-asc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-asc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How businesses and facilities affect crime: a fixed effects analysis of street segments over a ten-year period in The Hague, The Netherlands</title>
+      <link>https://numbersman77.netlify.com/talk/2017-oslo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-oslo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open for business: The impact of opening hours on street segment crime levels</title>
+      <link>https://numbersman77.netlify.com/talk/2016-asc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2016-asc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residential burglary target selection: an analysis using Google maps</title>
+      <link>https://numbersman77.netlify.com/talk/2016-esc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2016-esc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruimtelijk-temporele patronen van woninginbraak in Antwerpen, 2005-2014: In hoeverre is woninginbraak geconcentreerd in bepaalde straatsegmenten, en hoe stabiel is deze concentratie over de tijd?</title>
+      <link>https://numbersman77.netlify.com/talk/2017-nvc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-nvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wat maakt het misdaadpatroon: buurt of straat?</title>
+      <link>https://numbersman77.netlify.com/talk/2017-ministry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017-ministry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

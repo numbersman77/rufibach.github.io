@@ -1,137 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Kaspar Rufibach, PhD</title>
-    <link>https://www.kasparrufibach.ch/publication_types/2/</link>
-      <atom:link href="https://www.kasparrufibach.ch/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.kasparrufibach.ch/img/icon-192.png</url>
-      <title>2</title>
-      <link>https://www.kasparrufibach.ch/publication_types/2/</link>
-    </image>
+    <title>2 on Kaspar Rufibach, PhD</title>
+    <link>https://numbersman77.netlify.com/publication_types/2/</link>
+    <description>Recent content in 2 on Kaspar Rufibach, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Social interactions and crime revisited: An investigation using individual offender data in Dutch neighborhoods</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2017-article-social-interactions/</link>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2017-article-social-interactions/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2017-article-social-interactions/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Where the action is in crime? An examination of variability of crime across different spatial units in The Hague, 2001-2009</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-crime-variability-nested/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-crime-variability-nested/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lost letters in Dutch neighborhoods: A field experiment on collective efficacy</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-lost-letters/</link>
-      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-lost-letters/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Types of crimes and types of mechanisms: What are the consequences for neighborhoods over time?</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-types-crime/</link>
-      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-types-crime/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Verschillen zorgkosten tussen zorggroepen? Vergelijking van zorggroepen voor mensen met diabetes.</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-zorgkosten/</link>
-      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2016-article-zorgkosten/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Does social capital enhance political participation of older adults? A multi-level analysis of older Finns and Swedes</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-social-capital-elderly/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-social-capital-elderly/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>No evidence that gender contributes to personal research funding success in The Netherlands: A reaction to van der Lee and Ellemers</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2015-letter-no-evidence-gender-inequality/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2015-letter-no-evidence-gender-inequality/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Where Broken Windows should be fixed: Towards identification of areas at the tipping point</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-broken-windows/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2015-article-broken-windows/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The willingness to intervene in problematic neighbourhood situations: A comparison of local entrepreneurs and (un-)employed residents</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2014-article-willingness-intervene-entrpreneurs/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2014-article-willingness-intervene-entrpreneurs/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Social capital and self-rated health amongst older people in western Finland and northern Sweden: A multi-level analysis</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2013-article-social-capital-health/</link>
-      <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2013-article-social-capital-health/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2017-article-social-interactions/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>A second {M}arshall inequality in convex estimation</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_a_second_marshall_/</link>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_a_second_marshall_/</guid>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the max-domain of attraction of distributions with log-concave densities</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_on_the_max-domain_of/</link>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_on_the_max-domain_of/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2008-01-01_on_the_max-domain_of/</guid>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_on_the_max-domain_of/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing Maximum Likelihood Estimators of a Log-Concave Density Function</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2007-01-01_computing_maximum_li/</link>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2007-01-01_computing_maximum_li/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2007-01-01_computing_maximum_li/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2007-01-01_computing_maximum_li/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Eintrittsraten und Austrittswahrscheinlichkeiten EVK 2000</title>
-      <link>https://www.kasparrufibach.ch/publication/stats_articles/2001_01_01_evk/</link>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2001_01_01_evk/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://www.kasparrufibach.ch/publication/stats_articles/2001_01_01_evk/</guid>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2001_01_01_evk/</guid>
       <description></description>
     </item>
     
