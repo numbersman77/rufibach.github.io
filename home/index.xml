@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>https://numbersman77.netlify.com/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
     
     <item>
       <title></title>
@@ -28,7 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/about/</guid>
-      <description>About Kaspar Rufibach has received training as a mathematical statistician. Through more than 15 years in various biostatistical roles he has complemented his thorough theoretical background with expertise in biostatistics. He is passionate about applying this expertise to solve problems in pharmaceutical drug development.</description>
+      <description>About Kaspar Rufibach has received training as a mathematical statistician. Through more than 15 years in various biostatistical roles he has complemented his thorough theoretical background with expertise in biostatistics. He is passionate about applying this expertise to solve problems in pharmaceutical drug development.
+[Curriculum Vitae](&amp;ldquo;files/01_Kaspar_Rufibach_CV.pdf&amp;rdquo;)</description>
     </item>
     
     <item>
@@ -37,15 +28,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Featured Publication</title>
-      <link>https://numbersman77.netlify.com/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/home/publications_selected/</guid>
       <description></description>
     </item>
     
@@ -83,15 +65,6 @@
       
       <guid>https://numbersman77.netlify.com/home/software/</guid>
       <description>When I think it may be helpful to others, I publish my code as a software package. So far, I have published two R packages on Github: </description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://numbersman77.netlify.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/home/tags/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -80,44 +80,6 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/post/2018-01-06-hello-world/</loc>
-      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/misc/</loc>
-      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/post/getting-started/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/hugo-setup/</loc>
-      <lastmod>2018-01-03T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/publication_types/2/</loc>
       <lastmod>2017-12-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -140,15 +102,6 @@
     
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2017-article-social-interactions/</loc>
       <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -313,89 +266,6 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/post/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/categories/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -425,6 +295,15 @@
     
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2001_01_01_evk/</loc>
       <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
