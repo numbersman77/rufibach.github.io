@@ -6,28 +6,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Testing for similarity in area-based spatial patterns: Andresen&#39;s test, critique, and improvements (keynote)</title>
-      <link>https://numbersman77.netlify.com/talk/2018-cgca/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2018-cgca/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Machine learning: What&#39;s it all about? A comparison to conjunctive analysis of case configurations as a case in point</title>
-      <link>https://numbersman77.netlify.com/talk/2018-ecca/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2018-ecca/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
     
     <item>
       <title>lorenzgini: generalized Gini for sparse data situations</title>
@@ -56,71 +36,21 @@
     </item>
     
     <item>
-      <title>Testing for similarity in area-based spatial patterns: how the pattern of pedestrian stops by the NYPD differs from crime (2006-2016)</title>
-      <link>https://numbersman77.netlify.com/talk/2018-stlouis/</link>
+      <title></title>
+      <link>https://numbersman77.netlify.com/talk/1900_template/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://numbersman77.netlify.com/talk/2018-stlouis/</guid>
+      <guid>https://numbersman77.netlify.com/talk/1900_template/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>A Micro-Spatial Longitudinal Analysis of Home Burglary Concentration and Spatial Stability in the Context of a Crime Drop</title>
-      <link>https://numbersman77.netlify.com/talk/2017-asc/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>rpact - R Package for Adaptive Clinical Trials</title>
+      <link>https://numbersman77.netlify.com/talk/2019_rufibach_psi_webinar_adaptive/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://numbersman77.netlify.com/talk/2017-asc/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How businesses and facilities affect crime: a fixed effects analysis of street segments over a ten-year period in The Hague, The Netherlands</title>
-      <link>https://numbersman77.netlify.com/talk/2017-oslo/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2017-oslo/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open for business: The impact of opening hours on street segment crime levels</title>
-      <link>https://numbersman77.netlify.com/talk/2016-asc/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2016-asc/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Residential burglary target selection: an analysis using Google maps</title>
-      <link>https://numbersman77.netlify.com/talk/2016-esc/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2016-esc/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ruimtelijk-temporele patronen van woninginbraak in Antwerpen, 2005-2014: In hoeverre is woninginbraak geconcentreerd in bepaalde straatsegmenten, en hoe stabiel is deze concentratie over de tijd?</title>
-      <link>https://numbersman77.netlify.com/talk/2017-nvc/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2017-nvc/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wat maakt het misdaadpatroon: buurt of straat?</title>
-      <link>https://numbersman77.netlify.com/talk/2017-ministry/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2017-ministry/</guid>
+      <guid>https://numbersman77.netlify.com/talk/2019_rufibach_psi_webinar_adaptive/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
@@ -179,6 +109,75 @@
 
 &lt;p&gt;To install the package, follow the instructions on its &lt;a href=&#34;https://github.com/wsteenbeek/sppt&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The block criterion for multiscale inference about a density, with applications to other multiscale problems</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010-01-02_the_block_criterion_/</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010-01-02_the_block_criterion_/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Active Set Algorithm to Estimate Parameters in Generalized Linear Models with Ordered Predictors</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010-01-01_an_active_set_algori/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010-01-01_an_active_set_algori/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>reporttools: R Functions to Generate LaTeX Tables of Descriptive Statistics</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009-01-04_reporttools_r_functi/</link>
+      <pubDate>Sun, 04 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-04_reporttools_r_functi/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smooth tail index estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009-01-03_smooth_tail_index_es/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-03_smooth_tail_index_es/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Limit Distribution Theory for Maximum Likelihood Estimation of a Log-Concave Density</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009-01-02_limit_distribution_t/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-02_limit_distribution_t/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximum Likelihood Estimation of a Log-Concave Density and its Distribution Function</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A second Marshall inequality in convex estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</guid>
+      <description></description>
     </item>
     
   </channel>
