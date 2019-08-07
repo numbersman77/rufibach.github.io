@@ -46,11 +46,31 @@
     </item>
     
     <item>
-      <title>rpact - R Package for Adaptive Clinical Trials</title>
-      <link>https://numbersman77.netlify.com/talk/2019_rufibach_psi_webinar_adaptive/</link>
+      <title></title>
+      <link>https://numbersman77.netlify.com/talk/2019_ct_europe/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://numbersman77.netlify.com/talk/2019_rufibach_psi_webinar_adaptive/</guid>
+      <guid>https://numbersman77.netlify.com/talk/2019_ct_europe/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://numbersman77.netlify.com/talk/2019_roes/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2019_roes/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rpact - R Package for Adaptive Clinical Trials</title>
+      <link>https://numbersman77.netlify.com/talk/2019_psi_webinar/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2019_psi_webinar/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
@@ -159,25 +179,6 @@
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-02_limit_distribution_t/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Maximum Likelihood Estimation of a Log-Concave Density and its Distribution Function</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A second Marshall inequality in convex estimation</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</guid>
-      <description></description>
     </item>
     
   </channel>
