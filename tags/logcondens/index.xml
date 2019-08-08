@@ -18,7 +18,13 @@
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/software/logcondens/</guid>
-      <description></description>
+      <description>[Download from CRAN](&amp;ldquo;http://cran.r-project.org/package=logcondens&amp;quot;)
+[Paper 1](&amp;ldquo;http://dx.doi.org/10.3150/08-BEJ141&amp;quot;)
+[Paper 2](&amp;ldquo;http://www.jstatsoft.org/v39/i06&amp;quot;)
+[Paper 3](&amp;ldquo;http://dx.doi.org/10.1214/08-AOS609&amp;quot;)
+[Paper 4](&amp;ldquo;http://dx.doi.org/10.1515/1557-4679.1378&amp;quot;)
+[![Alt Text](&amp;ldquo;http://depsy.org/api/package/cran/logcondens/badge.svg&amp;quot;)](&amp;quot;http://depsy.org/package/r/logcondens&amp;quot;)
+[![Alt Text](&amp;ldquo;https://cranlogs.r-pkg.org/badges/logcondens&amp;quot;)](&amp;quot;https://cranlogs.r-pkg.org/badges/logcondens&amp;quot;)</description>
     </item>
     
   </channel>
