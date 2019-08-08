@@ -6,34 +6,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>lorenzgini: generalized Gini for sparse data situations</title>
-      <link>https://numbersman77.netlify.com/software/lorenzgini/</link>
-      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/lorenzgini/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/wsteenbeek/lorenzgini&#34; target=&#34;_blank&#34;&gt;lorenzgini&lt;/a&gt; is an R package that calculcates the standard Gini coefficient as well as the generalized coefficient, and plots Lorenz curves. The Lorenz plots show the line of maximal equality given the data.&lt;/p&gt;
-
-&lt;p&gt;The package builds on &lt;a href=&#34;https://doi.org/10.1007/s10940-016-9324-7&#34; target=&#34;_blank&#34;&gt;this paper&lt;/a&gt; in which Wim Bernasco and I wrote that the crime and place literature lacks a standard methodology for measuring and reporting crime concentration. We suggested that crime concentration be reported with the Lorenz curve and summarized with the Gini coefficient, and we proposed generalized versions of the Lorenz curve and the Gini coefficient to correct for bias when crime data are sparse (i.e., fewer crimes than places).&lt;/p&gt;
-
-&lt;p&gt;The proposed generalizations are based on the principle that the observed crime concentration should not be compared with perfect equality, but with maximal equality given the data. The generalizations asymptotically approach the original Lorenz curve and the original Gini coefficient as the number of crimes approaches the number of spatial units.&lt;/p&gt;
-
-&lt;p&gt;The package goes a bit beyond the method in the published paper:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;In footnote 3 of our paper we stated that we ignored the bias in the standard Gini because the bias is small in exactly the situations that we were addressing: when # units of analysis is large. However, if there are only a few crimes (and for example all of which are located in one unit), the generalized gini will have quite some bias. In the package, we now also correct for this (using the function argument &lt;code&gt;unbiased&lt;/code&gt;).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Instead of the jackknife procedure we briefly discuss in the paper, a bootstrap procedure is implemented to calculate confidence intervals of the Gini. Our reasoning is that the jackknife only leads to a variance that can be used to calculate a standard error, but confidence intervals based on jackknife’s s.e. assume a normal distribution which is very often not the case. Bootstrapping gives correct (parametric or non-parametric) confidence intervals, although the usual caveats apply for small counts. Various options are possible, leveraging the &lt;code&gt;boot&lt;/code&gt; package. Note that one can also automatically plot the distribution of the bootstrap-simulated Ginis.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The Lorenz plot can be automatically rescaled. This could be more useful when comparing two crime types than the original plots (Figure 3 and Figure 5, right-hand side) in the paper.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To install the package, follow the instructions on its &lt;a href=&#34;https://github.com/wsteenbeek/lorenzgini&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title></title>
@@ -177,6 +151,16 @@
       <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-02_limit_distribution_t/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximum Likelihood Estimation of a Log-Concave Density and its Distribution Function</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>

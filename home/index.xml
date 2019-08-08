@@ -32,6 +32,15 @@ Curriculum Vitae</description>
     </item>
     
     <item>
+      <title>Software</title>
+      <link>https://numbersman77.netlify.com/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/home/software/</guid>
+      <description>When I think it may be helpful to others, I publish my code as a software package. So far, I have published two R packages on Github: </description>
+    </item>
+    
+    <item>
       <title>Talks</title>
       <link>https://numbersman77.netlify.com/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -65,15 +74,6 @@ Curriculum Vitae</description>
       
       <guid>https://numbersman77.netlify.com/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://numbersman77.netlify.com/home/software/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/home/software/</guid>
-      <description>When I think it may be helpful to others, I publish my code as a software package. So far, I have published two R packages on Github: </description>
     </item>
     
   </channel>

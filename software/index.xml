@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/software/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>lorenzgini: generalized Gini for sparse data situations</title>
-      <link>https://numbersman77.netlify.com/software/lorenzgini/</link>
-      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/lorenzgini/</guid>
-      <description>Calculates the standard Gini coefficient as well as the generalized coefficient, and plots Lorenz curves. The Lorenz plots show the line of maximal equality given the data.</description>
-    </item>
     
     <item>
       <title>sppt: Spatial Point Pattern Test</title>
@@ -28,6 +19,15 @@
       
       <guid>https://numbersman77.netlify.com/software/sppt/</guid>
       <description>Implements several area-based tests that measure the degree of similarity at the local level between two spatial point patterns.</description>
+    </item>
+    
+    <item>
+      <title>logcondens: Estimate a Log-Concave Probability Density from i.i.d. Observations.</title>
+      <link>https://numbersman77.netlify.com/software/logcondens/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/logcondens/</guid>
+      <description></description>
     </item>
     
   </channel>
