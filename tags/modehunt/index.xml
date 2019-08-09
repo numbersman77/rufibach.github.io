@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modehunt on Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/modehunt/</link>
+    <description>Recent content in modehunt on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/tags/modehunt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>modehunt</title>
+      <link>https://numbersman77.netlify.com/software/modehunt/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/modehunt/</guid>
+      <description>Rufibach, K., Walther, G. (2007): &lt;em&gt;modehunt: Multiscale Analysis for Density Functions&lt;/em&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
