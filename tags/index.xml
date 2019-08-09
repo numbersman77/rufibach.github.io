@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Kaspar Rufibach</title>
+    <title>Kaspar Rufibach</title>
     <link>https://numbersman77.netlify.com/tags/</link>
-    <description>Recent content in Tags on Kaspar Rufibach</description>
+    <description>Recent content on Kaspar Rufibach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
@@ -13,30 +13,25 @@
     
     
     <item>
-      <title></title>
-      <link>https://numbersman77.netlify.com/tags/</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <title>reporttools</title>
+      <link>https://numbersman77.netlify.com/software/reporttools/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/tags/</guid>
-      <description></description>
+      <guid>https://numbersman77.netlify.com/software/reporttools/</guid>
+      <description>Rufibach, K (2008): &lt;em&gt;reporttools: Generate LaTeX Tables of Descriptive Statistics&lt;/em&gt;</description>
     </item>
     
     <item>
-      <title>cyber</title>
-      <link>https://numbersman77.netlify.com/tags/cyber/</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      <title>modehunt</title>
+      <link>https://numbersman77.netlify.com/software/modehunt/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/tags/cyber/</guid>
-      <description></description>
+      <guid>https://numbersman77.netlify.com/software/modehunt/</guid>
+      <description>Kaspar Rufibach and Guenther Walther (2007): &lt;em&gt;modehunt: Multiscale Analysis for Density Functions&lt;/em&gt;</description>
     </item>
     
-    <item>
-      <title>spatio-temporal</title>
-      <link>https://numbersman77.netlify.com/tags/spatio-temporal/</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/tags/spatio-temporal/</guid>
-      <description></description>
+  </channel>
+</rss>description>
     </item>
     
     <item>
