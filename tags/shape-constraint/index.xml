@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 02 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/tags/shape-constraint/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>selectMeta</title>
+      <link>https://numbersman77.netlify.com/software/selectmeta/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/selectmeta/</guid>
+      <description>Kaspar Rufibach (2010): &lt;em&gt;selectMeta: Estimation of Weight Functions in Meta Analysis&lt;/em&gt;</description>
+    </item>
+    
+    <item>
+      <title>OrdMonReg</title>
+      <link>https://numbersman77.netlify.com/software/ordmonreg/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/ordmonreg/</guid>
+      <description>Fadoua Balabdaoui, Kaspar Rufibach, Filippo Santambrogio (2009): &lt;em&gt;OrdMonReg: Compute least squares estimates of one bounded or two ordered isotonic regression curves&lt;/em&gt;</description>
+    </item>
     
     <item>
       <title>smoothtail</title>
@@ -18,16 +36,7 @@
       <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/software/smoothtail/</guid>
-      <description>Rufibach, K., Mueller, S. (2006): &lt;em&gt;smoothtail: Smooth Estimation of GPD Shape Parameter&lt;/em&gt;</description>
-    </item>
-    
-    <item>
-      <title>OrdMonReg</title>
-      <link>https://numbersman77.netlify.com/software/ordmonreg/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/ordmonreg/</guid>
-      <description>Rufibach, K., Duembgen, L. (2006): &lt;em&gt;OrdMonReg: Compute least squares estimates of one bounded or two ordered isotonic regression curves&lt;/em&gt;</description>
+      <description>Kaspar Rufibach and Samuel Mueller (2006): &lt;em&gt;smoothtail: Smooth Estimation of GPD Shape Parameter&lt;/em&gt;</description>
     </item>
     
     <item>
@@ -36,7 +45,7 @@
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/software/logcondens/</guid>
-      <description>Rufibach, K., Duembgen, L. (2006): &lt;em&gt;Estimate a Log-Concave Probability Density from i.i.d. Observations&lt;/em&gt;</description>
+      <description>Kaspar Rufibach and Lutz Duembgen (2006): &lt;em&gt;Estimate a Log-Concave Probability Density from i.i.d. Observations&lt;/em&gt;</description>
     </item>
     
   </channel>

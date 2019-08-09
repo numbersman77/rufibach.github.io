@@ -110,6 +110,22 @@
     </item>
     
     <item>
+      <title>selectMeta</title>
+      <link>https://numbersman77.netlify.com/software/selectmeta/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/selectmeta/</guid>
+      <description>&lt;p&gt;Publication bias, the fact that studies identified for inclusion in a meta analysis do not represent all studies on the topic of interest, is commonly recognized as a threat to the validity of the results of a meta analysis. One way to explicitly model publication bias is via selection models or weighted probability distributions. In this package we provide implementations of several parametric and nonparametric weight functions. The novelty in Rufibach (2011) is the proposal of a non-increasing variant of the nonparametric weight function of Dear &amp;amp; Begg (1992). The new approach potentially offers more insight in the selection process than other methods, but is more flexible than parametric approaches. To maximize the log-likelihood function proposed by Dear &amp;amp; Begg (1992) under a monotonicity constraint we use a differential evolution algorithm proposed by Ardia et al (2010a, b) and implemented in Mullen et al (2009). In addition, we offer a method to compute a confidence interval for the overall effect size theta, adjusted for selection bias as well as a function that computes the simulation-based p-value to assess the null hypothesis of no selection as described in Rufibach (2011, Section 6).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=selectMeta&#34; target=&#34;_blank&#34;&gt;Download selectMeta from CRAN&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1002/bimj.201000240&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://depsy.org/package/r/selectMeta&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/selectMeta&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>reporttools: R Functions to Generate LaTeX Tables of Descriptive Statistics</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2009-01-04_reporttools_r_functi/</link>
       <pubDate>Sun, 04 Jan 2009 00:00:00 +0000</pubDate>
@@ -147,15 +163,6 @@
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A second Marshall inequality in convex estimation</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</guid>
-      <description></description>
     </item>
     
   </channel>

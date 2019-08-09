@@ -68,6 +68,16 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/tags/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/teaching/cybercrime/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
     </url>
@@ -182,6 +192,35 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/software/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/selectmeta/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/shape-constraint/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2009-01-04_reporttools_r_functi/</loc>
       <lastmod>2009-01-04T00:00:00+00:00</lastmod>
     </url>
@@ -218,6 +257,15 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/software/ordmonreg/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -236,26 +284,6 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/software/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/reporttools/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/software/reporttools/</loc>
       <lastmod>2016-07-16T00:00:00+00:00</lastmod>
     </url>
@@ -267,16 +295,6 @@
     
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2007-01-01_computing_maximum_li/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/modehunt/</loc>
-      <lastmod>2015-07-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -303,27 +321,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/tags/shape-constraint/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/software/smoothtail/</loc>
       <lastmod>2016-07-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/software/ordmonreg/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
     </url>
     
   
