@@ -293,8 +293,18 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/tags/smoothtail/</loc>
-      <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/tags/log-concave/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/shape-constraint/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -312,28 +322,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/tags/ordmonreg/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/software/ordmonreg/</loc>
       <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/logcondens/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
