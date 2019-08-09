@@ -90,22 +90,6 @@
     </item>
     
     <item>
-      <title>sppt: Spatial Point Pattern Test</title>
-      <link>https://numbersman77.netlify.com/software/sppt/</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/sppt/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/wsteenbeek/sppt&#34; target=&#34;_blank&#34;&gt;sppt&lt;/a&gt; is an R package that implements several Spatial Point Pattern Tests. The first version of the package started with Martin Andresen&amp;rsquo;s original &lt;a href=&#34;http://www.sfu.ca/~andresen/spptest/spptest.html&#34; target=&#34;_blank&#34;&gt;Spatial Point Pattern Test&lt;/a&gt;, but several other functions have been implemented since.&lt;/p&gt;
-
-&lt;p&gt;The tests in this package measure the degree of similarity at the local level between two spatial point patterns and is an area-based test. They are not used for the purpose of testing point patterns with the null hypotheses of random, uniform, or clustered distributions, but may be used to compare a particular point pattern with these distributions. One advantage of the tests is that they can be performed for a number of different area boundaries using the same original point datasets.&lt;/p&gt;
-
-&lt;p&gt;Apply these tests if you are fundamentally interested in the similarity of two (or more) spatial point patterns for a specified areal unit. Do incidences of some form of cancer have a similar spatial pattern to the locations of known risk factors? Does crime have a similar spatial pattern as drinking establishments? Is the spatial pattern of exports similar to the spatial pattern of imports? Additionally, this spatial point pattern test can be used in longitudinal contexts as well: Is the spatial pattern of crime this year similar to the spatial pattern of crime last year, or ten years ago?&lt;/p&gt;
-
-&lt;p&gt;To install the package, follow the instructions on its &lt;a href=&#34;https://github.com/wsteenbeek/sppt&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The block criterion for multiscale inference about a density, with applications to other multiscale problems</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2010-01-02_the_block_criterion_/</link>
       <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
@@ -163,6 +147,15 @@
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A second Marshall inequality in convex estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</guid>
+      <description></description>
     </item>
     
   </channel>

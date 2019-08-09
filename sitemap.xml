@@ -32,7 +32,7 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/</loc>
-      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -95,18 +95,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/software/</loc>
-      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/tags/</loc>
-      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -147,25 +137,6 @@
       <loc>https://numbersman77.netlify.com/tags/spatio-temporal/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/sppt/</loc>
-      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/software/sppt/</loc>
-      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -274,8 +245,37 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/software/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/smoothtail/</loc>
+      <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/smoothtail/</loc>
+      <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/tags/logcondens/</loc>
-      <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -285,7 +285,7 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/software/logcondens/</loc>
-      <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
     </url>
     
   

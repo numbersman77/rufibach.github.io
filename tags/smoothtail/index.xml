@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Softwares on Kaspar Rufibach</title>
-    <link>https://numbersman77.netlify.com/software/</link>
-    <description>Recent content in Softwares on Kaspar Rufibach</description>
+    <title>smoothtail on Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/smoothtail/</link>
+    <description>Recent content in smoothtail on Kaspar Rufibach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 02 Jan 2006 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://numbersman77.netlify.com/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://numbersman77.netlify.com/tags/smoothtail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://numbersman77.netlify.com/software/smoothtail/</guid>
       <description>Rufibach, K., Mueller, S. (2006): &lt;em&gt;smoothtail: Smooth Estimation of GPD Shape Parameter&lt;/em&gt;</description>
-    </item>
-    
-    <item>
-      <title>logcondens</title>
-      <link>https://numbersman77.netlify.com/software/logcondens/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/logcondens/</guid>
-      <description>Rufibach, K., Duembgen, L. (2006): &lt;em&gt;Estimate a Log-Concave Probability Density from i.i.d. Observations&lt;/em&gt;</description>
     </item>
     
   </channel>
