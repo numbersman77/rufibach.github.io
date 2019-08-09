@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Kaspar Rufibach and Guenther Walther (2007): modehunt: Multiscale Analysis for Density Functions">
+  <meta name="description" content="Kaspar Rufibach, Paul Jordan, Markus Abt (2016): bpp: Computations Around Bayesian Predictive Power">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://numbersman77.netlify.com/software/modehunt/">
+  <link rel="alternate" hreflang="en-us" href="https://numbersman77.netlify.com/software/bpp/">
 
   
 
@@ -68,7 +68,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://numbersman77.netlify.com/software/modehunt/">
+  <link rel="canonical" href="https://numbersman77.netlify.com/software/bpp/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -76,19 +76,19 @@
   <meta property="twitter:creator" content="@numbersman77">
   
   <meta property="og:site_name" content="Kaspar Rufibach">
-  <meta property="og:url" content="https://numbersman77.netlify.com/software/modehunt/">
-  <meta property="og:title" content="modehunt | Kaspar Rufibach">
-  <meta property="og:description" content="Kaspar Rufibach and Guenther Walther (2007): modehunt: Multiscale Analysis for Density Functions">
+  <meta property="og:url" content="https://numbersman77.netlify.com/software/bpp/">
+  <meta property="og:title" content="bpp | Kaspar Rufibach">
+  <meta property="og:description" content="Kaspar Rufibach, Paul Jordan, Markus Abt (2016): bpp: Computations Around Bayesian Predictive Power">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2007-01-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2016-01-01T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2015-07-03T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2016-07-16T00:00:00&#43;00:00">
   
 
-  <title>modehunt | Kaspar Rufibach</title>
+  
+
+  <title>bpp | Kaspar Rufibach</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -253,7 +253,7 @@
 
   <div class="article-container">
     <div class="article-inner">
-      <h1 itemprop="name">modehunt</h1>
+      <h1 itemprop="name">bpp</h1>
 
       
 
@@ -263,8 +263,8 @@
     
         Last updated on
     
-    <time datetime="2007-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished dateModified">
-      Jul 3, 2015
+    <time datetime="2016-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished dateModified">
+      Jul 16, 2016
     </time>
   </span>
   <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
@@ -289,35 +289,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=modehunt&amp;url=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fmodehunt%2f"
+         href="https://twitter.com/intent/tweet?text=bpp&amp;url=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fbpp%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fmodehunt%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fbpp%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fmodehunt%2f&amp;title=modehunt"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fbpp%2f&amp;title=bpp"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fmodehunt%2f&amp;title=modehunt"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fbpp%2f&amp;title=bpp"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=modehunt&amp;body=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fmodehunt%2f">
+         href="mailto:?subject=bpp&amp;body=https%3a%2f%2fnumbersman77.netlify.com%2fsoftware%2fbpp%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -331,13 +331,13 @@
 
 
       <div class="article-style" itemprop="articleBody">
-        <p>Given independent and identically distributed observations X(1), &hellip;, X(n) from a density f, provides five methods to perform a multiscale analysis about f as well as the necessary critical values. The first method, introduced in Duembgen and Walther (2008), provides simultaneous confidence statements for the existence and location of local increases (or decreases) of f, based on all intervals I(all) spanned by any two observations X(j), X(k). The second method approximates the latter approach by using only a subset of I(all) and is therefore computationally much more efficient, but asymptotically equivalent. Omitting the additive correction term Gamma in either method offers another two approaches which are more powerful on small scales and less powerful on large scales, however, not asymptotically minimax optimal anymore. Finally, the block procedure is a compromise between adding Gamma or not, having intermediate power properties. The latter is again asymptotically equivalent to the first and was introduced in Rufibach and Walther (2010).</p>
+        <p>Implements functions to update Bayesian Predictive Power Computations after not stopping a clinical trial at an interim analysis. Such an interim analysis can either be blinded or unblinded. Code is provided for Normally distributed endpoints with known variance, with a prominent example being the hazard ratio.</p>
 
-<p><a href="http://cran.r-project.org/package=modehunt" target="_blank">Download modehunt from CRAN</a><br>
-<a href="http://dx.doi.org/10.1198/jcgs.2009.07071" target="_blank">Paper</a><br>
-<a href="http://depsy.org/package/r/modehunt" target="_blank">Depsy</a><br></p>
+<p><a href="http://cran.r-project.org/package=bpp" target="_blank">Download bpp from CRAN</a><br>
+<a href="http://dx.doi.org/10.1080/10543406.2014.972508" target="_blank">Paper 1</a><br>
+<a href="http://dx.doi.org/10.1002/pst.1764" target="_blank">Paper 2</a><br></p>
 
-<p><img src="https://cranlogs.r-pkg.org/badges/modehunt" alt="" /></p>
+<p><img src="https://cranlogs.r-pkg.org/badges/bpp" alt="" /></p>
 
       </div>
 
@@ -346,7 +346,7 @@
 
 <div class="article-tags">
   
-  <a class="btn btn-primary btn-outline" href="/tags/"></a>
+  <a class="btn btn-primary btn-outline" href="/tags/predictive-power">predictive power</a>
   
 </div>
 

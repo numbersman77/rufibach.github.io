@@ -154,6 +154,92 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/software/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/bpp/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/predictive-power/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/survregcenscov/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/regression/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/log-concave/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/logconcens/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/shape-constraint/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/logcondiscr/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/publication_types/2/</loc>
       <lastmod>2010-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -192,28 +278,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/software/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/software/selectmeta/</loc>
       <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/shape-constraint/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -241,6 +307,15 @@
     
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2009-01-02_limit_distribution_t/</loc>
       <lastmod>2009-01-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/ordfacreg/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -304,16 +379,6 @@
     
       <loc>https://numbersman77.netlify.com/software/modehunt/</loc>
       <lastmod>2015-07-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/log-concave/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

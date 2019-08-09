@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/regression/</link>
+    <description>Recent content in regression on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SurvRegCensCov</title>
+      <link>https://numbersman77.netlify.com/software/survregcenscov/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/survregcenscov/</guid>
+      <description>Stanislas Hubeaux and Kaspar Rufibach (2014): &lt;em&gt;SurvRegCensCov: Weibull Regression for a Right-Censored Endpoint with Interval-Censored Covariate&lt;/em&gt;</description>
+    </item>
+    
+    <item>
+      <title>OrdFacReg</title>
+      <link>https://numbersman77.netlify.com/software/ordfacreg/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/ordfacreg/</guid>
+      <description>Kaspar Rufibach (2009): &lt;em&gt;OrdFacReg: Least Squares, Logistic, and Cox-Regression with Ordered Predictors&lt;/em&gt;</description>
+    </item>
+    
+    <item>
+      <title>OrdMonReg</title>
+      <link>https://numbersman77.netlify.com/software/ordmonreg/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/ordmonreg/</guid>
+      <description>Fadoua Balabdaoui, Kaspar Rufibach, Filippo Santambrogio (2009): &lt;em&gt;OrdMonReg: Compute least squares estimates of one bounded or two ordered isotonic regression curves&lt;/em&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

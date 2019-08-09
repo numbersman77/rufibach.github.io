@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 02 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jan 2011 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/tags/log-concave/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>logconcens</title>
+      <link>https://numbersman77.netlify.com/software/logconcens/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/logconcens/</guid>
+      <description>Dominic Schuhmacher, Kaspar Rufibach, and Lutz Duembgen (2011): &lt;em&gt;logconcens: Maximum likelihood estimation of a log-concave density based on censored data&lt;/em&gt;</description>
+    </item>
+    
+    <item>
+      <title>logcondiscr</title>
+      <link>https://numbersman77.netlify.com/software/logcondiscr/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/logcondiscr/</guid>
+      <description>Kaspar Rufibach, Fadoua Balabdaoui, Hanna Jankowski, and Kathrin Weyermann (2011): &lt;em&gt;logcondiscr: Estimate a Log-Concave Probability Mass Function from Discrete i.i.d. Observations&lt;/em&gt;</description>
+    </item>
     
     <item>
       <title>smoothtail</title>
