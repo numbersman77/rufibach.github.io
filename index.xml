@@ -167,22 +167,22 @@
       <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/software/biostatuzh/</guid>
-      <description>&lt;p&gt;Various functions developed at the Department of &lt;a href=&#34;https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics.html&#34; target=&#34;_blank&#34;&gt;Biostatistics, Epidemiology, Biostatistics and Prevention Institute&lt;/a&gt;, &lt;a href=&#34;https://www.uzh.ch&#34; target=&#34;_blank&#34;&gt;University of Zurich&lt;/a&gt;. Currently implemented topics:
-- several CI&amp;rsquo;s for proportions,
-- several CI&amp;rsquo;s for diagnostic tests,
-- Fagan-Nomogram,
-- bootstrap CI&amp;rsquo;s for the kappa coefficient,
-- intraclass-correlation coefficients including CI&amp;rsquo;s,
-- agreement for continuous measurements (Bland-Altman plot),
-- CI for the area under the curve (AUC),
-- Mantel-Haenszel estimator,
-- Mantel-Cox hazard ratio estimator,
-- CI for the Kaplan-Meier estimate at given time points,
-- CI for quantile of a Kaplan-Meier or cumulative incidence estimate,
-- sample size computations for two-sample Mann-Whitney test, McNemar test, binary diagnostic test (via normal approximation and simulation),
-- natural re-parametrization of Weibull output from survreg,
-- hazard ratio and event time ratio interpretations,
-- a plot to check the adequacy of the Weibull model.&lt;/p&gt;
+      <description>&lt;p&gt;Various functions developed at the Department of &lt;a href=&#34;https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics.html&#34; target=&#34;_blank&#34;&gt;Biostatistics, Epidemiology, Biostatistics and Prevention Institute&lt;/a&gt;, &lt;a href=&#34;https://www.uzh.ch&#34; target=&#34;_blank&#34;&gt;University of Zurich&lt;/a&gt;. Currently implemented topics:&lt;br&gt;
+- several CI&amp;rsquo;s for proportions,&lt;br&gt;
+- several CI&amp;rsquo;s for diagnostic tests,&lt;br&gt;
+- Fagan-Nomogram,&lt;br&gt;
+- bootstrap CI&amp;rsquo;s for the kappa coefficient,&lt;br&gt;
+- intraclass-correlation coefficients including CI&amp;rsquo;s,&lt;br&gt;
+- agreement for continuous measurements (Bland-Altman plot),&lt;br&gt;
+- CI for the area under the curve (AUC),&lt;br&gt;
+- Mantel-Haenszel estimator,&lt;br&gt;
+- Mantel-Cox hazard ratio estimator,&lt;br&gt;
+- CI for the Kaplan-Meier estimate at given time points,&lt;br&gt;
+- CI for quantile of a Kaplan-Meier or cumulative incidence estimate,&lt;br&gt;
+- sample size computations for two-sample Mann-Whitney test, McNemar test, binary diagnostic test (via normal approximation and simulation), &lt;br&gt;
+- natural re-parametrization of Weibull output from survreg,&lt;br&gt;
+- hazard ratio and event time ratio interpretations,&lt;br&gt;
+- a plot to check the adequacy of the Weibull model. &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://ebuzh.r-forge.r-project.org/&#34; target=&#34;_blank&#34;&gt;Download instructions&lt;/a&gt;&lt;/p&gt;
 </description>
