@@ -162,28 +162,39 @@
     </item>
     
     <item>
+      <title>biostatUZH</title>
+      <link>https://numbersman77.netlify.com/software/biostatuzh/</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/biostatuzh/</guid>
+      <description>&lt;p&gt;Various functions developed at the Department of &lt;a href=&#34;https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics.html&#34; target=&#34;_blank&#34;&gt;Biostatistics, Epidemiology, Biostatistics and Prevention Institute&lt;/a&gt;, &lt;a href=&#34;https://www.uzh.ch&#34; target=&#34;_blank&#34;&gt;University of Zurich&lt;/a&gt;. Currently implemented topics:
+- several CI&amp;rsquo;s for proportions,
+- several CI&amp;rsquo;s for diagnostic tests,
+- Fagan-Nomogram,
+- bootstrap CI&amp;rsquo;s for the kappa coefficient,
+- intraclass-correlation coefficients including CI&amp;rsquo;s,
+- agreement for continuous measurements (Bland-Altman plot),
+- CI for the area under the curve (AUC),
+- Mantel-Haenszel estimator,
+- Mantel-Cox hazard ratio estimator,
+- CI for the Kaplan-Meier estimate at given time points,
+- CI for quantile of a Kaplan-Meier or cumulative incidence estimate,
+- sample size computations for two-sample Mann-Whitney test, McNemar test, binary diagnostic test (via normal approximation and simulation),
+- natural re-parametrization of Weibull output from survreg,
+- hazard ratio and event time ratio interpretations,
+- a plot to check the adequacy of the Weibull model.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ebuzh.r-forge.r-project.org/&#34; target=&#34;_blank&#34;&gt;Download instructions&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Active Set Algorithm to Estimate Parameters in Generalized Linear Models with Ordered Predictors</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2010-01-01_an_active_set_algori/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2010-01-01_an_active_set_algori/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>selectMeta</title>
-      <link>https://numbersman77.netlify.com/software/selectmeta/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/selectmeta/</guid>
-      <description>&lt;p&gt;Publication bias, the fact that studies identified for inclusion in a meta analysis do not represent all studies on the topic of interest, is commonly recognized as a threat to the validity of the results of a meta analysis. One way to explicitly model publication bias is via selection models or weighted probability distributions. In this package we provide implementations of several parametric and nonparametric weight functions. The novelty in Rufibach (2011) is the proposal of a non-increasing variant of the nonparametric weight function of Dear &amp;amp; Begg (1992). The new approach potentially offers more insight in the selection process than other methods, but is more flexible than parametric approaches. To maximize the log-likelihood function proposed by Dear &amp;amp; Begg (1992) under a monotonicity constraint we use a differential evolution algorithm proposed by Ardia et al (2010a, b) and implemented in Mullen et al (2009). In addition, we offer a method to compute a confidence interval for the overall effect size theta, adjusted for selection bias as well as a function that computes the simulation-based p-value to assess the null hypothesis of no selection as described in Rufibach (2011, Section 6).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=selectMeta&#34; target=&#34;_blank&#34;&gt;Download selectMeta from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1002/bimj.201000240&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/selectMeta&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/selectMeta&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
