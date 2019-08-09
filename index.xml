@@ -121,6 +121,18 @@
     </item>
     
     <item>
+      <title>EFSPI regulatory statistics working group</title>
+      <link>https://numbersman77.netlify.com/working/efspi_regstat/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/working/efspi_regstat/</guid>
+      <description>&lt;p&gt;The regulatory committee of the &lt;a href=&#34;https://www.efspi.org&#34; target=&#34;_blank&#34;&gt;European Federation of Statisticians in the Pharmaceutical Industry&lt;/a&gt; (EFSPI) co-ordinates regulatory activities across the European Pharmaceutical Statistical community. The key areas of engagement are the Review of regulatory guidance to provide consolidated cross industry responses and identification regulatory statistical issues that are concern across industry for discussion with regulators.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.efspi.org/EFSPI/About_EFSPI/Working_Groups/EFSPI/About_EFSPI/Working_Groups.aspx&#34; target=&#34;_blank&#34;&gt;More details on EFSPI webpage&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>logconcens</title>
       <link>https://numbersman77.netlify.com/software/logconcens/</link>
       <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
@@ -185,16 +197,6 @@
 - a plot to check the adequacy of the Weibull model. &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://ebuzh.r-forge.r-project.org/&#34; target=&#34;_blank&#34;&gt;Download instructions&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An Active Set Algorithm to Estimate Parameters in Generalized Linear Models with Ordered Predictors</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2010-01-01_an_active_set_algori/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010-01-01_an_active_set_algori/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
