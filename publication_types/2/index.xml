@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 02 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling of progression-free and overall survival and computation of correlation measures</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multistate model for early decision making in oncology</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treatment Effect Quantification for Time-to-event Endpoints - Estimands, Analysis Strategies, and beyond</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparison of different clinical development plans for confirmatory subpopulation selection</title>
