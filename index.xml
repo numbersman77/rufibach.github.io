@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advanced methods for group-sequential trials</title>
+      <link>https://numbersman77.netlify.com/teaching/201907_groupseq/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/201907_groupseq/</guid>
+      <description>&lt;p&gt;Half-day pre-conference course at &lt;a href=&#34;https://kuleuvencongres.be/iscb40&#34; target=&#34;_blank&#34;&gt;ISCB40&lt;/a&gt; in Leuven. Details on the program are available &lt;a href=&#34;https://kuleuvencongres.be/iscb40/selected-course-descriptions.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion</title>
@@ -43,69 +53,6 @@
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Contracts Federated Cloud</title>
-      <link>https://numbersman77.netlify.com/teaching/contracts/</link>
-      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/contracts/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;We develop a new contracts-based resource sharing model for federated geo-distributed clouds that allows cloud service providers to establish contractual relationships with individual datacenters for defined time intervals. Based on the established contracts, individual cloud service providers employ a cost-aware job scheduling and provisioning algorithm that enables tasks to complete and meet their response time requirements.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-the-challenge&#34;&gt;What is the challenge?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How to decide Resource Sharing Contracts guaranteeing both Fairness and Efficiency?&lt;/li&gt;
-&lt;li&gt;How to quantify utility of the contracts for the Cloud Service Providers?&lt;/li&gt;
-&lt;li&gt;How to Schedule Jobs in a contracts-aware manner among the available Geo-distributed Data Centers?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;how-the-system-works&#34;&gt;How the System Works?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Auction-based Contracts Establishment (Designed based on McAfee Mechanism)
-
-&lt;ul&gt;
-&lt;li&gt;Truthfulness: No incentives to Cheat Makes the Market More Efficient and Fair&lt;/li&gt;
-&lt;li&gt;Budget Balance: Keeps the Resource Allocation process Sustainable&lt;/li&gt;
-&lt;li&gt;Naturally Finds the Equilibrium Between Supply and Demand&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Fine-grained Utility Function Design considering:
-
-&lt;ul&gt;
-&lt;li&gt;Operating Cost&lt;/li&gt;
-&lt;li&gt;Payment from Users&lt;/li&gt;
-&lt;li&gt;Penalty for Violating SLAs&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Resource Sharing Contracts
-
-&lt;ul&gt;
-&lt;li&gt;Relatively Long Contracts Avoid Frequent Migrations&lt;/li&gt;
-&lt;li&gt;Predetermined Allocations minimize Disruption of Normal Operations in the Data Centers&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Cost-aware Scheduling
-
-&lt;ul&gt;
-&lt;li&gt;Optimize the Cost of Using Contracts&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jinlai Xu, Balaji Palanisamy (2017). &lt;a href=&#34;https://www.researchgate.net/publication/317097662_Cost-Aware_Resource_Management_for_Federated_Clouds_Using_Resource_Sharing_Contracts&#34; target=&#34;_blank&#34;&gt;Cost-aware Resource Management for Federated Clouds Using Resource Sharing Contracts&lt;/a&gt;, IEEE Cloud 2017.&lt;/li&gt;
-&lt;li&gt;Jinlai Xu, Balaji Palanisamy (2018). &lt;a href=&#34;https://www.researchgate.net/publication/322691834_Optimized_Contract-based_Model_for_Resource_Allocation_in_Federated_Geo-distributed_Clouds&#34; target=&#34;_blank&#34;&gt;Optimized Contract-based Model for Resource Allocation in Federated Geo-distributed Clouds&lt;/a&gt;, IEEE TSC.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe src=&#34;https://onedrive.live.com/embed?cid=E1DD6EDD2DA4DFBE&amp;resid=E1DD6EDD2DA4DFBE%2121398&amp;authkey=ANCwepdLkgdg-Xo&amp;em=2&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-</description>
     </item>
     
     <item>
@@ -149,114 +96,6 @@
     </item>
     
     <item>
-      <title>PADS</title>
-      <link>https://numbersman77.netlify.com/teaching/pads/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/pads/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://numbersman77.netlify.com/img/Intro-PADS.png&#34; alt=&#34;PADS&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;PADS&lt;/em&gt; is a strategy-proof differentially private auction mechanism designed to allow cloud providers to trade resources with consumers in such a way that individual bidding information of the consumers do not get exposed through the auction mechanism.
-&lt;em&gt;PADS&lt;/em&gt; provides differential privacy and approximate truthfulness guarantees while maintaining good performance in terms of revenue earned and allocation efficiency.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-the-challenge&#34;&gt;What is the challenge?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Protect Each User&amp;rsquo;s Bidding Information through the Auctioning Mechanism.&lt;/li&gt;
-&lt;li&gt;Randomize to achieve Differential Privacy while also ensuring Higher Resource Allocation Utility.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;how-the-system-works&#34;&gt;How the System Works?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;PADS-ADP Scheme:
-
-&lt;ul&gt;
-&lt;li&gt;Iterative Exponential Mechanism: in every iteration, the mechanism chooses one winner from the bidders using an Exponential Mechanism until all bids are selected or all the resources get allocated.&lt;/li&gt;
-&lt;li&gt;Approximate Differential Privacy: &lt;em&gt;PADS-ADP&lt;/em&gt; can provide $(\epsilon,\delta)$-differential privacy.&lt;/li&gt;
-&lt;li&gt;Truthfulness: &lt;em&gt;PADS-ADP&lt;/em&gt; is truthful independent of the strategies used by the bidders.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;PADS-DP:
-
-&lt;ul&gt;
-&lt;li&gt;Grouping Exponential Mechanism: the bids are grouped by the possible price outcomes.&lt;/li&gt;
-&lt;li&gt;Differential Privacy: &lt;em&gt;PADS-DP&lt;/em&gt; can provide $\epsilon$-differential privacy.&lt;/li&gt;
-&lt;li&gt;Approximate Truthfulness: &lt;em&gt;PADS-DP&lt;/em&gt; is $\epsilon\Delta$-truthful and it is independentof the strategies used by the bidders.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jinlai Xu, Balaji Palanisamy, Yuzhe Tang, S.D. Madhu Kumar (2017). &lt;a href=&#34;https://www.researchgate.net/publication/319910839_PADS_Privacy-preserving_Auction_Design_for_Allocating_Dynamically_Priced_Cloud_Resources&#34; target=&#34;_blank&#34;&gt;PADS: Privacy-preserving Auction Design for Allocating Dynamically Priced Cloud Resources&lt;/a&gt;, IEEE CIC 2017.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zenith</title>
-      <link>https://numbersman77.netlify.com/teaching/zenith/</link>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/zenith/</guid>
-      <description>
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;In the Internet of Things(IoT) era, the demands for low-latency computing for time-sensitive applications (e.g., location-based augmented reality games, real-time smart grid management, real-time navigation using wearables) has been growing rapidly. Edge Computing provides an additional layer of infrastructure to fill latency gaps between IoT devices and the backend computing infrastructure.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Zenith&lt;/em&gt; decouples &lt;strong&gt;resource allocation&lt;/strong&gt; and &lt;strong&gt;service provisioning and management&lt;/strong&gt; at the edge and provides a novel model to allocate resources at the edge to maximize utility. Zenith aims at increasing the overall resource allocation efficiency by allowing resources to be allocated and shared in a latency-aware manner.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-the-challenge&#34;&gt;What is the challenge?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fair and Efficient Resource Allocation across Geographically Distributed Edge Resources&lt;/li&gt;
-&lt;li&gt;Fast Service Discovery on Highly Distributed Micro Data Centers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;how-zenith-works&#34;&gt;How Zenith Works?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Geographic Division usingWeighted Vonoroi Diagram (WVD)
-
-&lt;ul&gt;
-&lt;li&gt;Service Discovery with Constant Time&lt;/li&gt;
-&lt;li&gt;Naturally Satisfies Latency-Sensitive Workloads with Nearest Service Discovery&lt;/li&gt;
-&lt;li&gt;Dynamically Balances the Workloads Between Micro Data Centers&lt;/li&gt;
-&lt;li&gt;Easy and Fast to Update&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Auction-based Resource Allocation
-
-&lt;ul&gt;
-&lt;li&gt;Truthfulness: No Incentives for Cheating.&lt;/li&gt;
-&lt;li&gt;Budget Balance: Keeps the Allocation Process more Sustainable&lt;/li&gt;
-&lt;li&gt;Naturally Finds the Equilibrium Between Supply and Demand&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Resource Sharing Contracts
-
-&lt;ul&gt;
-&lt;li&gt;Longer duration of Contracts Avoid Frequent Migrations&lt;/li&gt;
-&lt;li&gt;Stable Running Environment Suits the Requirements for Latency-Sensitive Workloads&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jinlai Xu, Balaji Palanisamy, Heiko Ludwig, Qingyang Wang (2017). &lt;a href=&#34;https://www.researchgate.net/publication/317097920_Zenith_Utility-aware_Resource_Allocation_for_Edge_Computing&#34; target=&#34;_blank&#34;&gt;Zenith: Utility-aware Resource Allocation for Edge Computing&lt;/a&gt;, IEEE Edge 2017.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe src=&#34;https://onedrive.live.com/embed?cid=E1DD6EDD2DA4DFBE&amp;resid=E1DD6EDD2DA4DFBE%2121505&amp;authkey=AK5qp4kx3NvYRag&amp;em=2&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Comparison of different clinical development plans for confirmatory subpopulation selection</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</link>
       <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
@@ -296,6 +135,30 @@
 &lt;a href=&#34;http://dx.doi.org/10.1002/pst.1764&#34; target=&#34;_blank&#34;&gt;Paper 2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/bpp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximum-Likelihood Estimation of a Log-Concave Density based on Censored Data</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SurvRegCensCov</title>
+      <link>https://numbersman77.netlify.com/software/survregcenscov/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/survregcenscov/</guid>
+      <description>&lt;p&gt;The main function of this package allows estimation of a Weibull Regression for a right-censored endpoint, one interval-censored covariate, and an arbitrary number of non-censored covariates. Additional functions allow to switch between different parametrizations of Weibull regression used by different &lt;a href=&#34;http://www.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; functions, inference for the mean difference of two arbitrarily censored Normal samples, and estimation of canonical parameters from censored samples for several distributional assumptions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=SurvRegCensCov&#34; target=&#34;_blank&#34;&gt;Download SurvRegCensCov from CRAN&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1402.0432&#34; target=&#34;_blank&#34;&gt;Technical report&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/SurvRegCensCov&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
