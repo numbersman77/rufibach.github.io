@@ -260,17 +260,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/software/logcondiscr/</loc>
-      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/publication_types/2/</loc>
-      <lastmod>2010-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -280,7 +271,7 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/publication_types/</loc>
-      <lastmod>2010-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -289,7 +280,43 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2010-01-02_the_block_criterion_/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/logcondiscr/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_04_scorereg/</loc>
+      <lastmod>2010-01-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</loc>
+      <lastmod>2010-01-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</loc>
       <lastmod>2010-01-02T00:00:00+00:00</lastmod>
     </url>
     
@@ -307,7 +334,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2010-01-01_an_active_set_algori/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_01_ordfacreg/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -325,7 +352,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2009-01-04_reporttools_r_functi/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_04_reporttools/</loc>
       <lastmod>2009-01-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -334,7 +361,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2009-01-03_smooth_tail_index_es/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_03_smooth_tail_index/</loc>
       <lastmod>2009-01-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -343,7 +370,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2009-01-02_limit_distribution_t/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</loc>
       <lastmod>2009-01-02T00:00:00+00:00</lastmod>
     </url>
     
@@ -361,7 +388,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2009-01-01_maximum_likelihood_e/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -379,7 +406,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_a_second_marshall_/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2008_01_2nd_marshall/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -388,7 +415,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2008-01-01_on_the_max-domain_of/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2008_01_max-domain/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -406,7 +433,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2007-01-01_computing_maximum_li/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2007_01_computing_logcon/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -442,7 +469,7 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2001_01_01_evk/</loc>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</loc>
       <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     </url>
     
