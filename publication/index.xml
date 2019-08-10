@@ -13,6 +13,69 @@
     
     
     <item>
+      <title>Comparison of different clinical development plans for confirmatory subpopulation selection</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Predictive Power: Choice of Prior and some Recommendations for its Use as Probability of Success in Drug Development</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequentially Updating the Likelihood of Success of a Phase 3 Pivotal Time-to-Event Trial based on Interim Analyses or External Information</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum-Likelihood Estimation of a Log-Concave Density based on Censored Data</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotics of the discrete log-concave maximum likelihood estimator and related applications</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A smooth ROC curve estimator based on log-concave density estimates</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2012_01_logconroc/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2012_01_logconroc/</guid>
+      <description>The methodology in this paper is also available in the function smooth() in the R package pROC.</description>
+    </item>
+    
+    <item>
+      <title>Selection models with monotone weight functions in meta analysis</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>logcondens: Computations Related to Univariate Log-Concave Density Estimation</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
@@ -130,12 +193,15 @@
     </item>
     
     <item>
-      <title>Social interactions and crime revisited: An investigation using individual offender data in Dutch neighborhoods</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/template/</link>
-      <pubDate>Wed, 26 Dec 1900 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_03_cll11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/template/</guid>
-      <description></description>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_03_cll11/</guid>
+      <description>Asikanius, E., Rufibach, K., Bahlo, J., Bieska, G., Burger, H.U. (2016). . , .
++++ title = &amp;ldquo;Comparison of design strategies for a three-arm clinical trial with time-to-event endpoint: power, time-to-analysis, and operational aspects&amp;rdquo; date = &amp;ldquo;2016-01-03&amp;rdquo;
+Authors. Comma separated list, e.g. [&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]. authors = [&amp;ldquo;Elina Asikanius&amp;rdquo;, &amp;ldquo;Kaspar Rufibach&amp;rdquo;, &amp;ldquo;Jasmin Bahlo&amp;rdquo;, &amp;ldquo;Gabriele Bieska&amp;rdquo;, &amp;ldquo;Hans Ulrich Burger&amp;rdquo;]
+Publication name and optional abbreviated version. publication = &amp;ldquo;Biom. J., 58(6), 1295-1310&amp;rdquo; publication_short = &amp;ldquo;Biom.</description>
     </item>
     
   </channel>
