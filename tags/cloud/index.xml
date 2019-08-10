@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/cloud/</link>
+    <description>Recent content in cloud on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contracts Federated Cloud</title>
+      <link>https://numbersman77.netlify.com/teaching/contracts/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/contracts/</guid>
+      <description>A Contracts-based Federated Cloud Architecture</description>
+    </item>
+    
+    <item>
+      <title>PADS</title>
+      <link>https://numbersman77.netlify.com/teaching/pads/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/pads/</guid>
+      <description>Privacy-preserving Dynamic Price on Cloud Resource Allocation</description>
+    </item>
+    
+  </channel>
+</rss>
