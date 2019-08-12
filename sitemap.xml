@@ -338,6 +338,15 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/working/efspi_estimand/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</loc>
       <lastmod>2011-01-02T00:00:00+00:00</lastmod>
     </url>
@@ -348,6 +357,16 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/working/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/asa/</loc>
       <lastmod>2016-07-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
