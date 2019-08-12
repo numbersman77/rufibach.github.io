@@ -118,6 +118,16 @@
     </item>
     
     <item>
+      <title>2018: Optimism-corrected treatment effect estimates in subgroups displayed in forest plots for time-to-event outcomes</title>
+      <link>https://numbersman77.netlify.com/teaching/201801_li/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/201801_li/</guid>
+      <description>&lt;p&gt;Initiated within three month full-time internship at Department of Biostatistics, Roche Basel. Co-supervised with Marcel Wolbers (Roche Basel) and the academic supervisor was &lt;a href=&#34;http://user.math.uzh.ch/hothorn/&#34; target=&#34;_blank&#34;&gt;Torsten Hothorn&lt;/a&gt;, &lt;a href=&#34;https://www.uzh.ch/cmsssl/en.html&#34; target=&#34;_blank&#34;&gt;University of Zurich&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Comparison of different clinical development plans for confirmatory subpopulation selection</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</link>
       <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
@@ -127,37 +137,24 @@
     </item>
     
     <item>
+      <title>2016: Joint Modelling of Overall Survival and Progression Free Survival</title>
+      <link>https://numbersman77.netlify.com/teaching/201601_meller/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/201601_meller/</guid>
+      <description>&lt;p&gt;Initiated within four month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was &lt;a href=&#34;https://www.uni-ulm.de/mawi/statistics/team/professors/prof-dr-jan-beyersmann/&#34; target=&#34;_blank&#34;&gt;Jan Beyersmann&lt;/a&gt;, &lt;a href=&#34;https://www.uni-ulm.de/en/&#34; target=&#34;_blank&#34;&gt;University of Ulm&lt;/a&gt;. With this thesis Matthais won the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/nachwuchs/bernd-streitbergpreis/die-preistraeger.html&#34; target=&#34;_blank&#34;&gt;Bernd Streitberg Award 2018&lt;/a&gt; of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dx.doi.org/10.1002/sim.8295&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bayesian Predictive Power: Choice of Prior and some Recommendations for its Use as Probability of Success in Drug Development</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Sequentially Updating the Likelihood of Success of a Phase 3 Pivotal Time-to-Event Trial based on Interim Analyses or External Information</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bpp</title>
-      <link>https://numbersman77.netlify.com/software/bpp/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/bpp/</guid>
-      <description>&lt;p&gt;Implements functions to update Bayesian Predictive Power Computations after not stopping a clinical trial at an interim analysis. Such an interim analysis can either be blinded or unblinded. Code is provided for Normally distributed endpoints with known variance, with a prominent example being the hazard ratio.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=bpp&#34; target=&#34;_blank&#34;&gt;Download bpp from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1080/10543406.2014.972508&#34; target=&#34;_blank&#34;&gt;Paper 1&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1002/pst.1764&#34; target=&#34;_blank&#34;&gt;Paper 2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/bpp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
