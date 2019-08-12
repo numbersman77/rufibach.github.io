@@ -67,6 +67,24 @@
     </item>
     
     <item>
+      <title>2009/02-05: Likelihood inference</title>
+      <link>https://numbersman77.netlify.com/teaching/200902_ml/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/200902_ml/</guid>
+      <description>Leonhard Held and Kaspar Rufibach, within MSc biostatistics program at University of Zurich</description>
+    </item>
+    
+    <item>
+      <title>2009/09-12: Biostatistical methods, Part II: Statistical methods for clinical trials</title>
+      <link>https://numbersman77.netlify.com/teaching/200909_clinres/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/200909_clinres/</guid>
+      <description>Kaspar Rufibach, within MSc biostatistics program at University of Zurich</description>
+    </item>
+    
+    <item>
       <title>2011/09-11: Statistical Methods in Clinical Research</title>
       <link>https://numbersman77.netlify.com/teaching/201109_clinres/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
@@ -76,12 +94,21 @@
     </item>
     
     <item>
+      <title>2010/02-06: Analysis of longitudinal data</title>
+      <link>https://numbersman77.netlify.com/teaching/201002_lda/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/201002_lda/</guid>
+      <description>Leonhard Held and Kaspar Rufibach, within MSc biostatistics program at University of Zurich</description>
+    </item>
+    
+    <item>
       <title>2011/01: Analysis of longitudinal data</title>
       <link>https://numbersman77.netlify.com/teaching/201101_lda/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/teaching/201101_lda/</guid>
-      <description>Leonhard Held and Kaspar Rufibach, 3-day course, University of Mainz, Germany</description>
+      <description>Leonhard Held and Kaspar Rufibach, University of Mainz, Germany</description>
     </item>
     
     <item>
@@ -90,7 +117,7 @@
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/teaching/201006_lda/</guid>
-      <description>Leonhard Held and Kaspar Rufibach, 3-day course within MSc of Medical Biometry program, University of Heidelberg</description>
+      <description>Leonhard Held and Kaspar Rufibach, MSc of Medical Biometry program, University of Heidelberg</description>
     </item>
     
   </channel>
