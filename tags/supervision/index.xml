@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supervision on Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/supervision/</link>
+    <description>Recent content in supervision on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/tags/supervision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2005: Visus under physical stress (in German)</title>
+      <link>https://numbersman77.netlify.com/teaching/200801_achermann/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/200801_achermann/</guid>
+      <description>Karin Lanz and Marco Weber, Swiss Technical School for Optometrics, Olten, Switzerland</description>
+    </item>
+    
+    <item>
+      <title>2008: Netrin-1 and DCC Expression in brain tumors (in German)</title>
+      <link>https://numbersman77.netlify.com/teaching/200501_lanz/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/200501_lanz/</guid>
+      <description>Rita Achermann, Semester thesis, Department of Biostatistics, University of Zurich</description>
+    </item>
+    
+  </channel>
+</rss>
