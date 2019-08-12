@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kaspar Rufibach</title>
+    <title>Tags on Kaspar Rufibach</title>
     <link>https://numbersman77.netlify.com/tags/</link>
-    <description>Recent content on Kaspar Rufibach</description>
+    <description>Recent content in Tags on Kaspar Rufibach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
@@ -13,21 +13,75 @@
     
     
     <item>
-      <title>reporttools</title>
-      <link>https://numbersman77.netlify.com/software/reporttools/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://numbersman77.netlify.com/tags/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/software/reporttools/</guid>
-      <description>Rufibach, K (2008): &lt;em&gt;reporttools: Generate LaTeX Tables of Descriptive Statistics&lt;/em&gt;</description>
+      <guid>https://numbersman77.netlify.com/tags/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>modehunt</title>
-      <link>https://numbersman77.netlify.com/software/modehunt/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <title>statisticians</title>
+      <link>https://numbersman77.netlify.com/tags/statisticians/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/software/modehunt/</guid>
-      <description>Kaspar Rufibach and Guenther Walther (2007): &lt;em&gt;modehunt: Multiscale Analysis for Density Functions&lt;/em&gt;</description>
+      <guid>https://numbersman77.netlify.com/tags/statisticians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictivepower</title>
+      <link>https://numbersman77.netlify.com/tags/predictivepower/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/tags/predictivepower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>https://numbersman77.netlify.com/tags/regression/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asa</title>
+      <link>https://numbersman77.netlify.com/tags/asa/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/tags/asa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>efspi</title>
+      <link>https://numbersman77.netlify.com/tags/efspi/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/tags/efspi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>log-concave</title>
+      <link>https://numbersman77.netlify.com/tags/log-concave/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/tags/log-concave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shape-constraint</title>
+      <link>https://numbersman77.netlify.com/tags/shape-constraint/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/tags/shape-constraint/</guid>
+      <description></description>
     </item>
     
   </channel>

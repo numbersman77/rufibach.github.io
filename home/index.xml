@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,17 @@
     <item>
       <title></title>
       <link>https://numbersman77.netlify.com/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/about/</guid>
       <description>About I am a mathematical statistician. Through more than 15 years in various biostatistical roles I have complemented my thorough theoretical background with expertise in biostatistics. I am passionate about applying this expertise to solve problems in pharmaceutical drug development.
-CV (PDF) Publications (PDF) Talks (PDF) Teaching (PDF)
-Download CV</description>
+CV (PDF) Publications (PDF) Talks (PDF) Teaching (PDF)</description>
     </item>
     
     <item>
       <title>Statistical publications</title>
       <link>https://numbersman77.netlify.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/publications/</guid>
       <description>A list of my biomedical publications is available as PDF: List of publications</description>
@@ -35,7 +34,7 @@ Download CV</description>
     <item>
       <title>Software</title>
       <link>https://numbersman77.netlify.com/home/software/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/software/</guid>
       <description>A considerable amount of software grew out of my research. Most of this code is made available as packages for the freely available software R and can be downloaded from CRAN. </description>
@@ -44,7 +43,7 @@ Download CV</description>
     <item>
       <title>Talks</title>
       <link>https://numbersman77.netlify.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/talks/</guid>
       <description></description>
@@ -53,7 +52,7 @@ Download CV</description>
     <item>
       <title>Teaching and thesis supervision</title>
       <link>https://numbersman77.netlify.com/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/teaching/</guid>
       <description>I am regularly teaching to statisticians and non-statisticians about various biostatistical topics. Slides are available for download for some of the courses.</description>
@@ -62,7 +61,7 @@ Download CV</description>
     <item>
       <title>Working groups</title>
       <link>https://numbersman77.netlify.com/home/working/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/working/</guid>
       <description>I am a member of several cross-industry working groups. Further information on these is provided below. </description>
@@ -71,7 +70,7 @@ Download CV</description>
     <item>
       <title>Contact</title>
       <link>https://numbersman77.netlify.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/home/contact/</guid>
       <description></description>
