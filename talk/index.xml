@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on Kaspar Rufibach</title>
-    <link>https://numbersman77.netlify.com/talk/</link>
-    <description>Recent content in Talks on Kaspar Rufibach</description>
+    <title>Recent &amp; Upcoming Talks on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jinlai Xu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://numbersman77.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jinlaixu.net/talk/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Before going BIG - seize opportunities for small data: use of multistate models to improve decision-making and effect quantification in clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/2019_roes/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2019_roes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Implications of the ICH E9 estimand addendum on how we develop, run, and analyze clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/2019_ct_europe/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2019_ct_europe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rpact - R Package for Adaptive Clinical Trials</title>
-      <link>https://numbersman77.netlify.com/talk/2019_psi_webinar/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2019_psi_webinar/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

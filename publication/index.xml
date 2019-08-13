@@ -1,243 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Kaspar Rufibach</title>
-    <link>https://numbersman77.netlify.com/publication/</link>
-    <description>Recent content in Publications on Kaspar Rufibach</description>
+    <title>Publications on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/publication/</link>
+    <description>Recent content in Publications on Jinlai Xu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://numbersman77.netlify.com/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jinlaixu.net/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</link>
-      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Optimized Contract-based Model for Resource Allocation in Federated Geo-distributed Clouds</title>
+      <link>http://jinlaixu.net/publication/contract-tsc-2018/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</guid>
+      <guid>http://jinlaixu.net/publication/contract-tsc-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Joint modelling of progression-free and overall survival and computation of correlation measures</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <title>PADS: Privacy-preserving Auction Design forAllocating Dynamically Priced Cloud Resources</title>
+      <link>http://jinlaixu.net/publication/pads-2017/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</guid>
-      <description>This project was initiated within a four month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was Jan Beyersmann, University of Ulm. The project became Matthias Meller&amp;rsquo;s MSc thesis with which he won the Bernd Streitberg Award 2018 of the German Region of the International Biometric Society.</description>
-    </item>
-    
-    <item>
-      <title>A multistate model for early decision making in oncology</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</guid>
+      <guid>http://jinlaixu.net/publication/pads-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Treatment Effect Quantification for Time-to-event Endpoints - Estimands, Analysis Strategies, and beyond</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Cost-aware Resource Management for Federated Clouds Using Resource Sharing Contracts</title>
+      <link>http://jinlaixu.net/publication/contract-cloud-2017/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</guid>
+      <guid>http://jinlaixu.net/publication/contract-cloud-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Comparison of different clinical development plans for confirmatory subpopulation selection</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</link>
-      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Zenith: Utility-aware Resource Allocation for Edge Computing</title>
+      <link>http://jinlaixu.net/publication/zenith-edge-2017/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</guid>
+      <guid>http://jinlaixu.net/publication/zenith-edge-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bayesian Predictive Power: Choice of Prior and some Recommendations for its Use as Probability of Success in Drug Development</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>MEMoMR: Accelerate MapReduce via reuse of intermediate results</title>
+      <link>http://jinlaixu.net/publication/memomr-ccpe/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</guid>
+      <guid>http://jinlaixu.net/publication/memomr-ccpe/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Sequentially Updating the Likelihood of Success of a Phase 3 Pivotal Time-to-Event Trial based on Interim Analyses or External Information</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maximum-Likelihood Estimation of a Log-Concave Density based on Censored Data</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asymptotics of the discrete log-concave maximum likelihood estimator and related applications</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A smooth ROC curve estimator based on log-concave density estimates</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2012_01_logconroc/</link>
-      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2012_01_logconroc/</guid>
-      <description>The methodology in this paper is also available in the function smooth() in the R package pROC.</description>
-    </item>
-    
-    <item>
-      <title>Selection models with monotone weight functions in meta analysis</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</link>
-      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>logcondens: Computations Related to Univariate Log-Concave Density Estimation</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A score regression approach to assess calibration of probabilistic predictions</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_04_scorereg/</link>
-      <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_04_scorereg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Least Squares estimation of two ordered monotone regression curves</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</link>
-      <pubDate>Sun, 03 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The block criterion for multiscale inference about a density, with applications to other multiscale problems</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</link>
-      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Active Set Algorithm to Estimate Parameters in Generalized Linear Models with Ordered Predictors</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_01_ordfacreg/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_01_ordfacreg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reporttools: R Functions to Generate LaTeX Tables of Descriptive Statistics</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_04_reporttools/</link>
-      <pubDate>Sun, 04 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_04_reporttools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smooth tail index estimation</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_03_smooth_tail_index/</link>
-      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_03_smooth_tail_index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Limit Distribution Theory for Maximum Likelihood Estimation of a Log-Concave Density</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</link>
-      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maximum Likelihood Estimation of a Log-Concave Density and its Distribution Function</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A second Marshall inequality in convex estimation</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2008_01_2nd_marshall/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008_01_2nd_marshall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the max-domain of attraction of distributions with log-concave densities</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2008_01_max-domain/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008_01_max-domain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computing Maximum Likelihood Estimators of a Log-Concave Density Function</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2007_01_computing_logcon/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2007_01_computing_logcon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eintrittsraten und Austrittswahrscheinlichkeiten EVK 2000</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_03_cll11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_03_cll11/</guid>
-      <description>Asikanius, E., Rufibach, K., Bahlo, J., Bieska, G., Burger, H.U. (2016). . , .
-+++ title = &amp;ldquo;Comparison of design strategies for a three-arm clinical trial with time-to-event endpoint: power, time-to-analysis, and operational aspects&amp;rdquo; date = &amp;ldquo;2016-01-03&amp;rdquo;
-Authors. Comma separated list, e.g. [&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]. authors = [&amp;ldquo;Elina Asikanius&amp;rdquo;, &amp;ldquo;Kaspar Rufibach&amp;rdquo;, &amp;ldquo;Jasmin Bahlo&amp;rdquo;, &amp;ldquo;Gabriele Bieska&amp;rdquo;, &amp;ldquo;Hans Ulrich Burger&amp;rdquo;]
-Publication name and optional abbreviated version. publication = &amp;ldquo;Biom. J., 58(6), 1295-1310&amp;rdquo; publication_short = &amp;ldquo;Biom.</description>
     </item>
     
   </channel>

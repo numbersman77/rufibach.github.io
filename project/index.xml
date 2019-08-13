@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/project/</link>
+    <description>Recent content in Projects on Jinlai Xu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jinlaixu.net/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contracts Federated Cloud</title>
+      <link>http://jinlaixu.net/project/contracts/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/project/contracts/</guid>
+      <description>A Contracts-based Federated Cloud Architecture</description>
+    </item>
+    
+    <item>
+      <title>PADS</title>
+      <link>http://jinlaixu.net/project/pads/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/project/pads/</guid>
+      <description>Privacy-preserving Dynamic Price on Cloud Resource Allocation</description>
+    </item>
+    
+    <item>
+      <title>Zenith</title>
+      <link>http://jinlaixu.net/project/zenith/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jinlaixu.net/project/zenith/</guid>
+      <description>An Innovation on Edge Computing Architecture</description>
+    </item>
+    
+  </channel>
+</rss>

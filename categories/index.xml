@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Kaspar Rufibach</title>
-    <link>https://numbersman77.netlify.com/categories/</link>
-    <description>Recent content in Categories on Kaspar Rufibach</description>
+    <title>Categories on Jinlai Xu&#39;s Homepage</title>
+    <link>http://jinlaixu.net/categories/</link>
+    <description>Recent content in Categories on Jinlai Xu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
     
-	<atom:link href="https://numbersman77.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jinlaixu.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
