@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks | Kaspar Rufibach</title>
+    <title>Talks on Kaspar Rufibach</title>
     <link>https://numbersman77.netlify.com/talk/</link>
-      <atom:link href="https://numbersman77.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0100</lastBuildDate>
-    <image>
-      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
-      <title>Talks</title>
-      <link>https://numbersman77.netlify.com/talk/</link>
-    </image>
+    <description>Recent content in Talks on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Before going BIG - seize opportunities for small data: use of multistate models to improve decision-making and effect quantification in clinical trials</title>
       <link>https://numbersman77.netlify.com/talk/2019_roes/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
       <guid>https://numbersman77.netlify.com/talk/2019_roes/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>Implications of the ICH E9 estimand addendum on how we develop, run, and analyze clinical trials</title>
       <link>https://numbersman77.netlify.com/talk/2019_ct_europe/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
       <guid>https://numbersman77.netlify.com/talk/2019_ct_europe/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>rpact - R Package for Adaptive Clinical Trials</title>
       <link>https://numbersman77.netlify.com/talk/2019_psi_webinar/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
       <guid>https://numbersman77.netlify.com/talk/2019_psi_webinar/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

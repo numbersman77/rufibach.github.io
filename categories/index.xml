@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Kaspar Rufibach</title>
+    <title>Categories on Kaspar Rufibach</title>
     <link>https://numbersman77.netlify.com/categories/</link>
-      <atom:link href="https://numbersman77.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
-      <title>Categories</title>
-      <link>https://numbersman77.netlify.com/categories/</link>
-    </image>
+    <description>Recent content in Categories on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
     
-    <item>
-      <title>Demo</title>
-      <link>https://numbersman77.netlify.com/categories/demo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://numbersman77.netlify.com/categories/demo/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://numbersman77.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

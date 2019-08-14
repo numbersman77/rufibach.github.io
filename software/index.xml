@@ -1,209 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Softwares | Kaspar Rufibach</title>
+    <title>Softwares on Kaspar Rufibach</title>
     <link>https://numbersman77.netlify.com/software/</link>
-      <atom:link href="https://numbersman77.netlify.com/software/index.xml" rel="self" type="application/rss+xml" />
-    <description>Softwares</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
-      <title>Softwares</title>
-      <link>https://numbersman77.netlify.com/software/</link>
-    </image>
+    <description>Recent content in Softwares on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/software/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>bpp</title>
       <link>https://numbersman77.netlify.com/software/bpp/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/bpp/</guid>
-      <description>&lt;p&gt;Implements functions to update Bayesian Predictive Power Computations after not stopping a clinical trial at an interim analysis. Such an interim analysis can either be blinded or unblinded. Code is provided for Normally distributed endpoints with known variance, with a prominent example being the hazard ratio.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=bpp&#34; target=&#34;_blank&#34;&gt;Download bpp from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1080/10543406.2014.972508&#34; target=&#34;_blank&#34;&gt;Paper 1&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1002/pst.1764&#34; target=&#34;_blank&#34;&gt;Paper 2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/bpp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach, Paul Jordan, Markus Abt (2016): &lt;em&gt;bpp: Computations Around Bayesian Predictive Power&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>SurvRegCensCov</title>
       <link>https://numbersman77.netlify.com/software/survregcenscov/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/survregcenscov/</guid>
-      <description>&lt;p&gt;The main function of this package allows estimation of a Weibull Regression for a right-censored endpoint, one interval-censored covariate, and an arbitrary number of non-censored covariates. Additional functions allow to switch between different parametrizations of Weibull regression used by different &lt;a href=&#34;http://www.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; functions, inference for the mean difference of two arbitrarily censored Normal samples, and estimation of canonical parameters from censored samples for several distributional assumptions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=SurvRegCensCov&#34; target=&#34;_blank&#34;&gt;Download SurvRegCensCov from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1402.0432&#34; target=&#34;_blank&#34;&gt;Technical report&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/SurvRegCensCov&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Stanislas Hubeaux and Kaspar Rufibach (2014): &lt;em&gt;SurvRegCensCov: Weibull Regression for a Right-Censored Endpoint with Interval-Censored Covariate&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>logconcens</title>
       <link>https://numbersman77.netlify.com/software/logconcens/</link>
       <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/logconcens/</guid>
-      <description>&lt;p&gt;Based on right or interval censored data, compute the maximum likelihood estimator of a (sub)probability density under the assumption that it is log-concave.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=logconcens&#34; target=&#34;_blank&#34;&gt;Download logconcens from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1214/14-EJS930&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://arxiv.org/abs/0707.4643&#34; target=&#34;_blank&#34;&gt;Technical report&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/logconcens&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Dominic Schuhmacher, Kaspar Rufibach, and Lutz Duembgen (2011): &lt;em&gt;logconcens: Maximum likelihood estimation of a log-concave density based on censored data&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>logcondiscr</title>
       <link>https://numbersman77.netlify.com/software/logcondiscr/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/logcondiscr/</guid>
-      <description>&lt;p&gt;Given independent and identically distributed observations X(1), &amp;hellip;, X(n), allows to compute the maximum likelihood estimator (MLE) of probability mass function (pmf) under the assumption that it is log-concave, see Weyermann (2007) and Balabdaoui, Jankowski, Rufibach, and Pavlides (2012). The main functions of the package are &amp;lsquo;logConDiscrMLE&amp;rsquo; that allows computation of the log-concave MLE, &amp;lsquo;logConDiscrCI&amp;rsquo; that computes pointwise confidence bands for the MLE, and &amp;lsquo;kInflatedLogConDiscr&amp;rsquo; that computes a mixture of a log-concave PMF and a point mass at k.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=logcondiscr&#34; target=&#34;_blank&#34;&gt;Download logcondiscr from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1111/rssb.12011&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/logcondiscr&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach, Fadoua Balabdaoui, Hanna Jankowski, and Kathrin Weyermann (2011): &lt;em&gt;logcondiscr: Estimate a Log-Concave Probability Mass Function from Discrete i.i.d. Observations&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>biostatUZH</title>
       <link>https://numbersman77.netlify.com/software/biostatuzh/</link>
       <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/biostatuzh/</guid>
-      <description>&lt;p&gt;Various functions developed at the Department of &lt;a href=&#34;https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics.html&#34; target=&#34;_blank&#34;&gt;Biostatistics, Epidemiology, Biostatistics and Prevention Institute&lt;/a&gt;, &lt;a href=&#34;https://www.uzh.ch&#34; target=&#34;_blank&#34;&gt;University of Zurich&lt;/a&gt;. Currently implemented topics:&lt;br&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;several CI&amp;rsquo;s for proportions,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;several CI&amp;rsquo;s for diagnostic tests,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Fagan-Nomogram,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;bootstrap CI&amp;rsquo;s for the kappa coefficient,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;intraclass-correlation coefficients including CI&amp;rsquo;s,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;agreement for continuous measurements (Bland-Altman plot),&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;CI for the area under the curve (AUC),&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Mantel-Haenszel estimator,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Mantel-Cox hazard ratio estimator,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;CI for the Kaplan-Meier estimate at given time points,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;CI for quantile of a Kaplan-Meier or cumulative incidence estimate,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;sample size computations for two-sample Mann-Whitney test, McNemar test, binary diagnostic test (via normal approximation and simulation), &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;natural re-parametrization of Weibull output from survreg,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;hazard ratio and event time ratio interpretations,&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;a plot to check the adequacy of the Weibull model. &lt;br&gt;&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ebuzh.r-forge.r-project.org/&#34; target=&#34;_blank&#34;&gt;Download instructions&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Leonhard Held and Kaspar Rufibach, with further contributions by others (2010): &lt;em&gt;biostatUZH: Misc Tools of the Department of Biostatistics, EBPI, University of Zurich&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>selectMeta</title>
       <link>https://numbersman77.netlify.com/software/selectmeta/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/selectmeta/</guid>
-      <description>&lt;p&gt;Publication bias, the fact that studies identified for inclusion in a meta analysis do not represent all studies on the topic of interest, is commonly recognized as a threat to the validity of the results of a meta analysis. One way to explicitly model publication bias is via selection models or weighted probability distributions. In this package we provide implementations of several parametric and nonparametric weight functions. The novelty in Rufibach (2011) is the proposal of a non-increasing variant of the nonparametric weight function of Dear &amp;amp; Begg (1992). The new approach potentially offers more insight in the selection process than other methods, but is more flexible than parametric approaches. To maximize the log-likelihood function proposed by Dear &amp;amp; Begg (1992) under a monotonicity constraint we use a differential evolution algorithm proposed by Ardia et al (2010a, b) and implemented in Mullen et al (2009). In addition, we offer a method to compute a confidence interval for the overall effect size theta, adjusted for selection bias as well as a function that computes the simulation-based p-value to assess the null hypothesis of no selection as described in Rufibach (2011, Section 6).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=selectMeta&#34; target=&#34;_blank&#34;&gt;Download selectMeta from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1002/bimj.201000240&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/selectMeta&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/selectMeta&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach (2010): &lt;em&gt;selectMeta: Estimation of Weight Functions in Meta Analysis&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>OrdFacReg</title>
       <link>https://numbersman77.netlify.com/software/ordfacreg/</link>
       <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/ordfacreg/</guid>
-      <description>&lt;p&gt;In biomedical studies, researchers are often interested in assessing the association between one or more ordinal explanatory variables and an outcome variable, at the same time adjusting for covariates of any type. The outcome variable may be continuous, binary, or represent censored survival times. In the absence of a precise knowledge of the response function, using monotonicity constraints on the ordinal variables improves efficiency in estimating parameters, especially when sample sizes are small. This package implements an active set algorithm that efficiently computes such estimators.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=OrdFacReg&#34; target=&#34;_blank&#34;&gt;Download OrdFacReg from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1016/j.csda.2010.01.014&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/OrdFacReg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach (2009): &lt;em&gt;OrdFacReg: Least Squares, Logistic, and Cox-Regression with Ordered Predictors&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>OrdMonReg</title>
       <link>https://numbersman77.netlify.com/software/ordmonreg/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/ordmonreg/</guid>
-      <description>&lt;p&gt;We consider the problem of estimating two isotonic regression curves g1* and g2* under the constraint that they are ordered, i.e. g1* &amp;lt;= g2*. Given two sets of n data points y_1, &amp;hellip;, y_n and z_1, &amp;hellip;, z_n that are observed at (the same) deterministic design points x_1, &amp;hellip;, x&lt;em&gt;n, the estimates are obtained by minimizing the Least Squares criterion L(a, b) = sum&lt;/em&gt;{i=1}^n (y_i - a_i)^2 w1(x&lt;em&gt;i) + sum&lt;/em&gt;{i=1}^n (z_i - b_i)^2 w2(x_i) over the class of pairs of vectors (a, b) such that a and b are isotonic and a_i &amp;lt;= b_i for all i = 1, &amp;hellip;, n. We offer two different approaches to compute the estimates: a projected subgradient algorithm where the projection is calculated using a PAVA as well as Dykstra&amp;rsquo;s cyclical projection algorithm.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=OrdMonReg&#34; target=&#34;_blank&#34;&gt;Download OrdMonReg from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1016/j.csda.2010.01.014&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/OrdMonReg&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/OrdMonReg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Fadoua Balabdaoui, Kaspar Rufibach, Filippo Santambrogio (2009): &lt;em&gt;OrdMonReg: Compute least squares estimates of one bounded or two ordered isotonic regression curves&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>reporttools</title>
       <link>https://numbersman77.netlify.com/software/reporttools/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/reporttools/</guid>
-      <description>&lt;p&gt;These functions are especially helpful when writing reports of data analysis using Sweave.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=reporttools&#34; target=&#34;_blank&#34;&gt;Download reporttools from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.jstatsoft.org/v31/c01&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/reporttools&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/reporttools&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Rufibach, K (2008): &lt;em&gt;reporttools: Generate LaTeX Tables of Descriptive Statistics&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>modehunt</title>
       <link>https://numbersman77.netlify.com/software/modehunt/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/modehunt/</guid>
-      <description>&lt;p&gt;Given independent and identically distributed observations X(1), &amp;hellip;, X(n) from a density f, provides five methods to perform a multiscale analysis about f as well as the necessary critical values. The first method, introduced in Duembgen and Walther (2008), provides simultaneous confidence statements for the existence and location of local increases (or decreases) of f, based on all intervals I(all) spanned by any two observations X(j), X(k). The second method approximates the latter approach by using only a subset of I(all) and is therefore computationally much more efficient, but asymptotically equivalent. Omitting the additive correction term Gamma in either method offers another two approaches which are more powerful on small scales and less powerful on large scales, however, not asymptotically minimax optimal anymore. Finally, the block procedure is a compromise between adding Gamma or not, having intermediate power properties. The latter is again asymptotically equivalent to the first and was introduced in Rufibach and Walther (2010).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=modehunt&#34; target=&#34;_blank&#34;&gt;Download modehunt from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1198/jcgs.2009.07071&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/modehunt&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/modehunt&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach and Guenther Walther (2007): &lt;em&gt;modehunt: Multiscale Analysis for Density Functions&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>smoothtail</title>
       <link>https://numbersman77.netlify.com/software/smoothtail/</link>
       <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/smoothtail/</guid>
-      <description>&lt;p&gt;Given independent and identically distributed observations X(1), &amp;hellip;, X(n) from a Generalized Pareto distribution with shape parameter gamma in [-1,0], offers several estimates to compute estimates of gamma. The estimates are based on the principle of replacing the order statistics by quantiles of a distribution function based on a log-concave density function. This procedure is justified by the fact that the GPD density is log-concave for gamma in [-1,0].&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=smoothtail&#34; target=&#34;_blank&#34;&gt;Download smoothtail from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1080/00949650802142667&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/smoothtail&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/smoothtail&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach and Samuel Mueller (2006): &lt;em&gt;smoothtail: Smooth Estimation of GPD Shape Parameter&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>logcondens</title>
       <link>https://numbersman77.netlify.com/software/logcondens/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/logcondens/</guid>
-      <description>&lt;p&gt;Given independent and identically distributed observations X(1), &amp;hellip;, X(n), compute the maximum likelihood estimator (MLE) of a density as well as a smoothed version of it under the assumption that the density is log-concave, see Rufibach (2007) and Duembgen and Rufibach (2009). The main function of the package is &amp;lsquo;logConDens&amp;rsquo; that allows computation of the log-concave MLE and its smoothed version. In addition, we provide functions to compute (1) the value of the density and distribution function estimates (MLE and smoothed) at a given point (2) the characterizing functions of the estimator, (3) to sample from the estimated distribution, (5) to compute a two-sample permutation test based on log-concave densities, (6) the ROC curve based on log-concave estimates within cases and controls, including confidence intervals for given values of false positive fractions (7) computation of a confidence interval for the value of the true density at a fixed point. Finally, three datasets that have been used to illustrate log-concave density estimation are made available.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=logcondens&#34; target=&#34;_blank&#34;&gt;Download logcondens from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.3150/08-BEJ141&#34; target=&#34;_blank&#34;&gt;Paper 1&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.jstatsoft.org/v39/i06&#34; target=&#34;_blank&#34;&gt;Paper 2&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1214/08-AOS609&#34; target=&#34;_blank&#34;&gt;Paper 3&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1515/1557-4679.1378&#34; target=&#34;_blank&#34;&gt;Paper 4&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/logcondens&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/logcondens&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach and Lutz Duembgen (2006): &lt;em&gt;Estimate a Log-Concave Probability Density from i.i.d. Observations&lt;/em&gt;</description>
     </item>
     
   </channel>

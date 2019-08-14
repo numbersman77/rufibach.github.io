@@ -1,100 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>supervision | Kaspar Rufibach</title>
+    <title>supervision on Kaspar Rufibach</title>
     <link>https://numbersman77.netlify.com/tags/supervision/</link>
-      <atom:link href="https://numbersman77.netlify.com/tags/supervision/index.xml" rel="self" type="application/rss+xml" />
-    <description>supervision</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
-      <title>supervision</title>
-      <link>https://numbersman77.netlify.com/tags/supervision/</link>
-    </image>
+    <description>Recent content in supervision on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/tags/supervision/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>2018: Optimism-corrected treatment effect estimates in subgroups displayed in forest plots for time-to-event outcomes</title>
       <link>https://numbersman77.netlify.com/teaching/201801_li/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/201801_li/</guid>
-      <description>&lt;p&gt;Initiated within three month full-time internship at Department of Biostatistics, Roche Basel. Co-supervised with Marcel Wolbers (Roche Basel) and the academic supervisor was &lt;a href=&#34;http://user.math.uzh.ch/hothorn/&#34; target=&#34;_blank&#34;&gt;Torsten Hothorn&lt;/a&gt;, &lt;a href=&#34;https://www.uzh.ch/cmsssl/en.html&#34; target=&#34;_blank&#34;&gt;University of Zurich&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Ke Li, master thesis to obtain MSc in biostatistics, Department of Biostatistics, University of Zurich</description>
     </item>
     
     <item>
       <title>2016: Joint Modelling of Overall Survival and Progression Free Survival</title>
       <link>https://numbersman77.netlify.com/teaching/201601_meller/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/201601_meller/</guid>
-      <description>&lt;p&gt;Initiated within four month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was &lt;a href=&#34;https://www.uni-ulm.de/mawi/statistics/team/professors/prof-dr-jan-beyersmann/&#34; target=&#34;_blank&#34;&gt;Jan Beyersmann&lt;/a&gt;, &lt;a href=&#34;https://www.uni-ulm.de/en/&#34; target=&#34;_blank&#34;&gt;University of Ulm&lt;/a&gt;. With this thesis Matthias won the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/nachwuchs/bernd-streitbergpreis/die-preistraeger.html&#34; target=&#34;_blank&#34;&gt;Bernd Streitberg Award 2018&lt;/a&gt; of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://dx.doi.org/10.1002/sim.8295&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Matthias Meller, master thesis to obtain MSc in medicine, University of Ulm</description>
     </item>
     
     <item>
       <title>2014: Estimation from Interval-censored Time-to-event Data: Method Comparison by Simulation based on GALLIUM Study for Follicular Lymphoma</title>
       <link>https://numbersman77.netlify.com/teaching/201401_hebeisen/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/201401_hebeisen/</guid>
-      <description>&lt;p&gt;Prepared within seven month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was &lt;a href=&#34;http://user.math.uzh.ch/hothorn/&#34; target=&#34;_blank&#34;&gt;Torsten Hothorn&lt;/a&gt;, &lt;a href=&#34;https://www.uzh.ch/cmsssl/en.html&#34; target=&#34;_blank&#34;&gt;University of Zurich&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.math.uzh.ch/li/index.php?file&amp;key1=30882&#34; class=&#34;btn btn-info&#34;&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt; Download thesis&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Ke Li, thesis to obtain MSc in biostatistics, Department of Biostatistics, University of Zurich</description>
     </item>
     
     <item>
       <title>2013: What does a PSA bounce look like? A numerical and graphical description of the prostate-specific antigen (PSA) bounce phenomenon in patients treated for prostate cancer with brachytherapy only</title>
       <link>https://numbersman77.netlify.com/teaching/201302_hubeaux/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/201302_hubeaux/</guid>
-      <description>&lt;p&gt;The main outcome of this internship is a &lt;a href=&#34;http://www.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; package that is available on &lt;a href=&#34;http://cran.ch.r-project.org&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;. The main function of the package allows estimation of a Weibull Regression for a right-censored endpoint, one interval-censored covariate, and an arbitrary number of non-censored covariates. Additional functions allow to switch between different parametrizations of Weibull regression used by different &lt;a href=&#34;http://www.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; functions, inference for the mean difference of two arbitrarily censored Normal samples, and estimation of canonical parameters from censored samples for several distributional assumptions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=SurvRegCensCov&#34; target=&#34;_blank&#34;&gt;Download SurvRegCensCov from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1402.0432&#34; target=&#34;_blank&#34;&gt;Technical report&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-</description>
+      <description>Philipp Boutellier, master thesis to obtain MSc in medicine, University of Zurich</description>
     </item>
     
     <item>
       <title>2013: Analysis of time-to-event data with interval- or left-censored covariates</title>
       <link>https://numbersman77.netlify.com/teaching/201301_boutellier/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/201301_boutellier/</guid>
-      <description></description>
+      <description>Stanislas Hubeaux, 6-month full-time internship within Department of Biostatistics, Roche Basel</description>
     </item>
     
     <item>
       <title>2012: Inter- and Intrareader variability of Ratingen score in the Swiss Clinical Quality Management database</title>
       <link>https://numbersman77.netlify.com/teaching/201201_loiero/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/201201_loiero/</guid>
-      <description></description>
+      <description>Dominik Loiero, master thesis to obtain MSc in medicine, University of Zurich</description>
     </item>
     
     <item>
       <title>2011: Determinants of TNFa inhibitor prescription in the Swiss Clinical Quality Management cohort of axial Spondylarthropathy patients</title>
       <link>https://numbersman77.netlify.com/teaching/201101_scherer/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/201101_scherer/</guid>
-      <description></description>
+      <description>Almut Scherer, Semester thesis, Department of Biostatistics, University of Zurich</description>
     </item>
     
     <item>
       <title>2008: Netrin-1 and DCC Expression in brain tumors (in German)</title>
       <link>https://numbersman77.netlify.com/teaching/200801_achermann/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/200801_achermann/</guid>
-      <description></description>
+      <description>Rita Achermann, Semester thesis, Department of Biostatistics, University of Zurich</description>
     </item>
     
     <item>
       <title>2005: Visus under physical stress (in German)</title>
       <link>https://numbersman77.netlify.com/teaching/200501_lanz/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/teaching/200501_lanz/</guid>
-      <description></description>
+      <description>Karin Lanz and Marco Weber, Swiss Technical School for Optometrics, Olten, Switzerland</description>
     </item>
     
   </channel>

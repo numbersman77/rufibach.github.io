@@ -1,77 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>log-concave | Kaspar Rufibach</title>
+    <title>log-concave on Kaspar Rufibach</title>
     <link>https://numbersman77.netlify.com/tags/log-concave/</link>
-      <atom:link href="https://numbersman77.netlify.com/tags/log-concave/index.xml" rel="self" type="application/rss+xml" />
-    <description>log-concave</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 02 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
-      <title>log-concave</title>
-      <link>https://numbersman77.netlify.com/tags/log-concave/</link>
-    </image>
+    <description>Recent content in log-concave on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 02 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/tags/log-concave/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>logconcens</title>
       <link>https://numbersman77.netlify.com/software/logconcens/</link>
       <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/logconcens/</guid>
-      <description>&lt;p&gt;Based on right or interval censored data, compute the maximum likelihood estimator of a (sub)probability density under the assumption that it is log-concave.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=logconcens&#34; target=&#34;_blank&#34;&gt;Download logconcens from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1214/14-EJS930&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://arxiv.org/abs/0707.4643&#34; target=&#34;_blank&#34;&gt;Technical report&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/logconcens&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Dominic Schuhmacher, Kaspar Rufibach, and Lutz Duembgen (2011): &lt;em&gt;logconcens: Maximum likelihood estimation of a log-concave density based on censored data&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>logcondiscr</title>
       <link>https://numbersman77.netlify.com/software/logcondiscr/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/logcondiscr/</guid>
-      <description>&lt;p&gt;Given independent and identically distributed observations X(1), &amp;hellip;, X(n), allows to compute the maximum likelihood estimator (MLE) of probability mass function (pmf) under the assumption that it is log-concave, see Weyermann (2007) and Balabdaoui, Jankowski, Rufibach, and Pavlides (2012). The main functions of the package are &amp;lsquo;logConDiscrMLE&amp;rsquo; that allows computation of the log-concave MLE, &amp;lsquo;logConDiscrCI&amp;rsquo; that computes pointwise confidence bands for the MLE, and &amp;lsquo;kInflatedLogConDiscr&amp;rsquo; that computes a mixture of a log-concave PMF and a point mass at k.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=logcondiscr&#34; target=&#34;_blank&#34;&gt;Download logcondiscr from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1111/rssb.12011&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/logcondiscr&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach, Fadoua Balabdaoui, Hanna Jankowski, and Kathrin Weyermann (2011): &lt;em&gt;logcondiscr: Estimate a Log-Concave Probability Mass Function from Discrete i.i.d. Observations&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>smoothtail</title>
       <link>https://numbersman77.netlify.com/software/smoothtail/</link>
       <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/smoothtail/</guid>
-      <description>&lt;p&gt;Given independent and identically distributed observations X(1), &amp;hellip;, X(n) from a Generalized Pareto distribution with shape parameter gamma in [-1,0], offers several estimates to compute estimates of gamma. The estimates are based on the principle of replacing the order statistics by quantiles of a distribution function based on a log-concave density function. This procedure is justified by the fact that the GPD density is log-concave for gamma in [-1,0].&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=smoothtail&#34; target=&#34;_blank&#34;&gt;Download smoothtail from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1080/00949650802142667&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/smoothtail&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/smoothtail&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach and Samuel Mueller (2006): &lt;em&gt;smoothtail: Smooth Estimation of GPD Shape Parameter&lt;/em&gt;</description>
     </item>
     
     <item>
       <title>logcondens</title>
       <link>https://numbersman77.netlify.com/software/logcondens/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>https://numbersman77.netlify.com/software/logcondens/</guid>
-      <description>&lt;p&gt;Given independent and identically distributed observations X(1), &amp;hellip;, X(n), compute the maximum likelihood estimator (MLE) of a density as well as a smoothed version of it under the assumption that the density is log-concave, see Rufibach (2007) and Duembgen and Rufibach (2009). The main function of the package is &amp;lsquo;logConDens&amp;rsquo; that allows computation of the log-concave MLE and its smoothed version. In addition, we provide functions to compute (1) the value of the density and distribution function estimates (MLE and smoothed) at a given point (2) the characterizing functions of the estimator, (3) to sample from the estimated distribution, (5) to compute a two-sample permutation test based on log-concave densities, (6) the ROC curve based on log-concave estimates within cases and controls, including confidence intervals for given values of false positive fractions (7) computation of a confidence interval for the value of the true density at a fixed point. Finally, three datasets that have been used to illustrate log-concave density estimation are made available.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=logcondens&#34; target=&#34;_blank&#34;&gt;Download logcondens from CRAN&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.3150/08-BEJ141&#34; target=&#34;_blank&#34;&gt;Paper 1&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.jstatsoft.org/v39/i06&#34; target=&#34;_blank&#34;&gt;Paper 2&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1214/08-AOS609&#34; target=&#34;_blank&#34;&gt;Paper 3&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://dx.doi.org/10.1515/1557-4679.1378&#34; target=&#34;_blank&#34;&gt;Paper 4&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://depsy.org/package/r/logcondens&#34; target=&#34;_blank&#34;&gt;Depsy&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/logcondens&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Kaspar Rufibach and Lutz Duembgen (2006): &lt;em&gt;Estimate a Log-Concave Probability Density from i.i.d. Observations&lt;/em&gt;</description>
     </item>
     
   </channel>
