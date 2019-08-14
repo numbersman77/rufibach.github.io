@@ -18,19 +18,9 @@
   </url>
   
   <url>
-    <loc>https://numbersman77.netlify.com/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://numbersman77.netlify.com/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://numbersman77.netlify.com/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -156,6 +146,32 @@
   </url>
   
   <url>
+    <loc>https://numbersman77.netlify.com/talk/2019_roes/</loc>
+    <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/talk/2019_ct_europe/</loc>
+    <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/talk/</loc>
+    <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/talk/2019_psi_webinar/</loc>
+    <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/tags/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://numbersman77.netlify.com/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -185,7 +201,7 @@
   
   <url>
     <loc>https://numbersman77.netlify.com/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -240,6 +256,23 @@
   </url>
   
   <url>
+    <loc>https://numbersman77.netlify.com/software/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/bpp/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/tags/predictivepower/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://numbersman77.netlify.com/authors/dominic-schuhmacher/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -254,6 +287,17 @@
   <url>
     <loc>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/survregcenscov/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/tags/regression/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -290,6 +334,23 @@
   </url>
   
   <url>
+    <loc>https://numbersman77.netlify.com/tags/log-concave/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/logconcens/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/tags/shape-constraint/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://numbersman77.netlify.com/authors/lutz-duemben/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -298,6 +359,11 @@
   <url>
     <loc>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/logcondiscr/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -334,8 +400,18 @@
   </url>
   
   <url>
+    <loc>https://numbersman77.netlify.com/software/biostatuzh/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_01_ordfacreg/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/selectmeta/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -366,8 +442,18 @@
   </url>
   
   <url>
+    <loc>https://numbersman77.netlify.com/software/ordfacreg/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/ordmonreg/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -381,8 +467,28 @@
   </url>
   
   <url>
+    <loc>https://numbersman77.netlify.com/software/reporttools/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://numbersman77.netlify.com/publication/stats_articles/2007_01_computing_logcon/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/modehunt/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/smoothtail/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/software/logcondens/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>

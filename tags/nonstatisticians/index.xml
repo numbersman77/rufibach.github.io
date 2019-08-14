@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nonstatisticians | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/nonstatisticians/</link>
+      <atom:link href="https://numbersman77.netlify.com/tags/nonstatisticians/index.xml" rel="self" type="application/rss+xml" />
+    <description>nonstatisticians</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Oct 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>nonstatisticians</title>
+      <link>https://numbersman77.netlify.com/tags/nonstatisticians/</link>
+    </image>
+    
+    <item>
+      <title>2005/10-2006/02: Introduction to Statistics</title>
+      <link>https://numbersman77.netlify.com/teaching/200510_sport/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/teaching/200510_sport/</guid>
+      <description>&lt;p&gt;Full one-semester lecture (4h/week) introduction to statistics for undergraduate students of sports science. Within &lt;a href=&#34;http://www.ispw.unibe.ch/index_eng.html&#34; target=&#34;_blank&#34;&gt;Institute of Sports Science&lt;/a&gt; at &lt;a href=&#34;https://www.unibe.ch&#34; target=&#34;_blank&#34;&gt;University of Bern&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

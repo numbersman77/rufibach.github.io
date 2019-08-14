@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>predictivepower | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/predictivepower/</link>
+      <atom:link href="https://numbersman77.netlify.com/tags/predictivepower/index.xml" rel="self" type="application/rss+xml" />
+    <description>predictivepower</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>predictivepower</title>
+      <link>https://numbersman77.netlify.com/tags/predictivepower/</link>
+    </image>
+    
+    <item>
+      <title>bpp</title>
+      <link>https://numbersman77.netlify.com/software/bpp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/software/bpp/</guid>
+      <description>&lt;p&gt;Implements functions to update Bayesian Predictive Power Computations after not stopping a clinical trial at an interim analysis. Such an interim analysis can either be blinded or unblinded. Code is provided for Normally distributed endpoints with known variance, with a prominent example being the hazard ratio.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/package=bpp&#34; target=&#34;_blank&#34;&gt;Download bpp from CRAN&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1080/10543406.2014.972508&#34; target=&#34;_blank&#34;&gt;Paper 1&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1002/pst.1764&#34; target=&#34;_blank&#34;&gt;Paper 2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/bpp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
