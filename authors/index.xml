@@ -1,95 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Jinlai Xu&#39;s Homepage</title>
-    <link>http://jinlaixu.net/authors/</link>
-    <description>Recent content in Authors on Jinlai Xu&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Jinlai Xu</copyright>
-    <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://jinlaixu.net/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
     <item>
-      <title>Balaji Palanisamy</title>
-      <link>http://jinlaixu.net/authors/balaji-palanisamy/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/balaji-palanisamy/</guid>
-      <description></description>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Jinlai Xu</title>
-      <link>http://jinlaixu.net/authors/jinlai-xu/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/jinlai-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.D. Madhu Kumar</title>
-      <link>http://jinlaixu.net/authors/s.d.-madhu-kumar/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/s.d.-madhu-kumar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuzhe Tang</title>
-      <link>http://jinlaixu.net/authors/yuzhe-tang/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/yuzhe-tang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heiko Ludwig</title>
-      <link>http://jinlaixu.net/authors/heiko-ludwig/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/heiko-ludwig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qingyang Wang</title>
-      <link>http://jinlaixu.net/authors/qingyang-wang/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/qingyang-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deze Zeng</title>
-      <link>http://jinlaixu.net/authors/deze-zeng/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/deze-zeng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hong Yao</title>
-      <link>http://jinlaixu.net/authors/hong-yao/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/hong-yao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhongwen Luo</title>
-      <link>http://jinlaixu.net/authors/zhongwen-luo/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://jinlaixu.net/authors/zhongwen-luo/</guid>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     
