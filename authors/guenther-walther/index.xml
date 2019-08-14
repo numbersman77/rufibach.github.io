@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guenther Walther | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/guenther-walther/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/guenther-walther/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guenther Walther</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 02 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Guenther Walther</title>
+      <link>https://numbersman77.netlify.com/authors/guenther-walther/</link>
+    </image>
+    
+    <item>
+      <title>The block criterion for multiscale inference about a density, with applications to other multiscale problems</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

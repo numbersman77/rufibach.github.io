@@ -5,7 +5,7 @@
     <link>https://numbersman77.netlify.com/authors/</link>
       <atom:link href="https://numbersman77.netlify.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://numbersman77.netlify.com/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://numbersman77.netlify.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a mathematical statistician. Through more than 15 years in various biostatistical roles I have complemented my thorough theoretical background with expertise in biostatistics. I am passionate about applying this expertise to solve problems in pharmaceutical drug development.&lt;/p&gt;
 
@@ -27,10 +27,202 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://numbersman77.netlify.com/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://numbersman77.netlify.com/authors/robert-ford/</guid>
+      <title>Annabelle Monnet</title>
+      <link>https://numbersman77.netlify.com/authors/annabelle-monnet/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/annabelle-monnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominik Heinzmann</title>
+      <link>https://numbersman77.netlify.com/authors/dominik-heinzmann/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/dominik-heinzmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaspar Rufibach</title>
+      <link>https://numbersman77.netlify.com/authors/kaspar-rufibach/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/kaspar-rufibach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Beyersmann</title>
+      <link>https://numbersman77.netlify.com/authors/jan-beyersmann/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/jan-beyersmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Meller</title>
+      <link>https://numbersman77.netlify.com/authors/matthias-meller/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/matthias-meller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Dejardin</title>
+      <link>https://numbersman77.netlify.com/authors/david-dejardin/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/david-dejardin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hans Ulrich Burger</title>
+      <link>https://numbersman77.netlify.com/authors/hans-ulrich-burger/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/hans-ulrich-burger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ulrich Beyer</title>
+      <link>https://numbersman77.netlify.com/authors/ulrich-beyer/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/ulrich-beyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Abt</title>
+      <link>https://numbersman77.netlify.com/authors/markus-abt/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/markus-abt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Jordan</title>
+      <link>https://numbersman77.netlify.com/authors/paul-jordan/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/paul-jordan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominic Schuhmacher</title>
+      <link>https://numbersman77.netlify.com/authors/dominic-schuhmacher/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/dominic-schuhmacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lutz Duembgen</title>
+      <link>https://numbersman77.netlify.com/authors/lutz-duembgen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/lutz-duembgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fadoua Balabdaoui</title>
+      <link>https://numbersman77.netlify.com/authors/fadoua-balabdaoui/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/fadoua-balabdaoui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanna Jankowski</title>
+      <link>https://numbersman77.netlify.com/authors/hanna-jankowski/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/hanna-jankowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marios Pavlides</title>
+      <link>https://numbersman77.netlify.com/authors/marios-pavlides/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/marios-pavlides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lutz Duemben</title>
+      <link>https://numbersman77.netlify.com/authors/lutz-duemben/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/lutz-duemben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonhard Held</title>
+      <link>https://numbersman77.netlify.com/authors/leonhard-held/</link>
+      <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/leonhard-held/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filippo Santambrogio</title>
+      <link>https://numbersman77.netlify.com/authors/filippo-santambrogio/</link>
+      <pubDate>Sun, 03 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/filippo-santambrogio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guenther Walther</title>
+      <link>https://numbersman77.netlify.com/authors/guenther-walther/</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/guenther-walther/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Muller</title>
+      <link>https://numbersman77.netlify.com/authors/samuel-muller/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/samuel-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon A Wellner</title>
+      <link>https://numbersman77.netlify.com/authors/jon-a-wellner/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/jon-a-wellner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel Bertschy</title>
+      <link>https://numbersman77.netlify.com/authors/manuel-bertschy/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/manuel-bertschy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuela Schuettel</title>
+      <link>https://numbersman77.netlify.com/authors/manuela-schuettel/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/manuela-schuettel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Vock</title>
+      <link>https://numbersman77.netlify.com/authors/michael-vock/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/michael-vock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tina Wasserfallen</title>
+      <link>https://numbersman77.netlify.com/authors/tina-wasserfallen/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/authors/tina-wasserfallen/</guid>
       <description></description>
     </item>
     

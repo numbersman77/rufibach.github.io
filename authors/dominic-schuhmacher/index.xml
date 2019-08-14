@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominic Schuhmacher | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/dominic-schuhmacher/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/dominic-schuhmacher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dominic Schuhmacher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Dominic Schuhmacher</title>
+      <link>https://numbersman77.netlify.com/authors/dominic-schuhmacher/</link>
+    </image>
+    
+    <item>
+      <title>Maximum-Likelihood Estimation of a Log-Concave Density based on Censored Data</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

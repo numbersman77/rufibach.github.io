@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon A Wellner | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/jon-a-wellner/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/jon-a-wellner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jon A Wellner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 02 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Jon A Wellner</title>
+      <link>https://numbersman77.netlify.com/authors/jon-a-wellner/</link>
+    </image>
+    
+    <item>
+      <title>Limit Distribution Theory for Maximum Likelihood Estimation of a Log-Concave Density</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

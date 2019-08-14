@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fadoua Balabdaoui | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/fadoua-balabdaoui/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/fadoua-balabdaoui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fadoua Balabdaoui</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Fadoua Balabdaoui</title>
+      <link>https://numbersman77.netlify.com/authors/fadoua-balabdaoui/</link>
+    </image>
+    
+    <item>
+      <title>Asymptotics of the discrete log-concave maximum likelihood estimator and related applications</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A score regression approach to assess calibration of probabilistic predictions</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_04_scorereg/</link>
+      <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_04_scorereg/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Least Squares estimation of two ordered monotone regression curves</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</link>
+      <pubDate>Sun, 03 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Limit Distribution Theory for Maximum Likelihood Estimation of a Log-Concave Density</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A second Marshall inequality in convex estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2008_01_2nd_marshall/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008_01_2nd_marshall/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

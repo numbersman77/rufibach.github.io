@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lutz Duembgen | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/lutz-duembgen/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/lutz-duembgen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lutz Duembgen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Lutz Duembgen</title>
+      <link>https://numbersman77.netlify.com/authors/lutz-duembgen/</link>
+    </image>
+    
+    <item>
+      <title>Maximum-Likelihood Estimation of a Log-Concave Density based on Censored Data</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum Likelihood Estimation of a Log-Concave Density and its Distribution Function</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

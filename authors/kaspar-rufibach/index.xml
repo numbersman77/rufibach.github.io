@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/kaspar-rufibach/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/kaspar-rufibach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaspar Rufibach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Kaspar Rufibach</title>
+      <link>https://numbersman77.netlify.com/authors/kaspar-rufibach/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling of progression-free and overall survival and computation of correlation measures</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</guid>
+      <description>&lt;p&gt;This project was initiated within a four month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was &lt;a href=&#34;https://www.uni-ulm.de/mawi/statistics/team/professors/prof-dr-jan-beyersmann/&#34; target=&#34;_blank&#34;&gt;Jan Beyersmann&lt;/a&gt;, &lt;a href=&#34;https://www.uni-ulm.de/en/&#34; target=&#34;_blank&#34;&gt;University of Ulm&lt;/a&gt;. The project became Matthias Meller&amp;rsquo;s MSc thesis with which he won the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/nachwuchs/bernd-streitbergpreis/die-preistraeger.html&#34; target=&#34;_blank&#34;&gt;Bernd Streitberg Award 2018&lt;/a&gt; of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A multistate model for early decision making in oncology</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treatment Effect Quantification for Time-to-event Endpoints - Estimands, Analysis Strategies, and beyond</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of different clinical development plans for confirmatory subpopulation selection</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Predictive Power: Choice of Prior and some Recommendations for its Use as Probability of Success in Drug Development</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequentially Updating the Likelihood of Success of a Phase 3 Pivotal Time-to-Event Trial based on Interim Analyses or External Information</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum-Likelihood Estimation of a Log-Concave Density based on Censored Data</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotics of the discrete log-concave maximum likelihood estimator and related applications</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A smooth ROC curve estimator based on log-concave density estimates</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2012_01_logconroc/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2012_01_logconroc/</guid>
+      <description>&lt;p&gt;The methodology in this paper is also available in the function smooth() in the &lt;a href=&#34;http://www.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; package &lt;a href=&#34;http://cran.r-project.org/package=pROC&#34; target=&#34;_blank&#34;&gt;pROC&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selection models with monotone weight functions in meta analysis</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>logcondens: Computations Related to Univariate Log-Concave Density Estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A score regression approach to assess calibration of probabilistic predictions</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_04_scorereg/</link>
+      <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_04_scorereg/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Least Squares estimation of two ordered monotone regression curves</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</link>
+      <pubDate>Sun, 03 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The block criterion for multiscale inference about a density, with applications to other multiscale problems</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Active Set Algorithm to Estimate Parameters in Generalized Linear Models with Ordered Predictors</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_01_ordfacreg/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_01_ordfacreg/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>reporttools: R Functions to Generate LaTeX Tables of Descriptive Statistics</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_04_reporttools/</link>
+      <pubDate>Sun, 04 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_04_reporttools/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smooth tail index estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_03_smooth_tail_index/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_03_smooth_tail_index/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Limit Distribution Theory for Maximum Likelihood Estimation of a Log-Concave Density</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximum Likelihood Estimation of a Log-Concave Density and its Distribution Function</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A second Marshall inequality in convex estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2008_01_2nd_marshall/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008_01_2nd_marshall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the max-domain of attraction of distributions with log-concave densities</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2008_01_max-domain/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008_01_max-domain/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computing Maximum Likelihood Estimators of a Log-Concave Density Function</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2007_01_computing_logcon/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2007_01_computing_logcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eintrittsraten und Austrittswahrscheinlichkeiten EVK 2000</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

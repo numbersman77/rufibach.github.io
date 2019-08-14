@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Muller | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/samuel-muller/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/samuel-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel Muller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 03 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Samuel Muller</title>
+      <link>https://numbersman77.netlify.com/authors/samuel-muller/</link>
+    </image>
+    
+    <item>
+      <title>Smooth tail index estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2009_03_smooth_tail_index/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2009_03_smooth_tail_index/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the max-domain of attraction of distributions with log-concave densities</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2008_01_max-domain/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2008_01_max-domain/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

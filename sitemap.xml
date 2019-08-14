@@ -49,41 +49,7 @@
   </url>
   
   <url>
-    <loc>https://numbersman77.netlify.com/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://numbersman77.netlify.com/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://numbersman77.netlify.com/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://numbersman77.netlify.com/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://numbersman77.netlify.com/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://numbersman77.netlify.com/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://numbersman77.netlify.com/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -102,6 +68,91 @@
   <url>
     <loc>https://numbersman77.netlify.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication_types/2/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/annabelle-monnet/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/dominik-heinzmann/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/kaspar-rufibach/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication_types/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/jan-beyersmann/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/matthias-meller/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/david-dejardin/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/hans-ulrich-burger/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/ulrich-beyer/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,6 +184,12 @@
   </url>
   
   <url>
+    <loc>https://numbersman77.netlify.com/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://numbersman77.netlify.com/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -156,31 +213,210 @@
   </url>
   
   <url>
-    <loc>https://numbersman77.netlify.com/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</loc>
+    <lastmod>2016-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/markus-abt/</loc>
+    <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://numbersman77.netlify.com/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://numbersman77.netlify.com/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://numbersman77.netlify.com/authors/paul-jordan/</loc>
+    <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://numbersman77.netlify.com/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/dominic-schuhmacher/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://numbersman77.netlify.com/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://numbersman77.netlify.com/authors/lutz-duembgen/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2014_01_logconcens/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/fadoua-balabdaoui/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/hanna-jankowski/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/marios-pavlides/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2012_01_logconroc/</loc>
+    <lastmod>2012-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</loc>
+    <lastmod>2011-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/lutz-duemben/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_04_scorereg/</loc>
+    <lastmod>2010-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/leonhard-held/</loc>
+    <lastmod>2010-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/filippo-santambrogio/</loc>
+    <lastmod>2010-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</loc>
+    <lastmod>2010-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/guenther-walther/</loc>
+    <lastmod>2010-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</loc>
+    <lastmod>2010-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_01_ordfacreg/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_04_reporttools/</loc>
+    <lastmod>2009-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/samuel-muller/</loc>
+    <lastmod>2009-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_03_smooth_tail_index/</loc>
+    <lastmod>2009-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/jon-a-wellner/</loc>
+    <lastmod>2009-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_02_limdist_logcon/</loc>
+    <lastmod>2009-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2009_01_mle_logcon/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2008_01_2nd_marshall/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2008_01_max-domain/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2007_01_computing_logcon/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/manuel-bertschy/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/manuela-schuettel/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/michael-vock/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/authors/tina-wasserfallen/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://numbersman77.netlify.com/publication/stats_articles/2016_03_cll11/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

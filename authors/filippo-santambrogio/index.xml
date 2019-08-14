@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filippo Santambrogio | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/filippo-santambrogio/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/filippo-santambrogio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Filippo Santambrogio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 03 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Filippo Santambrogio</title>
+      <link>https://numbersman77.netlify.com/authors/filippo-santambrogio/</link>
+    </image>
+    
+    <item>
+      <title>Least Squares estimation of two ordered monotone regression curves</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</link>
+      <pubDate>Sun, 03 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2010_03_ls_ordmon/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

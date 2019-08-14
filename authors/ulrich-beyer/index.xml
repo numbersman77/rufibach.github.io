@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ulrich Beyer | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/ulrich-beyer/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/ulrich-beyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ulrich Beyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Ulrich Beyer</title>
+      <link>https://numbersman77.netlify.com/authors/ulrich-beyer/</link>
+    </image>
+    
+    <item>
+      <title>A multistate model for early decision making in oncology</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lutz Duemben | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/lutz-duemben/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/lutz-duemben/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lutz Duemben</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Lutz Duemben</title>
+      <link>https://numbersman77.netlify.com/authors/lutz-duemben/</link>
+    </image>
+    
+    <item>
+      <title>logcondens: Computations Related to Univariate Log-Concave Density Estimation</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

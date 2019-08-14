@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marios Pavlides | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/marios-pavlides/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/marios-pavlides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marios Pavlides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Marios Pavlides</title>
+      <link>https://numbersman77.netlify.com/authors/marios-pavlides/</link>
+    </image>
+    
+    <item>
+      <title>Asymptotics of the discrete log-concave maximum likelihood estimator and related applications</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2013_01_logcondiscr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

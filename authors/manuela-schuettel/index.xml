@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuela Schuettel | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/manuela-schuettel/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/manuela-schuettel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuela Schuettel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Manuela Schuettel</title>
+      <link>https://numbersman77.netlify.com/authors/manuela-schuettel/</link>
+    </image>
+    
+    <item>
+      <title>Eintrittsraten und Austrittswahrscheinlichkeiten EVK 2000</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Jordan | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/paul-jordan/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/paul-jordan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Jordan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 02 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
+      <title>Paul Jordan</title>
+      <link>https://numbersman77.netlify.com/authors/paul-jordan/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of different clinical development plans for confirmatory subpopulation selection</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequentially Updating the Likelihood of Success of a Phase 3 Pivotal Time-to-Event Trial based on Interim Analyses or External Information</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
