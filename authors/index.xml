@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/authors/</link>
+      <atom:link href="https://numbersman77.netlify.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://numbersman77.netlify.com/img/kaspar.jpg</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://numbersman77.netlify.com/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://numbersman77.netlify.com/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <guid>https://numbersman77.netlify.com/authors/admin/</guid>
+      <description>&lt;p&gt;I am a mathematical statistician. Through more than 15 years in various biostatistical roles I have complemented my thorough theoretical background with expertise in biostatistics. I am passionate about applying this expertise to solve problems in pharmaceutical drug development.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;files/01_Kaspar_Rufibach_CV.pdf&#34; class=&#34;btn btn-info&#34;&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt; CV&lt;/a&gt;
+&lt;a href=&#34;files/02_Kaspar_Rufibach_publications.pdf&#34; class=&#34;btn btn-info&#34;&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt; Publications&lt;/a&gt;
+&lt;a href=&#34;files/03_Kaspar_Rufibach_talks.pdf&#34; class=&#34;btn btn-info&#34;&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt; Talks&lt;/a&gt;
+&lt;a href=&#34;files/04_Kaspar_Rufibach_teaching.pdf&#34; class=&#34;btn btn-info&#34;&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt; Teaching&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
+      <link>https://numbersman77.netlify.com/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <guid>https://numbersman77.netlify.com/authors/robert-ford/</guid>
       <description></description>
     </item>
     
