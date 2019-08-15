@@ -79,6 +79,16 @@
     </item>
     
     <item>
+      <title>Bayesian Predictive Power: Theory, challenges in implementation, and perspectives</title>
+      <link>https://numbersman77.netlify.com/talk/2019_bayespharma/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2019_bayespharma/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Before going BIG - seize opportunities for small data: use of multistate models to improve decision-making and effect quantification in clinical trials</title>
       <link>https://numbersman77.netlify.com/talk/2019_roes/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
@@ -89,11 +99,31 @@
     </item>
     
     <item>
+      <title>External controls in drug development (with Hans Ulrich Burger)</title>
+      <link>https://numbersman77.netlify.com/talk/2019_bbs/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2019_bbs/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Implications of the ICH E9 estimand addendum on how we develop, run, and analyze clinical trials</title>
       <link>https://numbersman77.netlify.com/talk/2019_ct_europe/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/2019_ct_europe/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multistate models to improve decision-making and effect quantification in clinical trials</title>
+      <link>https://numbersman77.netlify.com/talk/2019_shanghai/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2019_shanghai/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
@@ -124,36 +154,6 @@
       <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2016: Joint Modelling of Overall Survival and Progression Free Survival</title>
-      <link>https://numbersman77.netlify.com/teaching/201601_meller/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/201601_meller/</guid>
-      <description>&lt;p&gt;Initiated within four month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was &lt;a href=&#34;https://www.uni-ulm.de/mawi/statistics/team/professors/prof-dr-jan-beyersmann/&#34; target=&#34;_blank&#34;&gt;Jan Beyersmann&lt;/a&gt;, &lt;a href=&#34;https://www.uni-ulm.de/en/&#34; target=&#34;_blank&#34;&gt;University of Ulm&lt;/a&gt;. With this thesis Matthias won the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/nachwuchs/bernd-streitbergpreis/die-preistraeger.html&#34; target=&#34;_blank&#34;&gt;Bernd Streitberg Award 2018&lt;/a&gt; of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://dx.doi.org/10.1002/sim.8295&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Predictive Power: Choice of Prior and some Recommendations for its Use as Probability of Success in Drug Development</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_04_ptsbathtub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequentially Updating the Likelihood of Success of a Phase 3 Pivotal Time-to-Event Trial based on Interim Analyses or External Information</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</guid>
       <description></description>
     </item>
     
