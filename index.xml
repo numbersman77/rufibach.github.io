@@ -99,11 +99,41 @@
     </item>
     
     <item>
+      <title>Construction of an Estimand in a Clinical Trial on Progressive Multiple Sclerosis</title>
+      <link>https://numbersman77.netlify.com/talk/2017_basel_efspi/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2017_basel_efspi/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimands and the ICH E9 draft addendum</title>
+      <link>https://numbersman77.netlify.com/talk/2018_zurich/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2018_zurich/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>External controls in drug development (with Hans Ulrich Burger)</title>
       <link>https://numbersman77.netlify.com/talk/2019_bbs/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/2019_bbs/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immortal bias - you live longer if you cannot die</title>
+      <link>https://numbersman77.netlify.com/talk/2018_ms_seminar/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/2018_ms_seminar/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
@@ -119,42 +149,13 @@
     </item>
     
     <item>
-      <title>Multistate models to improve decision-making and effect quantification in clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/2019_shanghai/</link>
+      <title>MIRROS: Phase 3 trial with time-to-event endpoint, cure proportion, and futility interim analysis using response</title>
+      <link>https://numbersman77.netlify.com/talk/2019_smi/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://numbersman77.netlify.com/talk/2019_shanghai/</guid>
+      <guid>https://numbersman77.netlify.com/talk/2019_smi/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>rpact - R Package for Adaptive Clinical Trials</title>
-      <link>https://numbersman77.netlify.com/talk/2019_psi_webinar/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/2019_psi_webinar/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2018: Optimism-corrected treatment effect estimates in subgroups displayed in forest plots for time-to-event outcomes</title>
-      <link>https://numbersman77.netlify.com/teaching/201801_li/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/201801_li/</guid>
-      <description>&lt;p&gt;Initiated within three month full-time internship at Department of Biostatistics, Roche Basel. Co-supervised with Marcel Wolbers (Roche Basel) and the academic supervisor was &lt;a href=&#34;http://user.math.uzh.ch/hothorn/&#34; target=&#34;_blank&#34;&gt;Torsten Hothorn&lt;/a&gt;, &lt;a href=&#34;https://www.uzh.ch/cmsssl/en.html&#34; target=&#34;_blank&#34;&gt;University of Zurich&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comparison of different clinical development plans for confirmatory subpopulation selection</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</link>
-      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_02_cdp_subpop/</guid>
-      <description></description>
     </item>
     
   </channel>
