@@ -31,12 +31,66 @@
     </item>
     
     <item>
+      <title>2019/01: Introduction to statistics in clinical trials</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_3_msl/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_3_msl/</guid>
+      <description>Kaspar Rufibach, Roche-internal course</description>
+    </item>
+    
+    <item>
+      <title>2019/01: Introduction to survival analysis and clinical trial designs, Part II.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_2_baden/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_2_baden/</guid>
+      <description>Kaspar Rufibach, Baden Hospital</description>
+    </item>
+    
+    <item>
+      <title>2019/01: Estimands and real-world data in drug development</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_1_ns/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_1_ns/</guid>
+      <description>Kaspar Rufibach, Roche-internal course</description>
+    </item>
+    
+    <item>
+      <title>2019/01: Introduction to survival analysis and clinical trial designs.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2018_3_ns/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2018_3_ns/</guid>
+      <description>Kaspar Rufibach, Roche-internal course</description>
+    </item>
+    
+    <item>
       <title>2018/03: Group-sequential and adaptive clinical trial designs, with R practicals</title>
       <link>https://numbersman77.netlify.com/teaching/stats/201803_groupseq/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/teaching/stats/201803_groupseq/</guid>
       <description>Marc Vandemeulebroecke, Kaspar Rufibach, Daniel Sabanes-Bove, and Marcel Wolbers, course on behalf of the BBS</description>
+    </item>
+    
+    <item>
+      <title>2018/03: Introduction to survival analysis and clinical trial designs, Part I.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2018_2_baden/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2018_2_baden/</guid>
+      <description>Kaspar Rufibach, Baden Hospital</description>
+    </item>
+    
+    <item>
+      <title>2019/01: Introduction to survival analysis and clinical trial designs.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2018_1_pdr/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2018_1_pdr/</guid>
+      <description>Kaspar Rufibach, Roche-internal course</description>
     </item>
     
     <item>
@@ -194,10 +248,10 @@
     
     <item>
       <title>2005/10-2006/02: Introduction to Statistics</title>
-      <link>https://numbersman77.netlify.com/teaching/nonstats/200510_sport/</link>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2005_1_sport/</link>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/teaching/nonstats/200510_sport/</guid>
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2005_1_sport/</guid>
       <description>Kaspar Rufibach, within MSc sport science program at University of Bern</description>
     </item>
     

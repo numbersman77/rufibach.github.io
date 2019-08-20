@@ -39,12 +39,32 @@
     </item>
     
     <item>
+      <title>2019/01: Introduction to statistics in clinical trials</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_3_msl/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_3_msl/</guid>
+      <description>&lt;p&gt;Two-hour course for Medical Science Liaison group, Roche Swiss Affiliate, Reinach.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Joint modelling of progression-free and overall survival and computation of correlation measures</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</guid>
       <description>&lt;p&gt;This project was initiated within a four month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was &lt;a href=&#34;https://www.uni-ulm.de/mawi/statistics/team/professors/prof-dr-jan-beyersmann/&#34; target=&#34;_blank&#34;&gt;Jan Beyersmann&lt;/a&gt;, &lt;a href=&#34;https://www.uni-ulm.de/en/&#34; target=&#34;_blank&#34;&gt;University of Ulm&lt;/a&gt;. The project became Matthias Meller&amp;rsquo;s MSc thesis with which he won the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/nachwuchs/bernd-streitbergpreis/die-preistraeger.html&#34; target=&#34;_blank&#34;&gt;Bernd Streitberg Award 2018&lt;/a&gt; of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019/01: Introduction to survival analysis and clinical trial designs, Part II.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_2_baden/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_2_baden/</guid>
+      <description>&lt;p&gt;Two-hour course for medical doctors, organized by Roche Switzerland at Baden Hospital.&lt;/p&gt;
 </description>
     </item>
     
@@ -58,12 +78,32 @@
     </item>
     
     <item>
+      <title>2019/01: Estimands and real-world data in drug development</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_1_ns/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_1_ns/</guid>
+      <description>&lt;p&gt;Half-day course for early development Neuroscience, Ophthalmology and Rare Disease scientists, Roche, Basel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Treatment Effect Quantification for Time-to-event Endpoints - Estimands, Analysis Strategies, and beyond</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_01_estimand_t2e/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>2019/01: Introduction to survival analysis and clinical trial designs.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2018_3_ns/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2018_3_ns/</guid>
+      <description>&lt;p&gt;Half-day course for early development Neuroscience, Ophthalmology and Rare Disease scientists, Roche, Basel.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -75,6 +115,26 @@
       <description>&lt;p&gt;Full-day course organized by the &lt;a href=&#34;http://bbs.ceb-institute.org&#34; target=&#34;_blank&#34;&gt;Basel Biometric Section&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://bbs.ceb-institute.org/?p=1118&#34; target=&#34;_blank&#34;&gt;Announcement&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018/03: Introduction to survival analysis and clinical trial designs, Part I.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2018_2_baden/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2018_2_baden/</guid>
+      <description>&lt;p&gt;Three-hour course for medical doctors, organized by Roche Switzerland at Baden Hospital.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019/01: Introduction to survival analysis and clinical trial designs.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2018_1_pdr/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2018_1_pdr/</guid>
+      <description>&lt;p&gt;Half-day course for Regulatory Documentation Department and Global Project Managers, Roche, Basel&lt;/p&gt;
 </description>
     </item>
     
@@ -94,66 +154,6 @@
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2016_1_ulm/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Predictive Power: Theory, challenges in implementation, and perspectives</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_3_lyon_bayespharma/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_3_lyon_bayespharma/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Predictive Power: update after a blinded interim analysis and choice of prior</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2016_5_lausanne/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2016_5_lausanne/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Predictive Power: update after a blinded interim analysis and choice of update after a blinded interim analysis and choice of prior</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2016_7_heidelberg/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2016_7_heidelberg/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Before going BIG - seize opportunities for small data: use of multistate models to improve decision-making and effect quantification in clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_6_lausanne_roes/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_6_lausanne_roes/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comparison of clinical development plans for a confirmatory trial with subpopulation selection</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2017_1_basel_bbs/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2017_1_basel_bbs/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Construction of an Estimand in a Clinical Trial on Progressive Multiple Sclerosis</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2017_4_basel_efspi/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2017_4_basel_efspi/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
