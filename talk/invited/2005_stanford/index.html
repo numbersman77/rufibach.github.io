@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Bayesian predictive power is the expectation of the probability to meet the primary endpoint of a clinical trial, or any statistical test, at the final analysis, where expectation is computed with respect to a prior distribution over the true underlying effect. Bayesian predictive power is thus a way of quantifying the success probability for the trial sponsor while the trial is still running. The existing framework typically assumes that once the trial is not stopped at an interim analysis, Bayesian predictive power is updated with the resulting interim estimate. However, in blinded Phase III trials, typically an independent committee looks at the data and no effect estimate is revealed to the sponsor after passing the interim analysis. Instead, the sponsor only knows that the effect estimate was between predefined futility and efficacy boundaries. In the first part, we show how Bayesian predictive power for a time-to-event endpoint can be updated based on such knowledge only. In the literature it is often suggested to use a Normal prior. In the second part, we show that, unless the prior sample size is large compared to the Phase III trial, using a Normal prior leads to some undesired features of Bayesian predictive power that seem to be generally overlooked in applications.">
+  <meta name="description" content="We study nonparametric maximum likelihood estimation of a univariate log-concave probability density. Many parametric models feature log-concavity (at least for certain parameter ranges), e.g. normal, gamma, extreme value, laplace or logistic. Note further that log-concavity entails unimodality. The maximum likelihood estimator can be constructed to be the solution of a linearly constrained optimization problem. We provide algorithms using interior point and other methods to solve this optimization task. Some general properties and two entirely different characterizations of the density estimator are derived. It is shown that its rate of convergence with respect to supremum norm on a compact interval is at least (log(n)/n)^1/3 and typically (log(n)/n)^2/5. This entails that the distribution function estimator is essentially equivalent to the empirical cumulative distribution function. Furthermore, a general property of log-concave densities enables one to define a simple plug-in monotone hazard rate estimator.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://numbersman77.netlify.com/talk/invited/2015_1_bern/">
+  <link rel="alternate" hreflang="en-us" href="https://numbersman77.netlify.com/talk/invited/2005_stanford/">
 
   
 
@@ -68,7 +68,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://numbersman77.netlify.com/talk/invited/2015_1_bern/">
+  <link rel="canonical" href="https://numbersman77.netlify.com/talk/invited/2005_stanford/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -76,9 +76,9 @@
   <meta property="twitter:creator" content="@numbersman77">
   
   <meta property="og:site_name" content="Kaspar Rufibach">
-  <meta property="og:url" content="https://numbersman77.netlify.com/talk/invited/2015_1_bern/">
-  <meta property="og:title" content="Bayesian predictive power: update after a blinded interim and fallacies | Kaspar Rufibach">
-  <meta property="og:description" content="Bayesian predictive power is the expectation of the probability to meet the primary endpoint of a clinical trial, or any statistical test, at the final analysis, where expectation is computed with respect to a prior distribution over the true underlying effect. Bayesian predictive power is thus a way of quantifying the success probability for the trial sponsor while the trial is still running. The existing framework typically assumes that once the trial is not stopped at an interim analysis, Bayesian predictive power is updated with the resulting interim estimate. However, in blinded Phase III trials, typically an independent committee looks at the data and no effect estimate is revealed to the sponsor after passing the interim analysis. Instead, the sponsor only knows that the effect estimate was between predefined futility and efficacy boundaries. In the first part, we show how Bayesian predictive power for a time-to-event endpoint can be updated based on such knowledge only. In the literature it is often suggested to use a Normal prior. In the second part, we show that, unless the prior sample size is large compared to the Phase III trial, using a Normal prior leads to some undesired features of Bayesian predictive power that seem to be generally overlooked in applications.">
+  <meta property="og:url" content="https://numbersman77.netlify.com/talk/invited/2005_stanford/">
+  <meta property="og:title" content="Log-concave density estimation | Kaspar Rufibach">
+  <meta property="og:description" content="We study nonparametric maximum likelihood estimation of a univariate log-concave probability density. Many parametric models feature log-concavity (at least for certain parameter ranges), e.g. normal, gamma, extreme value, laplace or logistic. Note further that log-concavity entails unimodality. The maximum likelihood estimator can be constructed to be the solution of a linearly constrained optimization problem. We provide algorithms using interior point and other methods to solve this optimization task. Some general properties and two entirely different characterizations of the density estimator are derived. It is shown that its rate of convergence with respect to supremum norm on a compact interval is at least (log(n)/n)^1/3 and typically (log(n)/n)^2/5. This entails that the distribution function estimator is essentially equivalent to the empirical cumulative distribution function. Furthermore, a general property of log-concave densities enables one to define a simple plug-in monotone hazard rate estimator.">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2015-04-17T00:00:00&#43;02:00">
@@ -88,7 +88,7 @@
 
   
 
-  <title>Bayesian predictive power: update after a blinded interim and fallacies | Kaspar Rufibach</title>
+  <title>Log-concave density estimation | Kaspar Rufibach</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -253,7 +253,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Bayesian predictive power: update after a blinded interim and fallacies</h1>
+      <h1 itemprop="name">Log-concave density estimation</h1>
       <span class="pub-authors" itemprop="author">
         
       </span>
@@ -263,35 +263,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Bayesian%20predictive%20power%3a%20update%20after%20a%20blinded%20interim%20and%20fallacies&amp;url=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2015_1_bern%2f"
+         href="https://twitter.com/intent/tweet?text=Log-concave%20density%20estimation&amp;url=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2005_stanford%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2015_1_bern%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2005_stanford%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2015_1_bern%2f&amp;title=Bayesian%20predictive%20power%3a%20update%20after%20a%20blinded%20interim%20and%20fallacies"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2005_stanford%2f&amp;title=Log-concave%20density%20estimation"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2015_1_bern%2f&amp;title=Bayesian%20predictive%20power%3a%20update%20after%20a%20blinded%20interim%20and%20fallacies"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2005_stanford%2f&amp;title=Log-concave%20density%20estimation"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Bayesian%20predictive%20power%3a%20update%20after%20a%20blinded%20interim%20and%20fallacies&amp;body=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2015_1_bern%2f">
+         href="mailto:?subject=Log-concave%20density%20estimation&amp;body=https%3a%2f%2fnumbersman77.netlify.com%2ftalk%2finvited%2f2005_stanford%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -304,7 +304,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">Bayesian predictive power is the expectation of the probability to meet the primary endpoint of a clinical trial, or any statistical test, at the final analysis, where expectation is computed with respect to a prior distribution over the true underlying effect. Bayesian predictive power is thus a way of quantifying the success probability for the trial sponsor while the trial is still running. The existing framework typically assumes that once the trial is not stopped at an interim analysis, Bayesian predictive power is updated with the resulting interim estimate. However, in blinded Phase III trials, typically an independent committee looks at the data and no effect estimate is revealed to the sponsor after passing the interim analysis. Instead, the sponsor only knows that the effect estimate was between predefined futility and efficacy boundaries. In the first part, we show how Bayesian predictive power for a time-to-event endpoint can be updated based on such knowledge only. In the literature it is often suggested to use a Normal prior. In the second part, we show that, unless the prior sample size is large compared to the Phase III trial, using a Normal prior leads to some undesired features of Bayesian predictive power that seem to be generally overlooked in applications.</p>
+      <p class="pub-abstract" itemprop="text">We study nonparametric maximum likelihood estimation of a univariate log-concave probability density. Many parametric models feature log-concavity (at least for certain parameter ranges), e.g. normal, gamma, extreme value, laplace or logistic. Note further that log-concavity entails unimodality. The maximum likelihood estimator can be constructed to be the solution of a linearly constrained optimization problem. We provide algorithms using interior point and other methods to solve this optimization task. Some general properties and two entirely different characterizations of the density estimator are derived. It is shown that its rate of convergence with respect to supremum norm on a compact interval is at least (log(n)/n)^1/3 and typically (log(n)/n)^2/5. This entails that the distribution function estimator is essentially equivalent to the empirical cumulative distribution function. Furthermore, a general property of log-concave densities enables one to define a simple plug-in monotone hazard rate estimator.</p>
     
 
     <div class="row">
@@ -314,7 +314,7 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
             
-            Apr 17, 2015
+            Aug 23, 2005
             <div class="talk-time">
               
                 00:00
@@ -336,9 +336,9 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
           <div class="col-xs-12 col-sm-9">
-            
-            Seminar, Institute for Mathematical Statistics and Actuarial Science, University of Bern (invited talk)
-            
+            <a href="https://statistics.stanford.edu/events/log-concave-density-estimation" target="_blank" rel="noopener">
+            Seminar, Statistics Department, Stanford University (invited talk)
+            </a>
           </div>
         </div>
       </div>
@@ -352,7 +352,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
-          <div class="col-xs-12 col-sm-9">Bern, Switzerland</div>
+          <div class="col-xs-12 col-sm-9">Palo Alto, United States</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -379,12 +379,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://numbersman77.netlify.com/talk/invited/2005_stanford/"><span
-      aria-hidden="true">&larr;</span> Log-concave density estimation</a></li>
+    <li class="previous"><a href="https://numbersman77.netlify.com/talk/invited/2006_oberwolfach/"><span
+      aria-hidden="true">&larr;</span> </a></li>
     
 
     
-    <li class="next"><a href="https://numbersman77.netlify.com/talk/invited/2019_5_psi_webinar/">rpact - R Package for Adaptive Clinical Trials <span
+    <li class="next"><a href="https://numbersman77.netlify.com/talk/invited/2015_1_bern/">Bayesian predictive power: update after a blinded interim and fallacies <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
