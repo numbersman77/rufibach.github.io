@@ -22,6 +22,24 @@
     </item>
     
     <item>
+      <title>A general criterion for multiscale inference</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2007_3_bern/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2007_3_bern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A general criterion for multiscale inference</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2008_1_bbs/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2008_1_bbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Assess Common Surrogate Endpoints in Lymphoma using a Multistate Model</title>
       <link>https://numbersman77.netlify.com/talk/contributed/2018_3_roche_madrid/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
@@ -238,11 +256,38 @@
     </item>
     
     <item>
+      <title>Nonparametric Estimation of Log-Concave Densities</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2007_4_karlsruhe/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2007_4_karlsruhe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordered monotone regression</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2010_1_bbs/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2010_1_bbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Overall survival prediction conditional on post-randomization events: multistate models, landmark analyses, and others</title>
       <link>https://numbersman77.netlify.com/talk/invited/2018_2_biberach/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2018_2_biberach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Alzheimer from proteomic blood markers</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2007_2_bice/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2007_2_bice/</guid>
       <description></description>
     </item>
     
@@ -328,16 +373,48 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Max-domain of attraction for log-concave densities and smooth tail index estimation</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2007_1_stanford/</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2007_1_stanford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposal of the vote of thanks in discussion of Cule, M., Samworth, R., and Stewart, M.: Maximum likelihood estimation of a multidimensional logconcave density</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2010_3_rss/</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2010_3_rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized regression models in R</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2009_1_stanford/</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2009_1_stanford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Score regression: a new approach to assess calibration of continuous probabilistic predictions</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2010_2_oberwolfach/</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2010_2_oberwolfach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The log-concave density estimator as a smoother</title>
       <link>https://numbersman77.netlify.com/talk/invited/2006_oberwolfach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0200</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2006_oberwolfach/</guid>
-      <description>\formate{11/11/2006}{, }{}
-+++ date = 2015-04-17T00:00:00 # Schedule page publish date.
-title = &amp;ldquo;The log-concave density estimator as a smoother&amp;rdquo; time_start = 2006-11-11 time_end = 2006-11-11 abstract = &amp;ldquo;&amp;rdquo; abstract_short = &amp;ldquo;&amp;rdquo; event = &amp;ldquo;Workshop Qualitative Assumptions and Regularization in High-Dimensional Statistics (invited talk)&amp;rdquo; event_url = &amp;ldquo;&amp;rdquo; location = &amp;ldquo;Oberwolfach, Germany&amp;rdquo;
-Is this a selected talk? (true/false) selected = false
-Projects (optional). Associate this talk with one or more of your projects.</description>
+      <description></description>
     </item>
     
   </channel>

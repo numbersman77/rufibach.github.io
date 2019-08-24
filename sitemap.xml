@@ -210,6 +210,24 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/talk/invited/2007_3_bern/</loc>
+      <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/invited/2008_1_bbs/</loc>
+      <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/talk/contributed/2018_3_roche_madrid/</loc>
       <lastmod>2018-01-11T00:00:00+01:00</lastmod>
     </url>
@@ -426,7 +444,34 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/talk/invited/2007_4_karlsruhe/</loc>
+      <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/invited/2010_1_bbs/</loc>
+      <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/talk/invited/2018_2_biberach/</loc>
+      <lastmod>2018-01-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/invited/2007_2_bice/</loc>
       <lastmod>2018-01-11T00:00:00+01:00</lastmod>
     </url>
     
@@ -718,6 +763,51 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/talk/invited/2005_stanford/</loc>
+      <lastmod>2015-04-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/invited/2007_1_stanford/</loc>
+      <lastmod>2015-04-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/invited/2010_3_rss/</loc>
+      <lastmod>2015-04-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/invited/2009_1_stanford/</loc>
+      <lastmod>2015-04-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/invited/2010_2_oberwolfach/</loc>
+      <lastmod>2015-04-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/talk/invited/2006_oberwolfach/</loc>
       <lastmod>2015-04-17T00:00:00+02:00</lastmod>
     </url>
     
@@ -1202,15 +1292,6 @@
     
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</loc>
       <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/talk/invited/2006_oberwolfach/</loc>
-      <priority>0</priority>
     </url>
     
   
