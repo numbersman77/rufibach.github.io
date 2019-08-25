@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>A smooth ROC curve estimator based on log-concave density estimates</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2011_2_cen_zurich/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2011_2_cen_zurich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Assess Common Surrogate Endpoints in Lymphoma using a Multistate Model</title>
       <link>https://numbersman77.netlify.com/talk/contributed/2018_3_roche_madrid/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
@@ -117,6 +126,15 @@
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2017_1_basel_bbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing maximum likelihood estimators of log-concave densities</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2003_1_jsm_sf/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2003_1_jsm_sf/</guid>
       <description></description>
     </item>
     
@@ -238,6 +256,33 @@
     </item>
     
     <item>
+      <title>Log-concave density estimation</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2005_2_oslo_ems/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2005_2_oslo_ems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log-concave density estimation and bump hunting</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2005_1_oslo_young/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2005_1_oslo_young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log-concave density estimation and uniform rate of convergence</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2004_1_karlsruhe/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2004_1_karlsruhe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MIRROS: Phase 3 trial with time-to-event endpoint, cure proportion, and futility interim analysis using response</title>
       <link>https://numbersman77.netlify.com/talk/invited/2019_1_london_smi/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
@@ -283,6 +328,42 @@
     </item>
     
     <item>
+      <title>On a new approach to regression models with ordinal explanatory variables</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2008_1_cen_munich/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2008_1_cen_munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On a new approach to regression with ordered explanatory variables</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2007_1_bern/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2007_1_bern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordered Monotone Regression</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2010_1_leipzig/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2010_1_leipzig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordered Monotone Regression</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2010_2_jsm_vancouver/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2010_2_jsm_vancouver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ordered monotone regression</title>
       <link>https://numbersman77.netlify.com/talk/invited/2010_1_bbs/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
@@ -315,6 +396,24 @@
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2018_4_munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection models with monotone weight functions in meta analysis</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2011_1_meta_london/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2011_1_meta_london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed semi-parametric tail index estimation and max-domain of attraction for log-concave densities</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2006_1_frankfurt/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2006_1_frankfurt/</guid>
       <description></description>
     </item>
     
@@ -364,11 +463,38 @@
     </item>
     
     <item>
+      <title>Update Bayesian Predictive Power after a blinded interim analysis</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2013_1_roche_gbc/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2013_1_roche_gbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update Bayesian predictive power after a blinded interim analysis</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2014_1_bayes_zurich/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2014_1_bayes_zurich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Update Bayesian predictive power after a blinded interim analysis</title>
       <link>https://numbersman77.netlify.com/talk/invited/2014_1_zuekost/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2014_1_zuekost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weibull Regression for a Right-Censored Endpoint with a Censored Covariate</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2014_2_iscb_vienna/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2014_2_iscb_vienna/</guid>
       <description></description>
     </item>
     
