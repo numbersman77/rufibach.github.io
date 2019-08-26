@@ -10,6 +10,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Implications of the ICH E9 estimand addendum on how we develop, run, and analyze clinical trials</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Before going BIG - seize opportunities for small data: use of multistate models to improve decision-making and effect quantification in clinical trials</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2019_6_lausanne_roes/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2019_6_lausanne_roes/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>rpact - R Package for Adaptive Clinical Trials</title>
       <link>https://numbersman77.netlify.com/talk/invited/2019_5_psi_webinar/</link>
       <pubDate>Thu, 04 Jul 2019 15:00:00 +0200</pubDate>
@@ -135,25 +155,6 @@
       
       <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_2_baden/</guid>
       <description>&lt;p&gt;Two-hour course for medical doctors, organized by Roche Switzerland at Baden Hospital.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A multistate model for early decision making in oncology</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_02_multiearly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2019/01: Estimands and real-world data in drug development</title>
-      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_1_ns/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_1_ns/</guid>
-      <description>&lt;p&gt;Half-day course for early development Neuroscience, Ophthalmology and Rare Disease scientists, Roche, Basel.&lt;/p&gt;
 </description>
     </item>
     
