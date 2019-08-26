@@ -13,6 +13,150 @@
     
     
     <item>
+      <title>rpact - R Package for Adaptive Clinical Trials</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2019_5_psi_webinar/</link>
+      <pubDate>Thu, 04 Jul 2019 15:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2019_5_psi_webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multistate models to improve decision-making and effect quantification in clinical trials</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2019_4_shanghai/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2019_4_shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimand framework in Oncology drug development – impact and opportunities</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2019_2_psi_london/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2019_2_psi_london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Predictive Power: Theory, challenges in implementation, and perspectives</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2019_3_lyon_bayespharma/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2019_3_lyon_bayespharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External controls in drug development (with Hans Ulrich Burger)</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2019_2_basel_bbs/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2019_2_basel_bbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIRROS: Phase 3 trial with time-to-event endpoint, cure proportion, and futility interim analysis using response</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2019_1_london_smi/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2019_1_london_smi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimand framework in Oncology drug development -- impact and opportunities</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2019_1_ibs_munich/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2019_1_ibs_munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Univariate log-concave density estimation and more efficient treatment effect estimation in pre-specified subgroups displayed in forest plots for time-to-event outcomes</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2018_6_bochum/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2018_6_bochum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIRROS: Planning a Phase 3 trial with time-to-event endpoint, a cure proportion, and a futility interim analysis using response</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2018_5_heidelberg/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2018_5_heidelberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomization and External Controls - When to Use What in a Drug Development Landscape</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2018_4_munich/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2018_4_munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assess Common Surrogate Endpoints in Lymphoma using a Multistate Model</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2018_3_roche_madrid/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2018_3_roche_madrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More efficient treatment effect estimation in pre-specified subgroups displayed in forest plots for time-to-event outcomes</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2018_2_adapt_bremen/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2018_2_adapt_bremen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immortal bias - you live longer if you cannot die</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2018_3_ms_seminar/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2018_3_ms_seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overall survival prediction conditional on post-randomization events: multistate models, landmark analyses, and others</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2018_2_biberach/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2018_2_biberach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Estimand Framework Applied to Time-to-event Endpoints</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2018_1_ibs_frankfurt/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2018_1_ibs_frankfurt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimands and the ICH E9 draft addendum</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2018_1_zurich/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2018_1_zurich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Weibull Regression Model for a Time-to-Event Endpoint with an Interval-Censored Covariate and its Application in Assessing Prentice&#39;s Criteria for Surrogacy</title>
       <link>https://numbersman77.netlify.com/talk/invited/2015_4_bimit/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
@@ -40,56 +184,11 @@
     </item>
     
     <item>
-      <title>A smooth ROC curve estimator based on log-concave density estimates</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2011_2_cen_zurich/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2011_2_cen_zurich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assess Common Surrogate Endpoints in Lymphoma using a Multistate Model</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2018_3_roche_madrid/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2018_3_roche_madrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Predictive Power: Choice of Prior and some Recommendations for its Use as Probability of Success in Drug Development</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2016_1_psi_berlin/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2016_1_psi_berlin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bayesian Predictive Power: Choice of Prior and some Recommendations for its Use as Probability of Success in Drug Development</title>
       <link>https://numbersman77.netlify.com/talk/invited/2016_1_ulm/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2016_1_ulm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Predictive Power: Choice of Prior and some implications</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2016_2_iscb_birmingham/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2016_2_iscb_birmingham/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Predictive Power: Theory, challenges in implementation, and perspectives</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_3_lyon_bayespharma/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_3_lyon_bayespharma/</guid>
       <description></description>
     </item>
     
@@ -121,15 +220,6 @@
     </item>
     
     <item>
-      <title>Before going BIG - seize opportunities for small data: use of multistate models to improve decision-making and effect quantification in clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_6_lausanne_roes/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_6_lausanne_roes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Comparison of clinical development plans for a confirmatory trial with subpopulation selection</title>
       <link>https://numbersman77.netlify.com/talk/invited/2015_2_milan/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
@@ -139,56 +229,11 @@
     </item>
     
     <item>
-      <title>Comparison of clinical development plans for a confirmatory trial with subpopulation selection</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2017_1_basel_bbs/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2017_1_basel_bbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computing maximum likelihood estimators of log-concave densities</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2003_1_jsm_sf/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2003_1_jsm_sf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Construction of an Estimand in a Clinical Trial on Progressive Multiple Sclerosis</title>
       <link>https://numbersman77.netlify.com/talk/invited/2017_4_basel_efspi/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2017_4_basel_efspi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimand framework in Oncology drug development -- impact and opportunities</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2019_1_ibs_munich/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2019_1_ibs_munich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimand framework in Oncology drug development – impact and opportunities</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2019_2_psi_london/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2019_2_psi_london/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimands and the ICH E9 draft addendum</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2018_1_zurich/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2018_1_zurich/</guid>
       <description></description>
     </item>
     
@@ -211,47 +256,11 @@
     </item>
     
     <item>
-      <title>Evaluation of possible designs for a three-arm clinical trial: Comparing a closed-testing design to potential alternatives</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2015_2_roes_milan/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2015_2_roes_milan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluation of possible designs for a three-arm clinical trial: Comparing the CLL11 design to potential alternative designs</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2015_1_roche_gbc/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2015_1_roche_gbc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Event projection: quantify  uncertainty and manage expectations of broader teams</title>
       <link>https://numbersman77.netlify.com/talk/invited/2016_2_basel_bbs/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2016_2_basel_bbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolvement of assurance over the lifecycle of several Phase 3 trials in a large oncology clinical development program</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2017_3_vienna_cen/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2017_3_vienna_cen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External controls in drug development (with Hans Ulrich Burger)</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_2_basel_bbs/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_2_basel_bbs/</guid>
       <description></description>
     </item>
     
@@ -274,137 +283,11 @@
     </item>
     
     <item>
-      <title>Immortal bias - you live longer if you cannot die</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2018_3_ms_seminar/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2018_3_ms_seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Implications of the ICH E9 estimand addendum on how we develop, run, and analyze clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint modelling of progression-free and overall survival</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2017_1_iscb_vigo/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2017_1_iscb_vigo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Log-concave density estimation</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2005_2_oslo_ems/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2005_2_oslo_ems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Log-concave density estimation and bump hunting</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2005_1_oslo_young/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2005_1_oslo_young/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Log-concave density estimation and uniform rate of convergence</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2004_1_karlsruhe/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2004_1_karlsruhe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIRROS: Phase 3 trial with time-to-event endpoint, cure proportion, and futility interim analysis using response</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_1_london_smi/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_1_london_smi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIRROS: Planning a Phase 3 trial with time-to-event endpoint, a cure proportion, and a futility interim analysis using response</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2018_5_heidelberg/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2018_5_heidelberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>More efficient treatment effect estimation in pre-specified subgroups displayed in forest plots for time-to-event outcomes</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2018_2_adapt_bremen/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2018_2_adapt_bremen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multistate models to improve decision-making and effect quantification in clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_4_shanghai/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_4_shanghai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nonparametric Estimation of Log-Concave Densities</title>
       <link>https://numbersman77.netlify.com/talk/invited/2007_4_karlsruhe/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2007_4_karlsruhe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On a new approach to regression models with ordinal explanatory variables</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2008_1_cen_munich/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2008_1_cen_munich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On a new approach to regression with ordered explanatory variables</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2007_1_roes_bern/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2007_1_roes_bern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ordered Monotone Regression</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2010_1_leipzig/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2010_1_leipzig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ordered Monotone Regression</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2010_2_jsm_vancouver/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2010_2_jsm_vancouver/</guid>
       <description></description>
     </item>
     
@@ -418,56 +301,11 @@
     </item>
     
     <item>
-      <title>Overall survival prediction conditional on post-randomization events: multistate models, landmark analyses, and others</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2018_2_biberach/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2018_2_biberach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Predicting Alzheimer from proteomic blood markers</title>
       <link>https://numbersman77.netlify.com/talk/invited/2007_2_bice/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2007_2_bice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Randomization and External Controls - When to Use What in a Drug Development Landscape</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2018_4_munich/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2018_4_munich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selection models with monotone weight functions in meta analysis</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2011_1_meta_london/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2011_1_meta_london/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smoothed semi-parametric tail index estimation and max-domain of attraction for log-concave densities</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2006_1_frankfurt/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2006_1_frankfurt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Estimand Framework Applied to Time-to-event Endpoints</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2018_1_ibs_frankfurt/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2018_1_ibs_frankfurt/</guid>
       <description></description>
     </item>
     
@@ -481,47 +319,11 @@
     </item>
     
     <item>
-      <title>Treatment effect measures for time-to-event endpoints - Estimands and beyond</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2017_2_frankfurt_cddf/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2017_2_frankfurt_cddf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Treatment effect measures for time-to-event endpoints - estimands, analysis strategies, and beyond</title>
       <link>https://numbersman77.netlify.com/talk/invited/2017_5_freiburg/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2017_5_freiburg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Univariate log-concave density estimation and more efficient treatment effect estimation in pre-specified subgroups displayed in forest plots for time-to-event outcomes</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2018_6_bochum/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2018_6_bochum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Update Bayesian Predictive Power after a blinded interim analysis</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2013_1_roche_gbc/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2013_1_roche_gbc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Update Bayesian predictive power after a blinded interim analysis</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2014_1_bayes_zurich/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2014_1_bayes_zurich/</guid>
       <description></description>
     </item>
     
@@ -535,20 +337,74 @@
     </item>
     
     <item>
-      <title>Weibull Regression for a Right-Censored Endpoint with a Censored Covariate</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2014_2_iscb_vienna/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Evolvement of assurance over the lifecycle of several Phase 3 trials in a large oncology clinical development program</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2017_3_vienna_cen/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://numbersman77.netlify.com/talk/contributed/2014_2_iscb_vienna/</guid>
+      <guid>https://numbersman77.netlify.com/talk/invited/2017_3_vienna_cen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rpact - R Package for Adaptive Clinical Trials</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_5_psi_webinar/</link>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Joint modelling of progression-free and overall survival</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2017_1_iscb_vigo/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_5_psi_webinar/</guid>
+      <guid>https://numbersman77.netlify.com/talk/contributed/2017_1_iscb_vigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treatment effect measures for time-to-event endpoints - Estimands and beyond</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2017_2_frankfurt_cddf/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2017_2_frankfurt_cddf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of clinical development plans for a confirmatory trial with subpopulation selection</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2017_1_basel_bbs/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2017_1_basel_bbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Predictive Power: Choice of Prior and some implications</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2016_2_iscb_birmingham/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2016_2_iscb_birmingham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Predictive Power: Choice of Prior and some Recommendations for its Use as Probability of Success in Drug Development</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2016_1_psi_berlin/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2016_1_psi_berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of possible designs for a three-arm clinical trial: Comparing a closed-testing design to potential alternatives</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2015_2_roes_milan/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2015_2_roes_milan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of possible designs for a three-arm clinical trial: Comparing the CLL11 design to potential alternative designs</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2015_1_roche_gbc/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2015_1_roche_gbc/</guid>
       <description></description>
     </item>
     
@@ -612,6 +468,132 @@
       <pubDate>Fri, 17 Apr 2015 00:00:00 +0200</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2006_oberwolfach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weibull Regression for a Right-Censored Endpoint with a Censored Covariate</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2014_2_iscb_vienna/</link>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2014_2_iscb_vienna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update Bayesian predictive power after a blinded interim analysis</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2014_1_bayes_zurich/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2014_1_bayes_zurich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update Bayesian Predictive Power after a blinded interim analysis</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2013_1_roche_gbc/</link>
+      <pubDate>Wed, 23 Oct 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2013_1_roche_gbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A smooth ROC curve estimator based on log-concave density estimates</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2011_2_cen_zurich/</link>
+      <pubDate>Tue, 13 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2011_2_cen_zurich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection models with monotone weight functions in meta analysis</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2011_1_meta_london/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2011_1_meta_london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordered Monotone Regression</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2010_2_jsm_vancouver/</link>
+      <pubDate>Tue, 03 Aug 2010 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2010_2_jsm_vancouver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordered Monotone Regression</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2010_1_leipzig/</link>
+      <pubDate>Tue, 02 Mar 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2010_1_leipzig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On a new approach to regression models with ordinal explanatory variables</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2008_1_cen_munich/</link>
+      <pubDate>Wed, 12 Mar 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2008_1_cen_munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On a new approach to regression with ordered explanatory variables</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2007_1_roes_bern/</link>
+      <pubDate>Tue, 11 Sep 2007 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2007_1_roes_bern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed semi-parametric tail index estimation and max-domain of attraction for log-concave densities</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2006_1_frankfurt/</link>
+      <pubDate>Wed, 15 Mar 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2006_1_frankfurt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log-concave density estimation</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2005_2_oslo_ems/</link>
+      <pubDate>Wed, 27 Jul 2005 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2005_2_oslo_ems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log-concave density estimation and bump hunting</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2005_1_oslo_young/</link>
+      <pubDate>Tue, 19 Jul 2005 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2005_1_oslo_young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log-concave density estimation and uniform rate of convergence</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2004_1_karlsruhe/</link>
+      <pubDate>Fri, 26 Mar 2004 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2004_1_karlsruhe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing maximum likelihood estimators of log-concave densities</title>
+      <link>https://numbersman77.netlify.com/talk/contributed/2003_1_jsm_sf/</link>
+      <pubDate>Wed, 06 Aug 2003 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/contributed/2003_1_jsm_sf/</guid>
       <description></description>
     </item>
     
