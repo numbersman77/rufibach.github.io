@@ -1078,8 +1078,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/textbook/medstat/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/textbook/medicalstat/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1106,7 +1106,7 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/textbook/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1157,6 +1157,16 @@
     
       <loc>https://numbersman77.netlify.com/software/logconcens/</loc>
       <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/medicalstatistics/</loc>
+      <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
