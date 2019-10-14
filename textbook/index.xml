@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Textbooks on Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/textbook/</link>
+    <description>Recent content in Textbooks on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 02 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/textbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medizinische Statistik</title>
+      <link>https://numbersman77.netlify.com/textbook/medstat/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/textbook/medstat/</guid>
+      <description>Together with my colleagues Prof. L. Held and Prof. B. Seifert from the Division of Biostatistics at the University of Zurich I have written an introductory biostatistics textbook (in german): Link Pearson (publisher) Link Amazon bibtex entry After a thorough introduction in modern biostatistics in the first part of the book, the second part treats special topics relevant in applications, such as analysis of competing risks, measures of agreement, epidemiology and meta-analysis, or analysis of clinical trials.</description>
+    </item>
+    
+  </channel>
+</rss>

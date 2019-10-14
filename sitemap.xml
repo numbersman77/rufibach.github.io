@@ -1078,6 +1078,15 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/textbook/medstat/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/working/efspi_estimand/</loc>
       <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     </url>
@@ -1089,6 +1098,16 @@
     
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2011_02_selectmeta/</loc>
       <lastmod>2011-01-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/textbook/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
