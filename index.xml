@@ -6,8 +6,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2019/10: Group-sequential and adaptive clinical trial designs, with R practicals</title>
+      <link>https://numbersman77.netlify.com/teaching/stats/201910_groupseq/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/stats/201910_groupseq/</guid>
+      <description>&lt;p&gt;Two-day course organized by the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org/&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;. Takes place in Lambrecht, Germany.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biometrische-gesellschaft.de/fileadmin/AG_Daten/Weiterbildung/PDFs/SommerschuleGroupSeqAdaptiveFlyer_Deutsch.pdf&#34; target=&#34;_blank&#34;&gt;Announcement&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Implications of the ICH E9 estimand addendum on how we develop, run, and analyze clinical trials</title>
@@ -145,16 +157,6 @@
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</guid>
       <description>&lt;p&gt;This project was initiated within a four month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was &lt;a href=&#34;https://www.uni-ulm.de/mawi/statistics/team/professors/prof-dr-jan-beyersmann/&#34; target=&#34;_blank&#34;&gt;Jan Beyersmann&lt;/a&gt;, &lt;a href=&#34;https://www.uni-ulm.de/en/&#34; target=&#34;_blank&#34;&gt;University of Ulm&lt;/a&gt;. The project became Matthias Meller&amp;rsquo;s MSc thesis with which he won the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/nachwuchs/bernd-streitbergpreis/die-preistraeger.html&#34; target=&#34;_blank&#34;&gt;Bernd Streitberg Award 2018&lt;/a&gt; of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2019/01: Introduction to survival analysis and clinical trial designs, Part II.</title>
-      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_2_baden/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_2_baden/</guid>
-      <description>&lt;p&gt;Two-hour course for medical doctors, organized by Roche Switzerland at Baden Hospital.&lt;/p&gt;
 </description>
     </item>
     

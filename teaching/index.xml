@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019/10: Group-sequential and adaptive clinical trial designs, with R practicals</title>
+      <link>https://numbersman77.netlify.com/teaching/stats/201910_groupseq/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/stats/201910_groupseq/</guid>
+      <description>Marc Vandemeulebroecke, Kaspar Rufibach, Gernot Wassmer, and Marcel Wolbers, course on behalf of the German Region of the IBS</description>
+    </item>
     
     <item>
       <title>2019/07: Advanced methods for group-sequential trials</title>
