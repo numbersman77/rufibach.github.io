@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Use of multistate models to jointly model progression-free and overall survival and improve decision-making in clinical trials</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2019_8_cambridge/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2019_8_cambridge/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>2019/10: Group-sequential and adaptive clinical trial designs, with R practicals</title>
@@ -147,16 +157,6 @@
       
       <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_3_msl/</guid>
       <description>&lt;p&gt;Two-hour course for Medical Science Liaison group, Roche Swiss Affiliate, Reinach.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Joint modelling of progression-free and overall survival and computation of correlation measures</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_03_pfs_os/</guid>
-      <description>&lt;p&gt;This project was initiated within a four month full-time internship at Department of Biostatistics, Roche Basel. The academic supervisor was &lt;a href=&#34;https://www.uni-ulm.de/mawi/statistics/team/professors/prof-dr-jan-beyersmann/&#34; target=&#34;_blank&#34;&gt;Jan Beyersmann&lt;/a&gt;, &lt;a href=&#34;https://www.uni-ulm.de/en/&#34; target=&#34;_blank&#34;&gt;University of Ulm&lt;/a&gt;. The project became Matthias Meller&amp;rsquo;s MSc thesis with which he won the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/nachwuchs/bernd-streitbergpreis/die-preistraeger.html&#34; target=&#34;_blank&#34;&gt;Bernd Streitberg Award 2018&lt;/a&gt; of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
