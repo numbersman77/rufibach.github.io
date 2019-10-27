@@ -33,8 +33,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/stats/201910_groupseq/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/teaching/nonstats/2019_4_pdrd/</loc>
+      <lastmod>2019-10-24T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -55,6 +55,25 @@
       <loc>https://numbersman77.netlify.com/teaching/</loc>
       <lastmod>2019-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/nonstatisticians/</loc>
+      <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/teaching/stats/201910_groupseq/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -181,15 +200,6 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/nonstats/2019_4_pdrd/</loc>
-      <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</loc>
       <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     </url>
@@ -201,16 +211,6 @@
     
       <loc>https://numbersman77.netlify.com/publication_types/</loc>
       <lastmod>2019-01-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/nonstatisticians/</loc>
-      <lastmod>2019-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
