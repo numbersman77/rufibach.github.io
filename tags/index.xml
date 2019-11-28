@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title></title>
       <link>https://numbersman77.netlify.com/tags/</link>
-      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/tags/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>supervision</title>
+      <link>https://numbersman77.netlify.com/tags/supervision/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/tags/supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>nonstatisticians</title>
       <link>https://numbersman77.netlify.com/tags/nonstatisticians/</link>
-      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/tags/nonstatisticians/</guid>
       <description></description>
@@ -36,15 +45,6 @@
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/tags/statisticians/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>supervision</title>
-      <link>https://numbersman77.netlify.com/tags/supervision/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/tags/supervision/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/tags/supervision/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019: Sample size for prediction models</title>
+      <link>https://numbersman77.netlify.com/teaching/supervision/201901_chen/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/supervision/201901_chen/</guid>
+      <description>Xijin Chen, 3-month full-time internship within Department of Biostatistics, Roche Basel</description>
+    </item>
     
     <item>
       <title>2018: Optimism-corrected treatment effect estimates in subgroups displayed in forest plots for time-to-event outcomes</title>

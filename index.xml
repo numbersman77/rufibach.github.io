@@ -6,8 +6,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2019: Sample size for prediction models</title>
+      <link>https://numbersman77.netlify.com/teaching/supervision/201901_chen/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/supervision/201901_chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019/11: Design of Experiments and Effective Statistical Practices.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_5_pred/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_5_pred/</guid>
+      <description>&lt;p&gt;Three two-hour courses for early development organization, Roche, Basel.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Use of multistate models to jointly model progression-free and overall survival and improve decision-making in clinical trials</title>
@@ -139,25 +158,6 @@
       <guid>https://numbersman77.netlify.com/talk/contributed/2019_1_ibs_munich/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>2019/03: Advanced methods for group-sequential trials</title>
-      <link>https://numbersman77.netlify.com/teaching/stats/201903_groupseq/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/stats/201903_groupseq/</guid>
-      <description>&lt;p&gt;Half-day course for Roche statisticians in Basel.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</link>
-      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</guid>
-      <description></description>
     </item>
     
   </channel>
