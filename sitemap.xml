@@ -62,15 +62,6 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/stats/202006_toolbox/</loc>
-      <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/tags/</loc>
       <lastmod>2020-01-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -101,16 +92,6 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/tags/statisticians/</loc>
-      <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_1_zurich/</loc>
       <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     </url>
@@ -120,8 +101,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/stats/202005_toolbox/</loc>
-      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/teaching/stats/201912_groupseq/</loc>
+      <lastmod>2019-12-06T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -129,8 +110,9 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/stats/201912_groupseq/</loc>
+      <loc>https://numbersman77.netlify.com/tags/statisticians/</loc>
       <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
