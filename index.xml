@@ -6,8 +6,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2020/05: A Toolbox for Innovative Confirmatory Trial Designs</title>
+      <link>https://numbersman77.netlify.com/teaching/stats/202005_toolbox/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/stats/202005_toolbox/</guid>
+      <description>&lt;p&gt;Half-day pre-conference course at the Roche Biostatistics European Regional Conference, Zurich, Switzerland. Together with Marcel Wolbers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2020/01: Introduction to survival and interim analyses.</title>
@@ -138,26 +157,6 @@
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2019_4_shanghai/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Estimand framework in Oncology drug development – impact and opportunities</title>
-      <link>https://numbersman77.netlify.com/talk/contributed/2019_2_psi_london/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/contributed/2019_2_psi_london/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Predictive Power: Theory, challenges in implementation, and perspectives</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_3_lyon_bayespharma/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_3_lyon_bayespharma/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
