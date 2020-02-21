@@ -24,7 +24,7 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/</loc>
-      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -44,7 +44,55 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/tags/</loc>
-      <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/teaching/stats/202005_toolbox/</loc>
+      <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/teaching/stats/202006_toolbox/</loc>
+      <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/</loc>
+      <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/teaching/</loc>
+      <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/statisticians/</loc>
+      <lastmod>2020-02-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -55,26 +103,6 @@
     
       <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_2_pdrd/</loc>
       <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/</loc>
-      <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/teaching/</loc>
-      <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -103,16 +131,6 @@
     
       <loc>https://numbersman77.netlify.com/teaching/stats/201912_groupseq/</loc>
       <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/statisticians/</loc>
-      <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -924,6 +942,15 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/talk/invited/2020_4_psi_cam/</loc>
+      <lastmod>2014-03-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/talk/invited/2014_1_zuekost/</loc>
       <lastmod>2014-03-27T00:00:00+01:00</lastmod>
     </url>
@@ -943,15 +970,6 @@
     <url>
     
       <loc>https://numbersman77.netlify.com/talk/invited/2020_3_ubasel/</loc>
-      <lastmod>2014-03-27T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/talk/invited/2020_4_psi_cam/</loc>
       <lastmod>2014-03-27T00:00:00+01:00</lastmod>
     </url>
     
