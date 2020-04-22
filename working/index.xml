@@ -30,5 +30,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>SAVVY: _S_urvival analysis for _A_d_V_erse events with _V_ar_Y_ing follow-up times</title>
+      <link>https://numbersman77.netlify.com/working/savvy/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/working/savvy/</guid>
+      <description>The SAVVY project is a consortium of academic and pharmaceutical industry partners that aims to improve the analyses of adverse event (AE) data in clinical trials through the use of survival techniques appropriately dealing with varying follow-up times and competing events. Although statistical methodologies have advanced, in AE analyses often the incidence proportion, the incidence density or a non-parametric Kaplan-Meier estimator are used, which either ignore censoring or competing events. In an empirical study including randomized clinical trials from several sponsor companies, these potential sources of bias are investigated.</description>
+    </item>
+    
   </channel>
 </rss>
