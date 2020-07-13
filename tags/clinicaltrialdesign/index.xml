@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clinicaltrialdesign on Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/clinicaltrialdesign/</link>
+    <description>Recent content in clinicaltrialdesign on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/tags/clinicaltrialdesign/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>github respository for MIRROS clinical trial design</title>
+      <link>https://numbersman77.netlify.com/software/mirros/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/mirros/</guid>
+      <description>Kaspar Rufibach, Dominik Heinzmann, Annabelle Monnet (2019): Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion - with an Application to the Design of a Clinical Trial in Acute Myeloid Leukemia</description>
+    </item>
+    
+  </channel>
+</rss>

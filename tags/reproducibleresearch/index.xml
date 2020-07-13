@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reproducibleresearch on Kaspar Rufibach</title>
+    <link>https://numbersman77.netlify.com/tags/reproducibleresearch/</link>
+    <description>Recent content in reproducibleresearch on Kaspar Rufibach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://numbersman77.netlify.com/tags/reproducibleresearch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R package: reporttools</title>
+      <link>https://numbersman77.netlify.com/software/reporttools/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/reporttools/</guid>
+      <description>Rufibach, K (2008): &lt;em&gt;reporttools: Generate LaTeX Tables of Descriptive Statistics&lt;/em&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
