@@ -146,21 +146,25 @@
     </item>
     
     <item>
+      <title>github respository for MIRROS clinical trial design</title>
+      <link>https://numbersman77.netlify.com/software/mirros/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/mirros/</guid>
+      <description>&lt;p&gt;The code in this github repository allows to reproduce all computations in the paper &amp;ldquo;Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion - with an Application to the Design of a Clinical Trial in Acute Myeloid Leukemia&amp;rdquo; that appeared in Pharmaceutical Statistics.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/numbersman77/integratePhase2&#34; target=&#34;_blank&#34;&gt;github repository&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1002/pst.1969&#34; target=&#34;_blank&#34;&gt;doi&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1901.01308&#34; target=&#34;_blank&#34;&gt;arxiv&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Implications of the ICH E9 estimand addendum on how we develop, run, and analyze clinical trials</title>
       <link>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</link>
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Before going BIG - seize opportunities for small data: use of multistate models to improve decision-making and effect quantification in clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_6_lausanne_roes/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_6_lausanne_roes/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>

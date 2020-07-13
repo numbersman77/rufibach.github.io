@@ -211,6 +211,35 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/software/</loc>
+      <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/clinical-trial-design/</loc>
+      <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/software/mirros/</loc>
+      <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</loc>
       <lastmod>2019-08-02T00:00:00+02:00</lastmod>
     </url>
@@ -778,27 +807,17 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/software/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/software/bpp/</loc>
       <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1231,6 +1250,15 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/software/logconcens/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/working/savvy/</loc>
       <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     </url>
@@ -1292,15 +1320,6 @@
       <loc>https://numbersman77.netlify.com/tags/log-concave/</loc>
       <lastmod>2019-08-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/software/logconcens/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1375,8 +1394,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/software/logcondiscr/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1384,8 +1403,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/software/logcondiscr/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2011_01_logcondens/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1474,8 +1493,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</loc>
-      <lastmod>2010-01-02T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/software/biostatuzh/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1483,8 +1502,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/software/biostatuzh/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/publication/stats_articles/2010_02_modehunt/</loc>
+      <lastmod>2010-01-02T00:00:00+00:00</lastmod>
     </url>
     
   
