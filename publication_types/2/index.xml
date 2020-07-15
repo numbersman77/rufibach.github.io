@@ -7,28 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Survival analysis for AdVerse events with VarYing follow-up times - comparison of adverse event risks in randomized controlled trials in an empirical study of the SAVVY project</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_07_savvy_2sample/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_07_savvy_2sample/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survival analysis for AdVerse events with VarYing follow-up times -- the one-sample case of an empirical study of the SAVVY project</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_06_savvy_1sample/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_06_savvy_1sample/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
