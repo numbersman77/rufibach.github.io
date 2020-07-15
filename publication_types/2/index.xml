@@ -14,10 +14,28 @@
     
     <item>
       <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_03_bayes_samplesize/</link>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_05_bayes_samplesize/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_03_bayes_samplesize/</guid>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_05_bayes_samplesize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimands for Overall Survival in Clinical Trials with Treatment Switching</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_04_estimand_switching/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_04_estimand_switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimands in Hematology Trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_03_heme_estimand/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_03_heme_estimand/</guid>
       <description></description>
     </item>
     
@@ -261,6 +279,24 @@
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2001_01_evk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival analysis for AdVerse events with VarYing follow-up times - comparison of adverse event risks in randomized controlled trials in an empirical study of the SAVVY project</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_07_savvy_2sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_07_savvy_2sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival analysis for AdVerse events with VarYing follow-up times -- the one-sample case of an empirical study of the SAVVY project</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_06_savvy_1sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_06_savvy_1sample/</guid>
       <description></description>
     </item>
     

@@ -11,10 +11,19 @@
     
     <item>
       <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_03_bayes_samplesize/</link>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_05_bayes_samplesize/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_03_bayes_samplesize/</guid>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_05_bayes_samplesize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimands for Overall Survival in Clinical Trials with Treatment Switching</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_04_estimand_switching/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_04_estimand_switching/</guid>
       <description></description>
     </item>
     
@@ -33,6 +42,15 @@
 &lt;li&gt;Multi-arm trials and time-to-event endpoints&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Estimands in Hematology Trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_03_heme_estimand/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_03_heme_estimand/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -142,30 +160,6 @@
       <description>&lt;p&gt;Two-day course organized by the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org/&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;. Takes place in Lambrecht, Germany.&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.biometrische-gesellschaft.de/fileadmin/AG_Daten/Weiterbildung/PDFs/SommerschuleGroupSeqAdaptiveFlyer_Deutsch.pdf&#34; target=&#34;_blank&#34;&gt;Announcement&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>github respository for MIRROS clinical trial design</title>
-      <link>https://numbersman77.netlify.com/software/mirros/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/mirros/</guid>
-      <description>&lt;p&gt;The code in this github repository allows to reproduce all computations in the paper &amp;ldquo;Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion - with an Application to the Design of a Clinical Trial in Acute Myeloid Leukemia&amp;rdquo; that appeared in Pharmaceutical Statistics.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/numbersman77/integratePhase2&#34; target=&#34;_blank&#34;&gt;github repository&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://doi.org/10.1002/pst.1969&#34; target=&#34;_blank&#34;&gt;doi&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1901.01308&#34; target=&#34;_blank&#34;&gt;arxiv&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Implications of the ICH E9 estimand addendum on how we develop, run, and analyze clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_7_ct_europe/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
