@@ -126,7 +126,7 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2016_01_ptsupdate/</guid>
-      <description>The formula in Lemma A.1 has a typo: in the denominator, it should read $d2$, not $d\text{fin}$. The corresponding implementation in the R package bpp on CRAN is correct.</description>
+      <description>The formula in Lemma A.1 has a typo: in the denominator, it should read d2, not dfin. The corresponding implementation in the R package bpp on CRAN is correct.</description>
     </item>
     
     <item>
