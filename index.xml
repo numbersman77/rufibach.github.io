@@ -24,7 +24,7 @@
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/software/principalstratification/</guid>
-      <description>&lt;p&gt;The code in this github repository allows to reproduce all computations in the paper &amp;ldquo;Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion - with an Application to the Design of a Clinical Trial in Acute Myeloid Leukemia&amp;rdquo; that appeared in Pharmaceutical Statistics.&lt;/p&gt;
+      <description>&lt;p&gt;The code in this github repository allows to reproduce all computations in the paper &amp;ldquo;Principal Stratum Strategy: Potential Role in Drug Development&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/oncoestimand/princ_strat_drug_dev&#34; target=&#34;_blank&#34;&gt;github repository&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://oncoestimand.github.io/princ_strat_drug_dev/princ_strat_example.html&#34; target=&#34;_blank&#34;&gt;markdown&lt;/a&gt;&lt;br&gt;
