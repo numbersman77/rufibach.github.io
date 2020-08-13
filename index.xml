@@ -6,8 +6,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Principal Stratum Strategy: Potential Role in Drug Development</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_08_principal_stratification/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_08_principal_stratification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github respository for different analysis methods for principal stratum estimands motivated by the principal ignorability assumption</title>
+      <link>https://numbersman77.netlify.com/software/principalstratification/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/principalstratification/</guid>
+      <description>&lt;p&gt;The code in this github repository allows to reproduce all computations in the paper &amp;ldquo;Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion - with an Application to the Design of a Clinical Trial in Acute Myeloid Leukemia&amp;rdquo; that appeared in Pharmaceutical Statistics.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/oncoestimand/princ_strat_drug_dev&#34; target=&#34;_blank&#34;&gt;github repository&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://oncoestimand.github.io/princ_strat_drug_dev/princ_strat_example.html&#34; target=&#34;_blank&#34;&gt;markdown&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2008.05406&#34; target=&#34;_blank&#34;&gt;arxiv&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
@@ -138,28 +161,6 @@
       
       <guid>https://numbersman77.netlify.com/talk/invited/2019_8_cambridge/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2019/10: Introduction to statistics.</title>
-      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_4_pdrd/</link>
-      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_4_pdrd/</guid>
-      <description>&lt;p&gt;Half-day course for Regulatory and Regulatory Documentation Department, Roche, Basel.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2019/10: Group-sequential and adaptive clinical trial designs, with R practicals</title>
-      <link>https://numbersman77.netlify.com/teaching/stats/201910_groupseq/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/stats/201910_groupseq/</guid>
-      <description>&lt;p&gt;Two-day course organized by the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34;&gt;German Region&lt;/a&gt; of the &lt;a href=&#34;https://www.biometricsociety.org/&#34; target=&#34;_blank&#34;&gt;International Biometric Society&lt;/a&gt;. Takes place in Lambrecht, Germany.&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.biometrische-gesellschaft.de/fileadmin/AG_Daten/Weiterbildung/PDFs/SommerschuleGroupSeqAdaptiveFlyer_Deutsch.pdf&#34; target=&#34;_blank&#34;&gt;Announcement&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

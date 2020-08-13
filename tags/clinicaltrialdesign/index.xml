@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/tags/clinicaltrialdesign/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>github respository for different analysis methods for principal stratum estimands motivated by the principal ignorability assumption</title>
+      <link>https://numbersman77.netlify.com/software/principalstratification/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/principalstratification/</guid>
+      <description>Björn Bornkamp, Kaspar Rufibach, Jianchang Lin, Yi Liu, Devan Mehrotra, Satrajit Roychoudhury, Heinz Schmidli, Yue Shentu, Marcel Wolbers (2020): Principal Stratum Strategy: Potential Role in Drug Development</description>
+    </item>
     
     <item>
       <title>github respository for MIRROS clinical trial design</title>
