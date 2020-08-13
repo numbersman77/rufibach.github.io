@@ -33,6 +33,24 @@
     </item>
     
     <item>
+      <title>Survival analysis for AdVerse events with VarYing follow-up times (SAVVY) -- comparison of adverse event risks in randomized controlled trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_07_savvy_2sample/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_07_savvy_2sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival analysis for AdVerse events with VarYing follow-up times (SAVVY) -- estimation of adverse event risks</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_06_savvy_1sample/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_06_savvy_1sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
       <link>https://numbersman77.netlify.com/publication/stats_articles/2020_05_bayes_samplesize/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
@@ -142,26 +160,6 @@
       
       <guid>https://numbersman77.netlify.com/teaching/supervision/201901_chen/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>2019/11: Design of Experiments and Effective Statistical Practices.</title>
-      <link>https://numbersman77.netlify.com/teaching/nonstats/2019_5_pred/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/nonstats/2019_5_pred/</guid>
-      <description>&lt;p&gt;Three two-hour courses for early development organization, Roche, Basel.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Use of multistate models to jointly model progression-free and overall survival and improve decision-making in clinical trials</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2019_8_cambridge/</link>
-      <pubDate>Sat, 26 Oct 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2019_8_cambridge/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
     </item>
     
   </channel>
