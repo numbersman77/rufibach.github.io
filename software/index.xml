@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>github respository for different analysis methods for principal stratum estimands motivated by the principal ignorability assumption</title>
+      <title>github repository and markdown file for SAVVY project: Survival analysis for AdVerse events with VarYing follow-up times</title>
+      <link>https://numbersman77.netlify.com/software/savvy/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/savvy/</guid>
+      <description>Regina Stegherr and Kaspar Rufibach (2020). SAVVY: estimation of AE probabilities.</description>
+    </item>
+    
+    <item>
+      <title>github repository and markdown file for different analysis methods for principal stratum estimands motivated by the principal ignorability assumption</title>
       <link>https://numbersman77.netlify.com/software/principalstratification/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
