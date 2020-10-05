@@ -202,8 +202,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_2_pdrd/</loc>
-      <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_5_stgallen/</loc>
+      <lastmod>2020-10-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -211,8 +211,9 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_3_pdrd/</loc>
-      <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/tags/nonstatisticians/</loc>
+      <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -229,8 +230,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_5_stgallen/</loc>
-      <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+      <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_3_pdrd/</loc>
+      <lastmod>2020-08-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -238,9 +239,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/tags/nonstatisticians/</loc>
-      <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_2_pdrd/</loc>
+      <lastmod>2020-01-16T00:00:00+00:00</lastmod>
     </url>
     
   
