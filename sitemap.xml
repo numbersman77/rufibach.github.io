@@ -137,37 +137,8 @@
     
     <url>
     
-      <loc>https://numbersman77.netlify.com/teaching/stats/202006_toolbox/</loc>
-      <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://numbersman77.netlify.com/publication/stats_articles/2020_03_heme_estimand/</loc>
       <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/teaching/</loc>
-      <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://numbersman77.netlify.com/tags/statisticians/</loc>
-      <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -211,6 +182,16 @@
     
     <url>
     
+      <loc>https://numbersman77.netlify.com/teaching/</loc>
+      <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://numbersman77.netlify.com/tags/nonstatisticians/</loc>
       <lastmod>2020-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -232,6 +213,25 @@
     
       <loc>https://numbersman77.netlify.com/teaching/nonstats/2020_3_pdrd/</loc>
       <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/teaching/stats/202006_toolbox/</loc>
+      <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://numbersman77.netlify.com/tags/statisticians/</loc>
+      <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
