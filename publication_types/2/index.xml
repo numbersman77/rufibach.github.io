@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conditional Power and Friends: The Why and How of (Un)planned, Unblinded Sample Size Recalculations in Confirmatory Trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_09_reestimation/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_09_reestimation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Principal Stratum Strategy: Potential Role in Drug Development</title>
