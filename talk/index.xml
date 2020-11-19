@@ -13,7 +13,18 @@
     
     
     <item>
-      <title>tbc</title>
+      <title>Estimands in oncology</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2020_8_effstat_podcast/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2020_8_effstat_podcast/</guid>
+      <description>Principal stratification used to play a role only in observational research but at least since the addendum of the ICH E9 guideline, this approach to causal inference became a hot topic.
+We cover the following questions:
+ What is Principal Stratification? How would you describe principal stratification to a non-statistician? Where do you see the benefits of this estimand compared to the other typical strategies? Which critique points do are usually raised against this approach?</description>
+    </item>
+    
+    <item>
+      <title>Use of multistate models to improve decision-making in clinical trials</title>
       <link>https://numbersman77.netlify.com/talk/invited/2020_6_vienna/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0100</pubDate>
       

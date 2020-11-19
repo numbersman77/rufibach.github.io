@@ -6,8 +6,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Estimands in oncology</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2020_8_effstat_podcast/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2020_8_effstat_podcast/</guid>
+      <description>&lt;p&gt;Principal stratification used to play a role only in observational research but at least since the addendum of the ICH E9 guideline, this approach to causal inference became a hot topic.&lt;/p&gt;
+
+&lt;p&gt;We cover the following questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is Principal Stratification?&lt;/li&gt;
+&lt;li&gt;How would you describe principal stratification to a non-statistician?&lt;/li&gt;
+&lt;li&gt;Where do you see the benefits of this estimand compared to the other typical strategies?&lt;/li&gt;
+&lt;li&gt;Which critique points do are usually raised against this approach?&lt;/li&gt;
+&lt;li&gt;How do you implement/calculate corresponding estimates for this estimand?&lt;/li&gt;
+&lt;li&gt;What references would you recommend for further reading?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Conditional Power and Friends: The Why and How of (Un)planned, Unblinded Sample Size Recalculations in Confirmatory Trials</title>
@@ -146,16 +167,6 @@
       
       <guid>https://numbersman77.netlify.com/teaching/nonstats/2020_5_stgallen/</guid>
       <description>&lt;p&gt;One-hour course for medical doctors, organized by Roche Switzerland for the rheumatology department at St. Gallen Cantonal Hospital.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2020/09: Introduction to survival and interim analyses.</title>
-      <link>https://numbersman77.netlify.com/teaching/nonstats/2020_4_pdrd/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/teaching/nonstats/2020_4_pdrd/</guid>
-      <description>&lt;p&gt;Half-day course for Regulatory and Regulatory Documentation Department, Roche, Basel and Welwyn (virtual event).&lt;/p&gt;
 </description>
     </item>
     
