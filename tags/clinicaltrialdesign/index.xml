@@ -39,5 +39,14 @@
       <description>Kaspar Rufibach, Dominik Heinzmann, Annabelle Monnet (2019): Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion - with an Application to the Design of a Clinical Trial in Acute Myeloid Leukemia</description>
     </item>
     
+    <item>
+      <title>R code to plan 3-arm group-sequential trial with FWER control for pairwise comparisons via closed testing</title>
+      <link>https://numbersman77.netlify.com/software/cll11/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/software/cll11/</guid>
+      <description>Elina Asikanius, Kaspar Rufibach, Jasmin Bahlo, Gabriele Bieska, Hans Ulrich Burger (2016). Comparison of design strategies for a three-arm clinical trial with time-to-event endpoint: power, time-to-analysis, and operational aspects. Biom. J., 58(6), 1295-1310.</description>
+    </item>
+    
   </channel>
 </rss>
