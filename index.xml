@@ -6,16 +6,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Answering Old Questions with New Tools: Application of the ICH E9 Addendum in Oncology</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2020_10_demings_estimands/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      <title>2020/12: Answering Old Questions with New Tools: Application of the ICH E9 Addendum in Oncology</title>
+      <link>https://numbersman77.netlify.com/teaching/stats/202012_demings_estimands/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/talk/invited/2020_10_demings_estimands/</guid>
-      <description>&lt;p&gt;Course given together with Evgeny Degtyarev from Novartis.&lt;/p&gt;
+      <guid>https://numbersman77.netlify.com/teaching/stats/202012_demings_estimands/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Answering Old Questions with New Tools: Application of the ICH E9 Addendum in Oncology&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Kaspar Rufibach, Roche and Evgeny Degtyarev, Novartis&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moderator&lt;/strong&gt;: Kalyan Ghosh&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;This shortcourse will discuss the application of the ICH E9(R1) estimand addendum to oncology clinical trials. Using examples we will illustrate how the estimand framework supports transparent formulation of clinical trial objective(s) for challenging drug development questions such as&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;treatment switching,&lt;/li&gt;
+&lt;li&gt;complexity of treatment options and existence of potential curative procedures or treatment sequence across different phases in hematological trials,&lt;/li&gt;
+&lt;li&gt;the use of a principal stratum estimand to assess the impact of post-randomization events such as development of antidrug antibodies on efficacy or safety of a new drug.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Often, such type of questions are answered using simplified analyses that are only valid under strong assumptions. To make these assumptions transparent we will discuss estimands, estimation methods, impact on data collection, and experiences with Health Authorities for these scenarios. Finally, we will share our experience in implementing the addendum in large pharmaceutical companies, within biostatistics and for other partner functions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://demingconference.org/topic/session-j/&#34; target=&#34;_blank&#34;&gt;Announcement&lt;/a&gt; of the course on the conference webpage (incl. speaker bios).&lt;/p&gt;
+
+&lt;p&gt;Learn more about the oncology estimand WG on its &lt;a href=&#34;http://www.oncoestimand.org&#34; target=&#34;_blank&#34;&gt;webpage&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

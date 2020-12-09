@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/tags/statisticians/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020/12: Answering Old Questions with New Tools: Application of the ICH E9 Addendum in Oncology</title>
+      <link>https://numbersman77.netlify.com/teaching/stats/202012_demings_estimands/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/stats/202012_demings_estimands/</guid>
+      <description>Kaspar Rufibach and Evgeny Degtyarev, shortcourse given at 76th Annual Deming Conference on Applied Statistics</description>
+    </item>
     
     <item>
       <title>2020/06: A toolbox for innovative confirmatory trial designs</title>
