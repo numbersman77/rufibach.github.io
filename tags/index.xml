@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://numbersman77.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://numbersman77.netlify.com/tags/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/tags/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>statisticians</title>
       <link>https://numbersman77.netlify.com/tags/statisticians/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/tags/statisticians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nonstatisticians</title>
+      <link>https://numbersman77.netlify.com/tags/nonstatisticians/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/tags/nonstatisticians/</guid>
       <description></description>
     </item>
     
@@ -36,15 +45,6 @@
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/tags/clinicaltrialdesign/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nonstatisticians</title>
-      <link>https://numbersman77.netlify.com/tags/nonstatisticians/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/tags/nonstatisticians/</guid>
       <description></description>
     </item>
     

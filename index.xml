@@ -6,8 +6,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How can the estimand framework support decentralized trials?</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2021_1_lungevity/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2021_1_lungevity/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021/02: Answering Old Questions with New Tools: Application of the ICH E9 Addendum in Oncology</title>
+      <link>https://numbersman77.netlify.com/teaching/stats/202102_roche_estimands/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/stats/202102_roche_estimands/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Answering Old Questions with New Tools: Application of the ICH E9 Addendum in Oncology&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Kaspar Rufibach and Godwin Yung, Roche&lt;/p&gt;
+
+&lt;p&gt;This is a re-hash of the Deming conference course I gave with Evgeny Degtyarev, see &lt;a href=&#34;https://numbersman77.netlify.app/teaching/stats/202012_demings_estimands/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021/02: Introduction to statistics.</title>
+      <link>https://numbersman77.netlify.com/teaching/nonstats/2021_1_pdma_basel/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/teaching/nonstats/2021_1_pdma_basel/</guid>
+      <description>&lt;p&gt;Two 2-hour courses for all Medical Science Liaison colleagues within Medical Affairs (virtual event).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2020/12: Answering Old Questions with New Tools: Application of the ICH E9 Addendum in Oncology</title>
@@ -162,33 +196,6 @@
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_03_heme_estimand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survival analysis for AdVerse events with VarYing follow-up times (SAVVY): Rationale and statistical concept of a meta-analytic study</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_02_savvy_sap/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_02_savvy_sap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing the impact of COVID-19 on the objective and analysis of oncology clinical trials - application of the estimand framework</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_01_estimand_covid/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_01_estimand_covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrating Phase 2 into Phase 3 based on an Intermediate Endpoint While Accounting for a Cure Proportion</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2019_04_mirros/</guid>
       <description></description>
     </item>
     
