@@ -34,6 +34,60 @@
     </item>
     
     <item>
+      <title>Conditional Power and Friends: The Why and How of (Un)planned, Unblinded Sample Size Recalculations in Confirmatory Trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_07_reestimation/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_07_reestimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival analysis for AdVerse events with VarYing follow-up times (SAVVY) - comparison of adverse event risks in randomized controlled trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_06_savvy_2sample/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_06_savvy_2sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival analysis for AdVerse events with VarYing follow-up times (SAVVY) - estimation of adverse event risks</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_05_savvy_1sample/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_05_savvy_1sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_04_bayes_samplesize/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_04_bayes_samplesize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimands for Overall Survival in Clinical Trials with Treatment Switching</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_03_estimand_switching/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_03_estimand_switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Stratum Strategy: Potential Role in Drug Development</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_02_principal_stratification/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_02_principal_stratification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2021/02: Introduction to statistics.</title>
       <link>https://numbersman77.netlify.com/teaching/nonstats/2021_1_pdma_basel/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -41,6 +95,15 @@
       <guid>https://numbersman77.netlify.com/teaching/nonstats/2021_1_pdma_basel/</guid>
       <description>&lt;p&gt;Two 2-hour courses for all Medical Science Liaison colleagues within Medical Affairs (virtual event).&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Estimands in Hematology Trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_01_heme_estimand/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_01_heme_estimand/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -107,15 +170,6 @@
     </item>
     
     <item>
-      <title>Conditional Power and Friends: The Why and How of (Un)planned, Unblinded Sample Size Recalculations in Confirmatory Trials</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_09_reestimation/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_09_reestimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>github repository and markdown file for SAVVY project: Survival analysis for AdVerse events with VarYing follow-up times</title>
       <link>https://numbersman77.netlify.com/software/savvy/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
@@ -132,15 +186,6 @@
     </item>
     
     <item>
-      <title>Principal Stratum Strategy: Potential Role in Drug Development</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_08_principal_stratification/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_08_principal_stratification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>github repository and markdown file for different analysis methods for principal stratum estimands motivated by the principal ignorability assumption</title>
       <link>https://numbersman77.netlify.com/software/principalstratification/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
@@ -152,51 +197,6 @@
 &lt;a href=&#34;https://oncoestimand.github.io/princ_strat_drug_dev/princ_strat_example.html&#34; target=&#34;_blank&#34;&gt;markdown&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2008.05406&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Survival analysis for AdVerse events with VarYing follow-up times (SAVVY) - comparison of adverse event risks in randomized controlled trials</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_07_savvy_2sample/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_07_savvy_2sample/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survival analysis for AdVerse events with VarYing follow-up times (SAVVY) - estimation of adverse event risks</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_06_savvy_1sample/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_06_savvy_1sample/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_05_bayes_samplesize/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_05_bayes_samplesize/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimands for Overall Survival in Clinical Trials with Treatment Switching</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_04_estimand_switching/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_04_estimand_switching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimands in Hematology Trials</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2020_03_heme_estimand/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2020_03_heme_estimand/</guid>
-      <description></description>
     </item>
     
   </channel>
