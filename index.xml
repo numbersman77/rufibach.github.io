@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stop the abuse: A plea for a more principled approach to the analysis of adverse events (talk together with Tim Friede)?</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2021_2_dia_europe/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2021_2_dia_europe/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>How can the estimand framework support decentralized trials?</title>
@@ -61,20 +71,20 @@
     </item>
     
     <item>
-      <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_04_bayes_samplesize/</link>
+      <title>Estimands for Overall Survival in Clinical Trials with Treatment Switching</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_04_estimand_switching/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_04_bayes_samplesize/</guid>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_04_estimand_switching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Estimands for Overall Survival in Clinical Trials with Treatment Switching</title>
-      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_03_estimand_switching/</link>
+      <title>A review of Bayesian perspectives on sample size derivation for confirmatory trials</title>
+      <link>https://numbersman77.netlify.com/publication/stats_articles/2021_03_bayes_samplesize/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_03_estimand_switching/</guid>
+      <guid>https://numbersman77.netlify.com/publication/stats_articles/2021_03_bayes_samplesize/</guid>
       <description></description>
     </item>
     
@@ -182,20 +192,6 @@
 &lt;a href=&#34;https://arxiv.org/abs/1912.00263&#34; target=&#34;_blank&#34;&gt;Paper: Statistical Analysis Plan of SAVVY project&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2008.07883&#34; target=&#34;_blank&#34;&gt;Paper: Estimation of AE risks&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2008.07881&#34; target=&#34;_blank&#34;&gt;Paper: Comparison of AE risk in a two-arm RCT&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>github repository and markdown file for different analysis methods for principal stratum estimands motivated by the principal ignorability assumption</title>
-      <link>https://numbersman77.netlify.com/software/principalstratification/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/software/principalstratification/</guid>
-      <description>&lt;p&gt;The code in this github repository allows to reproduce all computations in the paper &amp;ldquo;Principal Stratum Strategy: Potential Role in Drug Development&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/oncoestimand/princ_strat_drug_dev&#34; target=&#34;_blank&#34;&gt;github repository&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://oncoestimand.github.io/princ_strat_drug_dev/princ_strat_example.html&#34; target=&#34;_blank&#34;&gt;markdown&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://arxiv.org/abs/2008.05406&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
