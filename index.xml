@@ -10,12 +10,14 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>PSI One-Day Meeting: Non-proportional hazards and applications in immuno-oncology</title>
+      <title>Mirros: Phase 3 trial with time to event endpoint, a cure proportion, and a futility analysis using response</title>
       <link>https://numbersman77.netlify.com/talk/invited/2021_3_psi_mirros/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0100</pubDate>
       
       <guid>https://numbersman77.netlify.com/talk/invited/2021_3_psi_mirros/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1969&#34; target=&#34;_blank&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
