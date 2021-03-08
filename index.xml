@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PSI One-Day Meeting: Non-proportional hazards and applications in immuno-oncology</title>
+      <link>https://numbersman77.netlify.com/talk/invited/2021_3_psi_mirros/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://numbersman77.netlify.com/talk/invited/2021_3_psi_mirros/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Stop the abuse: A plea for a more principled approach to the analysis of adverse events (talk together with Tim Friede)?</title>
@@ -175,16 +185,6 @@
 &lt;li&gt;How do you implement/calculate corresponding estimates for this estimand?&lt;/li&gt;
 &lt;li&gt;What references would you recommend for further reading?&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Estimands update: Summary of world-wide authority interaction</title>
-      <link>https://numbersman77.netlify.com/talk/invited/2020_9_apf_estimands/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://numbersman77.netlify.com/talk/invited/2020_9_apf_estimands/</guid>
-      <description>&lt;p&gt;Talk given together with Hannes Buchner from Staburo.&lt;/p&gt;
 </description>
     </item>
     
